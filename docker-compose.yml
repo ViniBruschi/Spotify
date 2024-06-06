@@ -1,0 +1,19 @@
+version: '3.1'
+services:
+  postgresql:
+    container_name: 'my_postgres'
+    image: postgres
+    restart: always
+    environment:
+      POSTGRES_PASSWORD: password
+    ports:
+      - "5433:5432"
+  pgadmin:
+    image: dpage/pgadmin4
+    environment:
+      PGADMIN_DEFAULT_EMAIL: "seuemail@email.com"
+      PGADMIN_DEFAULT_PASSWORD: "senha1"
+    ports:
+      - "8090:80"
+    depends_on:
+      - postgresql
