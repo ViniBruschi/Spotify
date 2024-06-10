@@ -63,6 +63,7 @@ CREATE TABLE public.Tracks (
     id VARCHAR(255) PRIMARY KEY,
     name VARCHAR(255) NOT NULL,
     duration_ms INTEGER,
+    track_number INTEGER,
     album_id VARCHAR(255) REFERENCES public.Albums(id),
     artist_id VARCHAR(255) REFERENCES public.Artists(id)
 );
