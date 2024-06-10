@@ -1,6 +1,8 @@
-import os, requests, psycopg2
+import os
 from dotenv import load_dotenv
+import requests
 from spotify_credentials import client_id, client_secret, getAccessToken
+import psycopg2
 
 load_dotenv()
 DB_USER = os.getenv("DB_USER")
@@ -9,21 +11,21 @@ DB_HOST = os.getenv("DB_HOST")
 DB_PORT = os.getenv("DB_PORT")
 DB_NAME = os.getenv("DB_NAME")
 
-def getCategories(access_token):
-    url = 'https://api.spotify.com/v1/browse/categories'
+def getMarkets(access_token):
+    markets_url = 'https://api.spotify.com/v1/markets'
     headers = {
         'Authorization': f'Bearer {access_token}'
     }
-    response = requests.get(url, headers=headers)
+    response = requests.get(markets_url, headers=headers)
     if response.status_code == 200:
         data = response.json()
-        categories = data.get('categories', {}).get('items', [])
-        return categories, data
+        markets = data.get('markets', [])
+        return markets
     else:
-        print("Erro ao obter categorias:", response.status_code)
-        return [], {}
+        print("Erro ao obter mercados:", response.status_code)
+        return []
 
-def insertCategories(categories):
+def insertMarkets(markets):
     try:
         connection = psycopg2.connect(
             user=DB_USER,
@@ -33,15 +35,12 @@ def insertCategories(categories):
             database=DB_NAME
         )
         cursor = connection.cursor()
-        for category in categories:
-            cursor.execute(
-                "INSERT INTO public.Categories (id, name) VALUES (%s, %s) ON CONFLICT (id) DO NOTHING",
-                (category['id'], category['name'])
-            )
+        for market in markets:
+            cursor.execute("INSERT INTO public.Markets (country) VALUES (%s)", (market,))
         connection.commit()
-        print("Categorias foram inseridas no banco de dados com sucesso!")
+        print("Mercados foram inseridos no banco de dados com sucesso!")
     except (Exception, psycopg2.Error) as error:
-        print("Erro ao inserir categorias no banco de dados:", error)
+        print("Erro ao inserir Mercados no banco de dados:", error)
     finally:
         if connection:
             cursor.close()
@@ -49,8 +48,8 @@ def insertCategories(categories):
 
 if __name__ == "__main__":
     access_token = getAccessToken(client_id, client_secret)
-    categories, categories_json = getCategories(access_token)
-    if categories:
-        insertCategories(categories)
+    genres = getMarkets(access_token)
+    if genres:
+        insertMarkets(genres)
     else:
-        print("Nenhuma categoria foi encontrada.")
+        print("Nenhum Mercado foi encontrado.")

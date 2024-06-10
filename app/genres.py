@@ -1,8 +1,6 @@
-import os
+import os, requests, psycopg2
 from dotenv import load_dotenv
-import requests
 from spotify_credentials import client_id, client_secret, getAccessToken
-import psycopg2
 
 load_dotenv()
 DB_USER = os.getenv("DB_USER")
@@ -12,14 +10,14 @@ DB_PORT = os.getenv("DB_PORT")
 DB_NAME = os.getenv("DB_NAME")
 
 def getGenres(access_token):
-    genres_url = 'https://api.spotify.com/v1/recommendations/available-genre-seeds'
+    url = 'https://api.spotify.com/v1/recommendations/available-genre-seeds'
     headers = {
         'Authorization': f'Bearer {access_token}'
     }
-    response = requests.get(genres_url, headers=headers)
+    response = requests.get(url, headers=headers)
     if response.status_code == 200:
-        genres_json = response.json()
-        genres = genres_json.get('genres', [])
+        data = response.json()
+        genres = data.get('genres', [])
         return genres
     else:
         print("Erro ao obter gêneros:", response.status_code)
