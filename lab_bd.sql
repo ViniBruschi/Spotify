@@ -25,7 +25,6 @@ CREATE TABLE public.Audiobooks (
     authors TEXT[],
     narrators TEXT[],
     publisher VARCHAR(255),
-    release_date DATE,
     total_chapters INTEGER
 );
 
@@ -54,9 +53,9 @@ CREATE TABLE public.Markets (
 CREATE TABLE public.Playlists (
     id VARCHAR(255) PRIMARY KEY,
     name VARCHAR(255) NOT NULL,
-    user_id VARCHAR(255) REFERENCES public.Users(id),
+    display_name VARCHAR(255),
     description TEXT,
-    public BOOLEAN
+    collaborative BOOLEAN
 );
 
 CREATE TABLE public.Tracks (
@@ -72,6 +71,7 @@ CREATE TABLE public.Chapters (
     id VARCHAR(255) PRIMARY KEY,
     name VARCHAR(255) NOT NULL,
     duration_ms INTEGER,
+    release_date DATE,
     audiobook_id VARCHAR(255) REFERENCES public.Audiobooks(id)
 );
 
