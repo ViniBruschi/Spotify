@@ -38,9 +38,10 @@ def insertAudiobooks(audiobook):
             database=DB_NAME
         )
         cursor = connection.cursor()
-        print(audiobook)
-        sql = """INSERT INTO public.Audiobooks (id, name, authors, narrators, publisher, total_chapters) VALUES (%s, %s, %s, %s, %s, %s, %s)"""
-        val = (audiobook['id'], audiobook['name'], audiobook['authors'], audiobook['narrators'], audiobook['publisher'], audiobook['total_chapters'])
+        sql = """INSERT INTO public.Audiobooks (id, name, authors, narrators, publisher, total_chapters) VALUES (%s, %s, %s, %s, %s, %s) ON CONFLICT DO NOTHING"""
+        authors = [author['name'] for author in audiobook['authors']]
+        narrators = [narrator['name'] for narrator in audiobook['narrators']]
+        val = (audiobook['id'], audiobook['name'], authors, narrators, audiobook['publisher'], audiobook['total_chapters'])
         cursor.execute(sql, val)
         connection.commit()
         print(f"Audiobook '{audiobook['name']}' inserido com sucesso no banco de dados.")
@@ -51,7 +52,7 @@ def insertAudiobooks(audiobook):
             cursor.close()
             connection.close()
 
-def findShow(audiobook_name):
+def findAudiobook(audiobook_name):
     try:
         connection = psycopg2.connect(
             user=DB_USER,
@@ -61,20 +62,21 @@ def findShow(audiobook_name):
             database=DB_NAME
         )
         cursor = connection.cursor()
-        sql = "SELECT id FROM public.Shows WHERE name ILIKE %s"
+        sql = "SELECT id FROM public.Audiobooks WHERE name ILIKE %s"
         cursor.execute(sql, ('%' + audiobook_name + '%',))
         audiobook = cursor.fetchone()
         if audiobook:
+            print(f"Audiobook '{audiobook_name}' encontrado no banco de dados")
             return audiobook[0]
         else:
             return None
     except (Exception, psycopg2.Error) as error:
-        print(f"Erro ao buscar o podcast '{audiobook_name}' no banco de dados:", error)
+        print(f"Erro ao buscar o audiobook '{audiobook_name}' no banco de dados:", error)
     finally:
         if connection:
             cursor.close()
             connection.close()
-
+            
 if __name__ == "__main__":
     filepath = os.path.join('dados', 'audiobooks.txt')
     with open(filepath, 'r', encoding='utf-8') as file:

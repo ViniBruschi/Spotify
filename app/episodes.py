@@ -46,7 +46,7 @@ def insertEpisode(show_id, episode):
             connection.close()
 
 if __name__ == "__main__":
-    filepath = os.path.join('dados', 'shows.txt')
+    filepath = os.path.join('dados', 'episodes.txt')
     with open(filepath, 'r', encoding='utf-8') as file:
         for line in file:
             show_name = line.strip()

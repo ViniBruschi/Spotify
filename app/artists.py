@@ -37,8 +37,8 @@ def insertArtist(artist):
             database=DB_NAME
         )
         cursor = connection.cursor()
-        sql = """INSERT INTO public.Artists (id, name, genres, followers, type) VALUES (%s, %s, %s, %s, %s)"""
-        val = (artist['id'], artist['name'], artist['genres'], artist['followers']['total'], artist['type'])
+        sql = """INSERT INTO public.Artists (id, name, genres, followers, popularity) VALUES (%s, %s, %s, %s, %s) ON CONFLICT DO NOTHING"""
+        val = (artist['id'], artist['name'], artist['genres'], artist['followers']['total'], artist['popularity'])
         cursor.execute(sql, val)
         connection.commit()
         print(f"Artista '{artist['name']}' inserido com sucesso no banco de dados.")

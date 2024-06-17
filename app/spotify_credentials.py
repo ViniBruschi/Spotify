@@ -1,5 +1,5 @@
 client_id = '2ee0ca64c6294613b3a0108fcea4505d'
-client_secret = '44484c2643574b63937a85c18f34d59e'
+client_secret = '40e234948a7e4a4f8a025afe7e302358'
 
 def getAccessToken(client_id, client_secret):
     import requests

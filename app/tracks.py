@@ -33,13 +33,37 @@ def insertTrack(album_id, track):
             database=DB_NAME
         )
         cursor = connection.cursor()
-        sql = """INSERT INTO public.Tracks (id, name, duration_ms, album_id, artist_id, track_number) VALUES (%s, %s, %s, %s, %s, %s)"""
+        sql = """INSERT INTO public.Tracks (id, name, duration_ms, album_id, artist_id, track_number) VALUES (%s, %s, %s, %s, %s, %s) ON CONFLICT DO NOTHING"""
         val = (track['id'], track['name'], track['duration_ms'], album_id, track['artists'][0]['id'], track['track_number'])
         cursor.execute(sql, val)
         connection.commit()
         print(f"Faixa '{track['name']}' inserido com sucesso no banco de dados.")
     except (Exception, psycopg2.Error) as error:
         print(f"Erro ao inserir a faixa '{track['name']}' no banco de dados:", error)
+    finally:
+        if connection:
+            cursor.close()
+            connection.close()
+
+def findTrack(track_id):
+    try:
+        connection = psycopg2.connect(
+            user=DB_USER,
+            password=DB_PASSWORD,
+            host=DB_HOST,
+            port=DB_PORT,
+            database=DB_NAME
+        )
+        cursor = connection.cursor()
+        sql = "SELECT id FROM public.Tracks WHERE id = %s"
+        cursor.execute(sql, (track_id,))
+        track = cursor.fetchone()
+        if track:
+            return track[0]
+        else:
+            return None
+    except (Exception, psycopg2.Error) as error:
+        print(f"Erro ao buscar a faixa '{track_id}' no banco de dados:", error)
     finally:
         if connection:
             cursor.close()

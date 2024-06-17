@@ -37,7 +37,7 @@ def insertAlbum(album):
             database=DB_NAME
         )
         cursor = connection.cursor()
-        sql = """INSERT INTO public.Albums (id, name, release_date, total_tracks, artist_id, album_type) VALUES (%s, %s, %s, %s, %s, %s)"""
+        sql = """INSERT INTO public.Albums (id, name, release_date, total_tracks, artist_id, album_type) VALUES (%s, %s, %s, %s, %s, %s) ON CONFLICT DO NOTHING"""
         val = (album['id'], album['name'], album['release_date'], album['total_tracks'], album['artists'][0]['id'], album['type'])
         cursor.execute(sql, val)
         connection.commit()

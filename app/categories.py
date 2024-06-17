@@ -14,16 +14,31 @@ def getCategories(access_token):
     headers = {
         'Authorization': f'Bearer {access_token}'
     }
+    limit = 50
+    offset = 0
+    all_categories = []
     response = requests.get(url, headers=headers)
-    if response.status_code == 200:
-        data = response.json()
-        categories = data.get('categories', {}).get('items', [])
-        return categories, data
-    else:
-        print("Erro ao obter categorias:", response.status_code)
-        return [], {}
+    while True:
+        params = {
+            'limit': limit,
+            'offset': offset
+        }
+        response = requests.get(url, headers=headers, params=params)
 
-def insertCategories(categories):
+        if response.status_code == 200:
+            data = response.json()
+            categories = data.get('categories', {}).get('items', [])
+            all_categories.extend(categories)
+            if len(categories) < limit:
+                break
+            offset += limit
+        else:
+            print(f'Erro ao buscar categorias:', response.status_code)
+            return None
+
+    return all_categories
+
+def insertCategories(category):
     try:
         connection = psycopg2.connect(
             user=DB_USER,
@@ -33,15 +48,14 @@ def insertCategories(categories):
             database=DB_NAME
         )
         cursor = connection.cursor()
-        for category in categories:
-            cursor.execute(
-                "INSERT INTO public.Categories (id, name) VALUES (%s, %s) ON CONFLICT (id) DO NOTHING",
-                (category['id'], category['name'])
-            )
+        cursor.execute(
+            "INSERT INTO public.Categories (id, name) VALUES (%s, %s) ON CONFLICT (id) DO NOTHING",
+            (category['id'], category['name'])
+        )
         connection.commit()
-        print("Categorias foram inseridas no banco de dados com sucesso!")
+        print(f"Categoria {category['name']} foi inserida no banco de dados!")
     except (Exception, psycopg2.Error) as error:
-        print("Erro ao inserir categorias no banco de dados:", error)
+        print(f"Erro ao inserir categoria {category['name']} no banco de dados:", error)
     finally:
         if connection:
             cursor.close()
@@ -49,8 +63,9 @@ def insertCategories(categories):
 
 if __name__ == "__main__":
     access_token = getAccessToken(client_id, client_secret)
-    categories, categories_json = getCategories(access_token)
+    categories = getCategories(access_token)
     if categories:
-        insertCategories(categories)
+        for category in categories:
+            insertCategories(category)
     else:
         print("Nenhuma categoria foi encontrada.")

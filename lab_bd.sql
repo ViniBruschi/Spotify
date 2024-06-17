@@ -9,7 +9,7 @@ CREATE TABLE public.Artists (
     name VARCHAR(255) NOT NULL,
     genres TEXT[],
     followers INTEGER,
-    type VARCHAR(50)
+    popularity INTEGER
 );
 
 CREATE TABLE public.Shows (
@@ -70,6 +70,7 @@ CREATE TABLE public.Tracks (
 CREATE TABLE public.Chapters (
     id VARCHAR(255) PRIMARY KEY,
     name VARCHAR(255) NOT NULL,
+    chapter_number INTEGER,
     duration_ms INTEGER,
     release_date DATE,
     audiobook_id VARCHAR(255) REFERENCES public.Audiobooks(id)

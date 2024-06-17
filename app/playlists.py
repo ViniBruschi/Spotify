@@ -1,28 +1,29 @@
-import os, requests, psycopg2
+import os
+import requests
+import psycopg2
 from dotenv import load_dotenv
 from spotify_credentials import client_id, client_secret, getAccessToken
+from albums import insertAlbum, findAlbum
+from tracks import insertTrack, findTrack
+from artists import findArtist, getArtist, insertArtist
 
 load_dotenv()
+
 DB_USER = os.getenv("DB_USER")
 DB_PASSWORD = os.getenv("DB_PASSWORD")
 DB_HOST = os.getenv("DB_HOST")
 DB_PORT = os.getenv("DB_PORT")
 DB_NAME = os.getenv("DB_NAME")
 
-def getPlaylist(playlist_name, access_token):
-    url = 'https://api.spotify.com/v1/search'
-    params = {
-        'q': playlist_name,
-        'type': 'playlist',
-        'limit': 1
-    }
+def getPlaylist(playlist_id, access_token):
+    url = f'https://api.spotify.com/v1/playlists/{playlist_id}'
     headers = {
         'Authorization': f'Bearer {access_token}'
     }
-    response = requests.get(url, params=params, headers=headers)
+    response = requests.get(url, headers=headers)
     if response.status_code == 200:
         data = response.json()
-        return data['playlists']['items'][0] if data['playlists']['items'] else None
+        return data
     else:
         print('Erro ao buscar playlist:', response.status_code)
         return None
@@ -49,40 +50,79 @@ def insertPlaylist(playlist):
             cursor.close()
             connection.close()
 
-# def getPlaylistTracks(playlist_id):
-#     try:
-#         connection = psycopg2.connect(
-#             user=DB_USER,
-#             password=DB_PASSWORD,
-#             host=DB_HOST,
-#             port=DB_PORT,
-#             database=DB_NAME
-#         )
-#         cursor = connection.cursor()
-#         sql = """INSERT INTO public.PlaylistTracks (playlist_id, track_id) VALUES (%s, %s)"""
-#         val = (playlist_id)
-#         cursor.execute(sql, val)
-#         playlist = cursor.fetchone()
-#         if playlist:
-#             return playlist[0]
-#         else:
-#             return None
-#     except (Exception, psycopg2.Error) as error:
-#         print(f"Erro ao buscar a playlist '{playlist_name}' no banco de dados:", error)
-#     finally:
-#         if connection:
-#             cursor.close()
-#             connection.close()
+def getPlaylistTracks(playlist_id, access_token):
+    url = f'https://api.spotify.com/v1/playlists/{playlist_id}/tracks'
+    headers = {
+        'Authorization': f'Bearer {access_token}'
+    }
+    limit = 50
+    offset = 0
+    all_tracks = []
+
+    while True:
+        params = {
+            'limit': limit,
+            'offset': offset
+        }
+        response = requests.get(url, headers=headers, params=params)
+
+        if response.status_code == 200:
+            data = response.json()
+            tracks = data.get('items', [])
+            all_tracks.extend(tracks)
+            if len(tracks) < limit:
+                break
+            offset += limit
+        else:
+            print(f'Erro ao buscar faixas da playlist {playlist_id}:', response.status_code)
+            return None
+
+    return all_tracks
+
+def insertPlaylistTrack(playlist_id, track_id):
+    try:
+        connection = psycopg2.connect(
+            user=DB_USER,
+            password=DB_PASSWORD,
+            host=DB_HOST,
+            port=DB_PORT,
+            database=DB_NAME
+        )
+        cursor = connection.cursor()
+        sql = """INSERT INTO public.PlaylistTracks (playlist_id, track_id) VALUES (%s, %s)"""
+        val = (playlist_id, track_id)
+        cursor.execute(sql, val)
+        connection.commit()
+    except (Exception, psycopg2.Error) as error:
+        print(f"Erro ao inserir a faixa '{track_id}' da playlist '{playlist_id}' no banco de dados:", error)
+    finally:
+        if connection:
+            cursor.close()
+            connection.close()
 
 if __name__ == "__main__":
     filepath = os.path.join('dados', 'playlists.txt')
     with open(filepath, 'r', encoding='utf-8') as file:
         for line in file:
-            playlist_name = line.strip()
+            playlist_id = line.strip()
             access_token = getAccessToken(client_id, client_secret)
-            playlist_data = getPlaylist(playlist_name, access_token)
+            playlist_data = getPlaylist(playlist_id, access_token)
             if playlist_data:
                 insertPlaylist(playlist_data)
+                tracks = getPlaylistTracks(playlist_id, access_token)
+                if tracks:
+                    for track_item in tracks:
+                        track = track_item['track']
+                        album_id = track['album']['id']
+                        for artist in track['artists']:
+                            artist_name = artist['name']
+                            access_token = getAccessToken(client_id, client_secret)
+                            artist_info = getArtist(artist_name, access_token)
+                            if artist_info:
+                                insertArtist(artist_info)
+
+                        insertAlbum(track['album'])
+                        insertTrack(album_id, track)
+                        insertPlaylistTrack(playlist_data['id'], track['id'])
             else:
-                print(f"Nenhuma playlist foi encontrado para '{playlist_name}'.")
-            # findPlaylist()
+                print(f"Nenhuma playlist foi encontrada para '{playlist_id}'.")
