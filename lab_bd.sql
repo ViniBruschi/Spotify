@@ -55,7 +55,8 @@ CREATE TABLE public.Playlists (
     name VARCHAR(255) NOT NULL,
     display_name VARCHAR(255),
     description TEXT,
-    collaborative BOOLEAN
+    collaborative BOOLEAN,
+    user_id VARCHAR(255) REFERENCES public.Users(id)
 );
 
 CREATE TABLE public.Tracks (
