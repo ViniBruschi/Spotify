@@ -38,8 +38,8 @@ def insertPlaylist(playlist):
             database=DB_NAME
         )
         cursor = connection.cursor()
-        sql = """INSERT INTO public.Playlists (id, name, display_name, description, collaborative) VALUES (%s, %s, %s, %s, %s)"""
-        val = (playlist['id'], playlist['name'], playlist['owner']['display_name'], playlist['description'], playlist['collaborative'])
+        sql = """INSERT INTO public.Playlists (id, name, display_name, description, collaborative, user_id) VALUES (%s, %s, %s, %s, %s, %s)"""
+        val = (playlist['id'], playlist['name'], playlist['owner']['display_name'], playlist['description'], playlist['collaborative'], playlist['owner']['id'])
         cursor.execute(sql, val)
         connection.commit()
         print(f"Playlist '{playlist['name']}' inserido com sucesso no banco de dados.")
