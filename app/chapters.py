@@ -76,9 +76,9 @@ def insertChapter(audiobook_id, chapter):
 if __name__ == "__main__":
     filepath = os.path.join('dados', 'chapters.txt')
     with open(filepath, 'r', encoding='utf-8') as file:
+        access_token = getAccessToken(client_id, client_secret)
         for line in file:
             audiobook_name = line.strip()
-            access_token = getAccessToken(client_id, client_secret)
             audiobook_id = findAudiobook(audiobook_name)
             if audiobook_id:
                 chapters = getChapters(audiobook_id, access_token)

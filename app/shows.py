@@ -77,9 +77,9 @@ def findShow(show_name):
 if __name__ == "__main__":
     filepath = os.path.join('dados', 'shows.txt')
     with open(filepath, 'r', encoding='utf-8') as file:
+        access_token = getAccessToken(client_id, client_secret)
         for line in file:
             show_name = line.strip()
-            access_token = getAccessToken(client_id, client_secret)
             show_data = getShow(show_name, access_token)
             if show_data:
                 insertShows(show_data)

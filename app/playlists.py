@@ -3,9 +3,7 @@ import requests
 import psycopg2
 from dotenv import load_dotenv
 from spotify_credentials import client_id, client_secret, getAccessToken
-from albums import insertAlbum, findAlbum
-from tracks import insertTrack, findTrack
-from artists import findArtist, getArtist, insertArtist
+from tracks import findTrack
 
 load_dotenv()
 
@@ -38,7 +36,7 @@ def insertPlaylist(playlist):
             database=DB_NAME
         )
         cursor = connection.cursor()
-        sql = """INSERT INTO public.Playlists (id, name, display_name, description, collaborative, user_id) VALUES (%s, %s, %s, %s, %s, %s)"""
+        sql = """INSERT INTO public.Playlists (id, name, display_name, description, collaborative, user_id) VALUES (%s, %s, %s, %s, %s, %s) ON CONFLICT DO NOTHING"""
         val = (playlist['id'], playlist['name'], playlist['owner']['display_name'], playlist['description'], playlist['collaborative'], playlist['owner']['id'])
         cursor.execute(sql, val)
         connection.commit()
@@ -89,7 +87,7 @@ def insertPlaylistTrack(playlist_id, track_id):
             database=DB_NAME
         )
         cursor = connection.cursor()
-        sql = """INSERT INTO public.PlaylistTracks (playlist_id, track_id) VALUES (%s, %s)"""
+        sql = """INSERT INTO public.PlaylistTracks (playlist_id, track_id) VALUES (%s, %s) ON CONFLICT DO NOTHING"""
         val = (playlist_id, track_id)
         cursor.execute(sql, val)
         connection.commit()
@@ -113,16 +111,10 @@ if __name__ == "__main__":
                 if tracks:
                     for track_item in tracks:
                         track = track_item['track']
-                        album_id = track['album']['id']
-                        for artist in track['artists']:
-                            artist_name = artist['name']
-                            access_token = getAccessToken(client_id, client_secret)
-                            artist_info = getArtist(artist_name, access_token)
-                            if artist_info:
-                                insertArtist(artist_info)
-
-                        insertAlbum(track['album'])
-                        insertTrack(album_id, track)
-                        insertPlaylistTrack(playlist_data['id'], track['id'])
+                        track_id = findTrack(track['id'])
+                        if track_id:
+                            insertPlaylistTrack(playlist_data['id'], track['id'])
+                        else:
+                            print(f"Faixa {track['name']} não encontrada no banco de dados")
             else:
                 print(f"Nenhuma playlist foi encontrada para '{playlist_id}'.")

@@ -49,7 +49,7 @@ def insertCategories(category):
         )
         cursor = connection.cursor()
         cursor.execute(
-            "INSERT INTO public.Categories (id, name) VALUES (%s, %s) ON CONFLICT (id) DO NOTHING",
+            "INSERT INTO public.Categories (id, name) VALUES (%s, %s)",
             (category['id'], category['name'])
         )
         connection.commit()

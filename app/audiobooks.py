@@ -80,9 +80,9 @@ def findAudiobook(audiobook_name):
 if __name__ == "__main__":
     filepath = os.path.join('dados', 'audiobooks.txt')
     with open(filepath, 'r', encoding='utf-8') as file:
+        access_token = getAccessToken(client_id, client_secret)
         for line in file:
             audiobook_name = line.strip()
-            access_token = getAccessToken(client_id, client_secret)
             audiobook_data = getAudiobook(audiobook_name, access_token)
             if audiobook_data:
                 insertAudiobooks(audiobook_data)

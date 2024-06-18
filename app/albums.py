@@ -1,5 +1,6 @@
 import os, requests, psycopg2
 from dotenv import load_dotenv
+from datetime import datetime
 from spotify_credentials import client_id, client_secret, getAccessToken
 from artists import findArtist
 
@@ -36,9 +37,20 @@ def insertAlbum(album):
             port=DB_PORT,
             database=DB_NAME
         )
+        release_date = album['release_date']
+        precision = album['release_date_precision']
+        if release_date != "0000":
+            if precision == 'year':
+                release_date = datetime.strptime(release_date, '%Y').date().replace(month=1, day=1)
+            elif precision == 'month':
+                release_date = datetime.strptime(release_date, '%Y-%m').date().replace(day=1)
+            else:
+                release_date = datetime.strptime(release_date, '%Y-%m-%d').date()
+        else:
+            release_date = None
         cursor = connection.cursor()
         sql = """INSERT INTO public.Albums (id, name, release_date, total_tracks, artist_id, album_type) VALUES (%s, %s, %s, %s, %s, %s) ON CONFLICT DO NOTHING"""
-        val = (album['id'], album['name'], album['release_date'], album['total_tracks'], album['artists'][0]['id'], album['type'])
+        val = (album['id'], album['name'], release_date, album['total_tracks'], album['artists'][0]['id'], album['type'])
         cursor.execute(sql, val)
         connection.commit()
         print(f"Album '{album['name']}' inserido com sucesso no banco de dados.")
@@ -76,9 +88,9 @@ def findAlbum(album_name):
 if __name__ == "__main__":
     filepath = os.path.join('dados', 'albums.txt')
     with open(filepath, 'r', encoding='utf-8') as file:
+        access_token = getAccessToken(client_id, client_secret)
         for line in file:
             artist_name = line.strip()
-            access_token = getAccessToken(client_id, client_secret)
             artist_data = findArtist(artist_name)
             if artist_data:
                 print(f"Artista encontrado no banco de dados.")

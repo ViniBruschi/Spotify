@@ -1,0 +1,535 @@
+Playlist 'Lord of the Rings' inserido com sucesso no banco de dados.
+Faixa The Prophecy:6ANHfvTsKVUMQD1xD2VAMr não encontrada no banco de dados
+Faixa Concerning Hobbits:644es5aYPJghtZLjM1rmSP não encontrada no banco de dados
+Faixa The Shadow of the Past:2TZOJDEX0TajN8wsUVvz3W não encontrada no banco de dados
+Faixa The Treason of Isengard:4OS6Rl6cSasFeIw7Tq3dLK não encontrada no banco de dados
+Faixa The Black Rider:6qQFz7pPq8lqOLFDxwWfcl não encontrada no banco de dados
+Faixa At the Sign of the Prancing Pony:7fZVaaZUrH8itKO9LBmJln não encontrada no banco de dados
+Faixa A Knife in the Dark:5GsMJInonlNJWpYEqrmGRQ não encontrada no banco de dados
+Faixa Flight to the Ford:3oZKVe0QVMArW3QgaER8rs não encontrada no banco de dados
+Faixa Many Meetings:0VfcYOujgf9JDAgwlgu1qm não encontrada no banco de dados
+Faixa The Council of Elrond (feat. "Aniron") [Theme for Aragorn and Arwen]:3Knohqfb9jeYzL6wMZiWLM não encontrada no banco de dados
+Faixa The Ring Goes South:6IQY3GEMC2B3mchMvi4NZj não encontrada no banco de dados
+Faixa A Journey in the Dark:3PBKcE5sDRSjvcYDjeWZFW não encontrada no banco de dados
+Faixa The Bridge of Khazad Dum:6HYCOHzY2xR4W2dOokH3ed não encontrada no banco de dados
+Faixa Lothlorien (feat. "Lament for Gandalf"):63CXPpiEiW7JnXvZ1cUXcp não encontrada no banco de dados
+Faixa The Great River:7i0nvZRGgVqymOsRbJvQmi não encontrada no banco de dados
+Faixa Amon Hen:5gtiF6aMCLMHMJsRXlSv5V não encontrada no banco de dados
+Faixa The Breaking of the Fellowship (feat. "In Dreams"):1ykbtFnlIjmIFnZ8j6wg6i não encontrada no banco de dados
+Faixa May It Be:7LAJWSKK8JMIZAcblgUMS6 não encontrada no banco de dados
+Faixa Foundations of Stone:4BryltvSec6pZp0cEhjM9E não encontrada no banco de dados
+Faixa The Taming of Smeagol:2C0OjnGfF3u9HMwDfOvLSJ não encontrada no banco de dados
+Faixa The Riders of Rohan:1mJxXKuqwo0TBwf13vBUKH não encontrada no banco de dados
+Faixa The Passage of the Marshes:5LpkX1NtwX7vnVoGetUa0z não encontrada no banco de dados
+Faixa The Uruk-hai:6XzqQBPwLws8fUH2KRBf7d não encontrada no banco de dados
+Faixa The King of the Golden Hall:2O8AQadTJzQ3wdhSNRHdYg não encontrada no banco de dados
+Faixa The Black Gate Is Closed:2v9YfAK8Cf5obcx3WFS4q7 não encontrada no banco de dados
+Faixa Evenstar:1TQKEwq4y9SkNciJuisE1m não encontrada no banco de dados
+Faixa The White Rider:4cnKkXvh0WiFvk0tibAgRW não encontrada no banco de dados
+Faixa Treebeard:1ssKMFrOyRUa0hn2nFvRnR não encontrada no banco de dados
+Faixa The Leave Taking:2ftHoU551MJUEaSeNpQDXY não encontrada no banco de dados
+Faixa Helm's Deep:7wXJbYOY984zsuQFgOV0OK não encontrada no banco de dados
+Faixa The Forbidden Pool:0NZEbtZWPpgXiXNqK6tXnP não encontrada no banco de dados
+Faixa Breath of Life:6yyL0sXRaDi60eVEVJFyZo não encontrada no banco de dados
+Faixa The Hornburg:4XsY5Iq3dNDIGFRQZ0A4At não encontrada no banco de dados
+Faixa Forth Eorlingas:5MlY3mwE2eQlmaYHONLTaO não encontrada no banco de dados
+Faixa Isengard Unleashed:2nGuqMjkSITvVIwV0fCcjB não encontrada no banco de dados
+Faixa Samwise the Brave:0TpzAepHab0NofzyqV6As8 não encontrada no banco de dados
+Faixa Gollum's Song:0mQ1btcyqFDvTpaCFs04cR não encontrada no banco de dados
+Faixa Farewell to Lorien:3tEW3BubSpSzJ6GoCT3cV8 não encontrada no banco de dados
+Faixa A Storm Is Coming:0wicJTv0Jv3xLp37FLb8Eh não encontrada no banco de dados
+Faixa Hope and Memory:3qaPwSJau5W7KiObZmeJCb não encontrada no banco de dados
+Faixa Minas Tirith (feat. Ben Del Maestro):75UQxtu6gUPT5DdipRTM2s não encontrada no banco de dados
+Faixa The White Tree:5qgHL3PBLbTBPPSM8dBE62 não encontrada no banco de dados
+Faixa The Steward of Gondor (feat. Billy Boyd):227hmntzKpN4CsYt3RVKcC não encontrada no banco de dados
+Faixa Minas Morgul:0yaqMD9NrsqIHEPntfXd0z não encontrada no banco de dados
+Faixa The Ride of the Rohirrim:2l0xjJ6Fj72Bw4ReAJBrAo não encontrada no banco de dados
+Faixa Twilight and Shadow (feat. Renee Fleming):1eWsXHpKj3BhE9Uw9Q5XKI não encontrada no banco de dados
+Faixa Cirith Ungol:3Hj4i36KXDlfG6sHsPpuSO não encontrada no banco de dados
+Faixa Anduril:6GO5qVDkPvw2vr07pQChmZ não encontrada no banco de dados
+Faixa Shelob's Lair:2JzuB2RsCTditjUfWfECI0 não encontrada no banco de dados
+Faixa Ash and Smoke:3nEBWfZFqzccZscKZ19riW não encontrada no banco de dados
+Faixa The Fields of the Pelenor:0EkzFsziWwiMmk7sf9eKb7 não encontrada no banco de dados
+Faixa Hope Fails:04kyaVMvZfQcF4FlGPBJWt não encontrada no banco de dados
+Faixa The Black Gate Opens (feat. Sir James Galway):2OcUSuvHINLaIaXXA3tN8M não encontrada no banco de dados
+Faixa The End of All Things (feat. Renee Fleming):4Tcr45Q15hwPGrLBp632Ks não encontrada no banco de dados
+Faixa The Return of the King (feat. Sir James Galway, Viggo Mortensen and Renee Fleming):0FQLQfuCKSlcVSOPscqCJ6 não encontrada no banco de dados
+Faixa The Grey Havens (feat. Sir James Galway):0gt7ei2Fube4V9jnJ5VCKM não encontrada no banco de dados
+Faixa Into the West:0gSEyG7pOFuHM05433EibX não encontrada no banco de dados
+Faixa Blunt the Knives - Bonus Track:1ctwKyh0iPtWavBLd69a9T não encontrada no banco de dados
+Faixa Misty Mountains:4Ma4BH61aVbTpl0LMyArCy não encontrada no banco de dados
+Faixa A Thunder Battle:3yl6Vh6DwCEsq7XbXzEKdw não encontrada no banco de dados
+Faixa Under Hill:06PBVmi9DWCDAogjdC4L6c não encontrada no banco de dados
+Faixa Riddles in the Dark:0TgMqaNAHMHlJJZtZAWTAt não encontrada no banco de dados
+Faixa Brass Buttons:3j97q2nvX5iSZNyFP0GTEz não encontrada no banco de dados
+Faixa Out of the Frying-Pan:3l9R7K5TMMK8C5lP5D9b6e não encontrada no banco de dados
+Faixa A Good Omen:5MVnKLwh8fsd4TfoXH7Lro não encontrada no banco de dados
+Faixa Song of the Lonely Mountain - Extended Version:1HE30keuyuvDPSjejPEFsP não encontrada no banco de dados
+Faixa Dreaming of Bag End:0p45bHdHAi0qV5zaZceDL0 não encontrada no banco de dados
+Faixa A Very Respectable Hobbit - Bonus Track:5BqkqFLgC0CWCfkzNZ00Rz não encontrada no banco de dados
+Faixa Erebor - Bonus Track:7bpP75G6fdDkYE0lT2i7b4 não encontrada no banco de dados
+Faixa The Dwarf Lords - Bonus Track:1dxIolWHHofTz5qGfrIK4I não encontrada no banco de dados
+Faixa The Edge of the Wild - Bonus Track:2ZgmyEc8yBcFMhFU0hBJ5P não encontrada no banco de dados
+Faixa The Quest For Erebor - From "The Hobbit - The Desolation Of Smaug":3HAaPXCaHogIklnuUhnuQX não encontrada no banco de dados
+Faixa Wilderland - From "The Hobbit - The Desolation Of Smaug":1P1OPZUfRI9Awrukl46dF2 não encontrada no banco de dados
+Faixa A Necromancer:45xrz76wXnMjB1eR2zkdH5 não encontrada no banco de dados
+Faixa The House Of Beorn - Extended Version:01AMyHdsDftL1AzPG5wZz8 não encontrada no banco de dados
+Faixa Mirkwood - Extended Version:6677It911zFQH20V63LmnR não encontrada no banco de dados
+Faixa Flies And Spiders - Extended Version:04oXtC6fkQOaZLfRS3pvCS não encontrada no banco de dados
+Faixa The Woodland Realm - Extended Version:1iYZHAZunSORSf6NAdFq97 não encontrada no banco de dados
+Faixa Feast Of Starlight - From "The Hobbit - The Desolation Of Smaug":0OmFvEb5a3iJPwW2h0tTO0 não encontrada no banco de dados
+Faixa Barrels Out Of Bond - From "The Hobbit - The Desolation Of Smaug":4Nl3skW70rdc9un8RfjfxK não encontrada no banco de dados
+Faixa The Forest River - Extended Version:7v9a3K61nCSPHhpYjBKdff não encontrada no banco de dados
+Faixa Bard, A Man Of Lake-Town - Extended Version:6nyyAeCDb9K9hSIAFhE3as não encontrada no banco de dados
+Faixa The High Fells - Extended Version:0cdhUBanCFzocUd7Vc8aYm não encontrada no banco de dados
+Faixa The Nature Of Evil - From "The Hobbit - The Desolation Of Smaug":3vvUc0zzHKn5PBze94pP0V não encontrada no banco de dados
+Faixa Protector Of The Common Folk - From "The Hobbit - The Desolation Of Smaug":231KTETNEzwFObThTxN5Cn não encontrada no banco de dados
+Faixa Thrice Welcome - From "The Hobbit - The Desolation Of Smaug":3AdO1ScONALVRh8xbHuJBm não encontrada no banco de dados
+Faixa Girion, Lord Of Dale - Extended Version:50ANdxuEqWGlPoBuwLfMIb não encontrada no banco de dados
+Faixa Durin's Folk - Extended Version:3EXkFdD97aAdj4gJ2b2q3c não encontrada no banco de dados
+Faixa In The Shadow Of The Mountain - From "The Hobbit - The Desolation Of Smaug":7E99x7JIOJhb9i7HVPYB1b não encontrada no banco de dados
+Faixa A Spell Of Concealment - Extended Version:2SY63YVgD51rzVC0RCB5sl não encontrada no banco de dados
+Faixa On The Doorstep - From "The Hobbit - The Desolation Of Smaug":1S4c1wfQv40lrofxdEUPM7 não encontrada no banco de dados
+Faixa The Courage Of Hobbits - From "The Hobbit - The Desolation Of Smaug":19H030GedsVs3xO2X7my48 não encontrada no banco de dados
+Faixa Inside Information - From "The Hobbit - The Desolation Of Smaug":7gh23Uuoj8ETMnoQVsNsYJ não encontrada no banco de dados
+Faixa Kingsfoil - From "The Hobbit - The Desolation Of Smaug":5WlkdwGMyVp6oroVdPJ86W não encontrada no banco de dados
+Faixa A Liar And A Thief - From "The Hobbit - The Desolation Of Smaug":68snUNsRIwiXakeUtucbwH não encontrada no banco de dados
+Faixa The Hunters - Extended Version:6VvloW3TZSxqff7FkKmyCD não encontrada no banco de dados
+Faixa Smaug - Extended Version:6PSUABM2rDZ3OgA3eCGjwZ não encontrada no banco de dados
+Faixa My Armour Is Iron - From "The Hobbit - The Desolation Of Smaug":62dAk88yE6YnuIgxpvbff3 não encontrada no banco de dados
+Faixa I See Fire - From "The Hobbit - The Desolation Of Smaug":3B7udSGy2PfgoCniMSb523 não encontrada no banco de dados
+Faixa Beyond The Forest - From "The Hobbit - The Desolation Of Smaug":48lrn3wqi6iI8svFD0uesB não encontrada no banco de dados
+Faixa Ironfoot - Extended Version:0066u0Nc8LLFYvln3BmBJd não encontrada no banco de dados
+Faixa Dragon-Sickness:5fDSSojNJ2EUQmMQCbUclT não encontrada no banco de dados
+Faixa Thrain:7t2YBsaQ0uLkOXfA63jcF6 não encontrada no banco de dados
+Playlist 'Traz meu copo 🍺' inserido com sucesso no banco de dados.
+Faixa Medo Bobo - Ao Vivo:2CW04trIoYMbroZWDzPAjs não encontrada no banco de dados
+Faixa Eu Sei de Cor - Ao Vivo | Acústico:45wqPwIH4A5cr2IyyD4WKf não encontrada no banco de dados
+Faixa 10% - Ao Vivo:2wFnRPjuqwNySFiK0Qfg8L não encontrada no banco de dados
+Faixa Decide Aí - Na Praia / Ao Vivo:0jIitZeIQRTaZgFQf2WpGK não encontrada no banco de dados
+Faixa 50 Reais:2DAGCHu5aoo2FOjmtU9ojo não encontrada no banco de dados
+Faixa Paredes - Ao Vivo:2GfxgssRHvY1azHtaRqKoK não encontrada no banco de dados
+Faixa Meu Coração Deu PT - Ao Vivo:6zCqeUUqLb2CapBmVwAHll não encontrada no banco de dados
+Faixa Louca de Saudade - Ao Vivo:2InJDvDcA4RXEeA9njdibl não encontrada no banco de dados
+Faixa Ou Some Ou Soma - Ao Vivo:3dRBzTOu9polrH9U6Vh2zw não encontrada no banco de dados
+Faixa Como É Que a Gente Fica - Ao Vivo:41mt7YrfLrIc4EQJZFCJtw não encontrada no banco de dados
+Faixa Sosseguei - Ao Vivo:1xFgXCY8Zvo76gHg4RgUaU não encontrada no banco de dados
+Faixa A Rosa E O Beija-Flor - Na Praia / Ao Vivo:4GQVVsUnMbZeKIx9vguKlg não encontrada no banco de dados
+Faixa Vou Voando - Ao Vivo:1WCn5QBp0Kl9uHrR0J02GS não encontrada no banco de dados
+Faixa Nada Nada - Ao Vivo:0GR7ZABhVF9GbxghIx2RRv não encontrada no banco de dados
+Faixa Que Sorte A Nossa - Live:4rWCLK8mfQ6JpArmgIT8aK não encontrada no banco de dados
+Faixa Incerteza - Na Praia / Ao Vivo:1FTsXXwai3jVXhBTLd4e4L não encontrada no banco de dados
+Faixa Made In Roça:7clSIA4MRU6LJAoCWWEiuy não encontrada no banco de dados
+Faixa Pra Sempre Com Você - Ao Vivo:2KGv51jgAz8OTjNPyRryfq não encontrada no banco de dados
+Faixa Pot-Pourri: Tem Nada a Ver / Te Cuida Coração - Ao Vivo:49YDI5UEO5qwICES8Y8uMi não encontrada no banco de dados
+Faixa Seu Astral - Ao Vivo:2VCBznqS9pHibDerZgZNoO não encontrada no banco de dados
+Faixa Espelho - Ao Vivo:0XgIrW4bDmRqO5bzA3UeHS não encontrada no banco de dados
+Faixa O Que É Que Tem - Ao Vivo:4KXUYDCjfKLs4RyzcwOHrk não encontrada no banco de dados
+Faixa Pot-Pourri: Pode Chorar / Voa Beija-Flor / Flor - Ao Vivo:7uXbenxrpLtmMXxP198nlz não encontrada no banco de dados
+Faixa O Mundo É Tão Pequeno - Ao Vivo:6lqtnZCjmzqjkAsCOtDLB3 não encontrada no banco de dados
+Faixa Se Eu Pedir Cê Volta - Ao Vivo:72sSTSSSrf1MARGWqLmyvg não encontrada no banco de dados
+Faixa Mil Anos - Ao Vivo:3nyOIs20XEpHbaCa12Rpvx não encontrada no banco de dados
+Faixa Solteiro de Novo - Ao Vivo:0Or4rCFurYpUxYh0bbpxRY não encontrada no banco de dados
+Faixa Parece Piada - Ao Vivo:4J0fKTG6zSmdGgFxfagviP não encontrada no banco de dados
+Faixa Cê Topa - Ao Vivo:1sCQK2JrPRWymjuTfNgKRI não encontrada no banco de dados
+Faixa Regime Fechado - Ao Vivo:6UZJOc2HBrTp9DYfir9N8n não encontrada no banco de dados
+Faixa Amor Mal Resolvido - Ao Vivo:1nZHeMQomc9oJXTJAuV4Qv não encontrada no banco de dados
+Faixa Solteiro Apaixonado:4Sg0RUi010K0w7WVEJMuU8 não encontrada no banco de dados
+Faixa Te Assumi Pro Brasil - Ao Vivo:4JWvILyOVmhPqXgSSjVB4p não encontrada no banco de dados
+Faixa De Tanto Te Querer - Ao Vivo:3HrvG1d9OZpg6eV4A1dcSk não encontrada no banco de dados
+Faixa Deixa a Gente Quieto - Ao Vivo:4PNi30UilK0CZi2z9wegMQ não encontrada no banco de dados
+Faixa Malbec (Part. DENNIS) (feat. DENNIS) - Ao Vivo:7vLG0D8ouHd4brF5TVJQya não encontrada no banco de dados
+Faixa Só Não Deixa Eu Tomar Birra:0BHYwwrTyt3b5520TvBxRC não encontrada no banco de dados
+Faixa Eu, Você, o Mar e Ela:693kJcwQwFTb8809nbvQxG não encontrada no banco de dados
+Faixa Beija-Flor Me Beija - Ao Vivo:0jRnqdgn15NzDcfes59tbo não encontrada no banco de dados
+Faixa Homem de Família (Ao Vivo):5SeW93nqG0a7Iy2zysSNki não encontrada no banco de dados
+Faixa O Nosso Santo Bateu - Na Praia / Ao Vivo:6SwI4OplF8m5NH8wHKIps8 não encontrada no banco de dados
+Faixa Na Maldade - Ao Vivo:1yITfdL4sLBlKFfyz8EZ40 não encontrada no banco de dados
+Faixa Faixa 3 - Ao Vivo:4hrCpy23BCG2CcGNESpKfn não encontrada no banco de dados
+Faixa Fecha o Porta-Malas - Ao Vivo:57HLdQLkvt8GJdKxPEUr6F não encontrada no banco de dados
+Faixa Estamos Quites - Ao Vivo:7acYZLHGlK9b9mkSgF3Swb não encontrada no banco de dados
+Faixa Duas Metades - Ao Vivo:2GMUokyMDjYdVa0Qv7KgNz não encontrada no banco de dados
+Faixa Bengala e Crochê - Ao Vivo:47eqU30qkpuIVinqJn1swI não encontrada no banco de dados
+Faixa Você Faz Falta Aqui - Ao Vivo:12l69BOqbgLACZDeQpZnZN não encontrada no banco de dados
+Faixa Sob Nova Direção - Ao Vivo:4R4b3ojbiD599rbFPhOWGU não encontrada no banco de dados
+Faixa Cruzando Os Dedos - Ao Vivo:3u0XoWpM9ruGhB3tVWhO6f não encontrada no banco de dados
+Faixa Até Ex Duvida (feat. Maiara & Maraisa) - Ao Vivo:6jPkYQ3B7b753JTZhR207H não encontrada no banco de dados
+Faixa Nunca Foi Ex:0ZMIRqAeUDZqV0ziQVRzFe não encontrada no banco de dados
+Faixa A Dama e o Vagabundo - Ao Vivo:3opvl2S4zhJC9rhRLDDYs1 não encontrada no banco de dados
+Faixa Loka:257tme6AhneIKAqVF1HTH4 não encontrada no banco de dados
+Faixa Baldinho de Balada - Ao Vivo:4U096BiHrDCa1ACXtEPoXW não encontrada no banco de dados
+Faixa Abaixa o Som - Ao Vivo:1Ax2B2u18IaCr1GQqJqJ8N não encontrada no banco de dados
+Faixa Cadeira de Aço - Ao Vivo:2jq2SaLa7BeUtU6Lx9bxGU não encontrada no banco de dados
+Faixa Raspão (feat. Simone & Simaria) - Ao Vivo:2vQks45NpL44uh1G7vDFes não encontrada no banco de dados
+Faixa Sorte Que Cê Beija Bem - Ao Vivo:4NLCCQYE8415lPsXGEXScp não encontrada no banco de dados
+Faixa Vidinha de Balada - Ao Vivo:4FHw39Ke6pVt5tNKvLr4r3 não encontrada no banco de dados
+Faixa Muié, Chapéu e Butina - Ao Vivo:1ZB3pjR7MdkIBbBzz4Fg9C não encontrada no banco de dados
+Faixa Química - Live:6wwkOAQ4Lb9e0qjG8COdsh não encontrada no banco de dados
+Faixa Zé Trovão:32i6LrdMsqMMmswdD3RMYI não encontrada no banco de dados
+Faixa De Quem É a Culpa? - Ao Vivo:4YhPcVIxIAJrLhFVPGbJkE não encontrada no banco de dados
+Faixa A Gente Não Se Aguenta - Ao Vivo:40f52Y5P5PDfAxu2P3iI3c não encontrada no banco de dados
+Faixa Traição Não Tem Perdão - Ao Vivo:4fZlFsn2pCL0UfVpCGFBRs não encontrada no banco de dados
+Faixa Nem Foi e Já Voltou - Ao Vivo:0hP806FJkvQD7EzRO5TrJg não encontrada no banco de dados
+Faixa Amante Não Tem Lar - Ao Vivo:6P8v1a8jyfwG5kc7Si1kUp não encontrada no banco de dados
+Faixa Oitava Dose - Na Praia 2 / Ao Vivo:43F1e4glaVnVe3DXOU3Xum não encontrada no banco de dados
+Faixa Show Completo - Ao Vivo:5WXIBx21pd7zJscPGd8ZaT não encontrada no banco de dados
+Faixa Não Existe Amor Sem Briga - Ao Vivo:4l2NDSFAWit191gsAQceWu não encontrada no banco de dados
+Faixa A Mala É Falsa:3QJPXOImtATOO48YB5CgWa não encontrada no banco de dados
+Faixa Ninguém É de Ferro:1e315r3zQjsng2z952ePQ1 não encontrada no banco de dados
+Faixa Saudade do Caramba:2UbAMyAhaJIDqlukesBR7I não encontrada no banco de dados
+Faixa Evidências:6JXWKlylznhLTDdyYO6iwC não encontrada no banco de dados
+Faixa É o Amor:29lKPekKaTt7SpRMbIfFe6 não encontrada no banco de dados
+Faixa Toca um João Mineiro e Marciano - Ao Vivo:1WHU8HxR21Zi6wyM1uYrBD não encontrada no banco de dados
+Faixa Noite Fracassada:4jd5ASxC2M8Xh4rHNAcLLV não encontrada no banco de dados
+Faixa Dormi na praça:6r9vc927Uc4qq3Zc0LpO60 não encontrada no banco de dados
+Faixa Você Vai Ver:0jwGxgupGo2ovlU5eonF9D não encontrada no banco de dados
+Faixa Nova York - Ao Vivo:4NudaHzeGQYj2cq5DhLZuG não encontrada no banco de dados
+Faixa Chora, Me Liga - Ao Vivo:1NpD7cQH8hGMZrufOQQ0Xk não encontrada no banco de dados
+Faixa Gaveta:0Ou8jFqQUhmaA5AzYv1IEN não encontrada no banco de dados
+Faixa Menina Veneno:029rq8QBShAgsi4Aq0ywwN não encontrada no banco de dados
+Faixa Medida Certa:44mr3ypWNHa0inr3heiOb2 não encontrada no banco de dados
+Faixa Abre o Portão Que Eu Cheguei - Ao Vivo:1PjWD4LhKbWW908dkGy9dT não encontrada no banco de dados
+Faixa Cê Acredita - Ao Vivo:5JZlDZzWPbrYwMHmnOQO3U não encontrada no banco de dados
+Faixa Chave Cópia - Ao Vivo:0YK4RDyccDYO5aWQGKMZ2h não encontrada no banco de dados
+Faixa Chorou na Escadaria:5uQ33xOqUCQOAEcmD0SapZ não encontrada no banco de dados
+Faixa Ressaca de Saudade - Ao Vivo:0r0U9AcE4LP0QzJQDUUlXP não encontrada no banco de dados
+Faixa Avisa Que Eu Cheguei - Ao Vivo:39vJqbfolMyPJtJuyoj1EM não encontrada no banco de dados
+Faixa Acordando o Prédio:40bK2uosUmAS92c17n98xd não encontrada no banco de dados
+Faixa Dona Maria:0dGqIEsFN3KakdPCMkgjre não encontrada no banco de dados
+Faixa Tô Melhor Solteiro - Na Praia / Ao Vivo:1ljuzG505gt3OTrkYVf7kw não encontrada no banco de dados
+Faixa Amor Da Sua Cama:2cwFhwT6L2D4Olc25nhyZo não encontrada no banco de dados
+Faixa Permanecer (feat. MC G15):3sIMCkwUZbQbWeNOTG3ET4 não encontrada no banco de dados
+Faixa Mulherão da Porra:26bMmC90QF0FOd1ctDnkeU não encontrada no banco de dados
+Faixa Quase - Ao Vivo:1504k2wy349EtgioaW78Ht não encontrada no banco de dados
+Faixa Amigo Taxista:6LEFk0KHRfahO5pOMJlbdV não encontrada no banco de dados
+Faixa Se o Amor Tiver Lugar:4sFVdIwmVj2y87qqOWwSU3 não encontrada no banco de dados
+Faixa Seu Polícia - Ao Vivo:7CmuLM2vfzA78iHeqastoP não encontrada no banco de dados
+Faixa Na Hora da Raiva - Ao Vivo:0Zu7NVn4IvfYuEIrD11UVr não encontrada no banco de dados
+Faixa Quando O Mel É Bom - Ao Vivo:21j9YxYHSzrdcLBX3mb5UL não encontrada no banco de dados
+Faixa Pergunta Boba - Ao Vivo:36OBPVuz58hAsKxgLCKer6 não encontrada no banco de dados
+Faixa Maus Bocados:1Tditr5KyzStSK3GiO6Xlj não encontrada no banco de dados
+Faixa Transplante:6uyMtLQXZ8amkLyv5l7F7O não encontrada no banco de dados
+Faixa Ar Condicionado no 15 - Ao Vivo:7l4DyFrK2CpW9Fdpzaio8r não encontrada no banco de dados
+Faixa Tô Fazendo Amor (feat. Jorge & Mateus):0wVGdVXKpv5d93SWQF9XBr não encontrada no banco de dados
+Faixa Muié brava:0ysTJCguBamXVvxwR1BNzE não encontrada no banco de dados
+Faixa Apelido Carinhoso:6wXYGqXCLtEHx4VDb2TPcM não encontrada no banco de dados
+Faixa Contrato:12lOxvml5EBvSCzQll7xVS não encontrada no banco de dados
+Faixa Cê Que Sabe:548YYxvWX4FslqAwI2HFo4 não encontrada no banco de dados
+Faixa Rapariga Não - Ao Vivo:0ihMkv4Usn03EEEF8Rlw22 não encontrada no banco de dados
+Faixa Flor e o Beija-Flor - Ao Vivo:0phVJ23NJlruwtt1XCm94N não encontrada no banco de dados
+Faixa Oitava Dose - Ao Vivo:5kXgLlxHMv3aP7xLxMrjiV não encontrada no banco de dados
+Faixa Casa Amarela:4aD18gS9Lbp9XMmXS4qu0J não encontrada no banco de dados
+Faixa Coladinha em Mim - Ao Vivo:4JPSfCXQe6kDliMIJTqISW não encontrada no banco de dados
+Faixa Antídoto - Ao Vivo:2dvyNlZ8jkLq4DMzVVyXQH não encontrada no banco de dados
+Faixa É Com Ela Que Eu Estou - Ao Vivo:07NSyHtBkMt2pb9sJoZxUB não encontrada no banco de dados
+Faixa Moda Derramada - Ao Vivo:5IvklUHG7Y2asnWZ0YXfX3 não encontrada no banco de dados
+Faixa 126 Cabides - Ao Vivo:1bo9c7xTS29L8OoHxqDyEu não encontrada no banco de dados
+Faixa Não Era Você:6YdjKSjVCnaG4Snrkxmv9a não encontrada no banco de dados
+Faixa Naturalmente:1Uy3G9oJec7B29fgasb8m5 não encontrada no banco de dados
+Faixa Fé no Pai:6ThNbAMXePwfYMXxqC4PLQ não encontrada no banco de dados
+Faixa Coisas Esotéricas - Ao Vivo:5vazksenigtjzqk48t4SxW não encontrada no banco de dados
+Faixa Largado As Traças - Acústico:74gguwbBvfBTurNJUWFOsC não encontrada no banco de dados
+Faixa Propaganda - Ao Vivo:74n5d5M21JnC4WJ6gdkggK não encontrada no banco de dados
+Faixa Tô Com Moral No Céu! - Ao Vivo:6ys0kXJnE7wBQKvGrTg0VQ não encontrada no banco de dados
+Faixa Anti-Amor - Ao Vivo:7JdZZfozlODQ08ATf8xIZ6 não encontrada no banco de dados
+Faixa Estranho:7m3ciRxLcU3xJbWEDBoThG não encontrada no banco de dados
+Faixa A Culpa É Dele:01TYBVirOZoaY5Uw2kLGwp não encontrada no banco de dados
+Faixa Quem Ensinou Fui Eu:1mBx8G3GBajrV0eTeYQshc não encontrada no banco de dados
+Faixa No Dia do Seu Casamento:7nxGHLgr1jz0Grl1OV06pR não encontrada no banco de dados
+Faixa Na Conta Da Loucura - Ao Vivo:1hnGRSqLdeLB7x7kdDuizq não encontrada no banco de dados
+Faixa Não Deixo Não:2hgsL5UcOToRWUnNg9Jxfi não encontrada no banco de dados
+Faixa Enquanto Eu Brindo Cê Chora:5Kh5DDrtBnKwkaZJn9iarE não encontrada no banco de dados
+Faixa Que Bar Que Cê Tá - Ao Vivo:1QA1aufyDoQ2T4Zo1SYAEt não encontrada no banco de dados
+Faixa Mel de Marte - Ao Vivo:3Jow5AQb7pojjurE9P4Kh2 não encontrada no banco de dados
+Faixa Vida de Solteiro - Ao Vivo:2WGJmK9Babm01KaxxEV2MX não encontrada no banco de dados
+Faixa Me Chama Outra Vez - Ao Vivo:5bFams1kfaIxWqdJJaCM0Q não encontrada no banco de dados
+Faixa Romance Com Safadeza:0RBOFW5424gCCCZrgECbt6 não encontrada no banco de dados
+Faixa Acabou Acabou (Quando Eu Digo Que Acabou) - Ao Vivo:66wtCJjGr2mE6lLaLwkj6i não encontrada no banco de dados
+Faixa 2050:5ogJPWcPBkIcWSXMUSdU4A não encontrada no banco de dados
+Faixa Amor Falso:00zzSEe82JTtz68XlARnh7 não encontrada no banco de dados
+Faixa Um Brinde (feat. Marília Mendonça & Maiara & Maraisa):6aIrHPvM3l16MeS7iOQRYO não encontrada no banco de dados
+Faixa Como É Que Faz:0wMFQ0UpnqvyZncX4JpVEA não encontrada no banco de dados
+Faixa De Copo Em Copo - Ao Vivo:1wgD52FywIwdnLdV2Fa8NK não encontrada no banco de dados
+Faixa De Trás Pra Frente - Ao Vivo:2x67AU9q3lf7cfPSzxCDsL não encontrada no banco de dados
+Faixa Sonhei Que Tava Me Casando - Ao Vivo:6PEdCE0cepdEqbUmAiyFUN não encontrada no banco de dados
+Faixa Bebida Na Ferida - Acústico:2ZuG40RDVJQwEaRWQu7Gh4 não encontrada no banco de dados
+Faixa Sinal Disfarçado:46DDBIZzPN9Sa1KnYDdHjc não encontrada no banco de dados
+Faixa Casa Mobiliada - Acústico | Ao Vivo:1uL0k16WWBZ2h33cjHrNb7 não encontrada no banco de dados
+Faixa 3 da Manhã - Ao Vivo:70jsLIfeFwzvAQSndNs6v4 não encontrada no banco de dados
+Faixa Dou a Vida por um Beijo - Ao Vivo:0VO4G5txw65jpBj1Iu8SYW não encontrada no banco de dados
+Faixa Recaída ou Recomeço - Ao Vivo:0cw21ddSrguAKbADY1N6xE não encontrada no banco de dados
+Faixa Conveniência - Ao Vivo:6E6wkQxtGJussNJBk2Y7om não encontrada no banco de dados
+Faixa Ausência:2UILpaI5fj9x7VoDC13eK0 não encontrada no banco de dados
+Faixa Ei, Saudade - Ao Vivo:7KytJJoRc35NtDLwHpIpIn não encontrada no banco de dados
+Faixa Ao Vivo E A Cores:6jhZTGGw37atbaHoLsY9TD não encontrada no banco de dados
+Faixa Status Que Eu Não Queria - Ao Vivo:1fyhyOy6iS9E2NckAzjmTo não encontrada no banco de dados
+Faixa Cliente Preferencial (Um Modão Atrás Do Outro) - Ao Vivo:58KL7ALV3ACwBxU8pVRMHH não encontrada no banco de dados
+Faixa Ainda Sou Tão Seu - Ao Vivo:07PHNpknqZFw6N3GzNQWB8 não encontrada no banco de dados
+Faixa Cancela o Sentimento (feat. Marília Mendonça):0PVjuxjgUJldBATilksYW2 não encontrada no banco de dados
+Faixa Mundo de Ilusões - Ao Vivo:3UxbT06Mz8aTJbHYYIxwkI não encontrada no banco de dados
+Faixa Um Em Um Milhão:2XrQcyrxoJ0oXd4w58Y6H2 não encontrada no banco de dados
+Faixa Meu Violão E O Nosso Cachorro - Ao Vivo:68y9Wxhai4e17Ywvnz76vY não encontrada no banco de dados
+Faixa Mentira Estampada Na Cara - Ao Vivo:3iniJ4vVDkvrhaqhcfTLjE não encontrada no banco de dados
+Faixa Reparação - Ao Vivo:27ulxDubiY0P4uDIPTNFIu não encontrada no banco de dados
+Faixa Não Vou Mais Atrás De Você (Agora Eu Me Curei) - Ao Vivo:7Bw9R9NnsubYlVICqwn2Rn não encontrada no banco de dados
+Faixa Pássaro Noturno - Ao Vivo:0hBYXGO55aWQjsegGnlVzI não encontrada no banco de dados
+Faixa Perdeu - Ao Vivo:6PXsNX7i3deVQ2d9ihERRo não encontrada no banco de dados
+Faixa Duvido Você Não Tomar Uma - Ao Vivo:6S8yTw0KfidwuAq5Y6Bygj não encontrada no banco de dados
+Faixa Te Amo Chega Dá Raiva - Ao Vivo:6aZwns1cpabxkKD6MW86XF não encontrada no banco de dados
+Faixa Bom Substituto - Ao Vivo:7c8mwQJ5uqkqANLcIJfFF8 não encontrada no banco de dados
+Faixa Legítima Defesa - Ao Vivo:4fTQGUl4FaytXjzTFgJb82 não encontrada no banco de dados
+Faixa Fica Com Essa Bandida - Ao Vivo:2dRWoCKx8Rrw0emdzBG273 não encontrada no banco de dados
+Faixa Ciumeira - Ao Vivo:2H1liABu20HXBOmbt5SQz1 não encontrada no banco de dados
+Faixa Perfil Durão - Ao Vivo:7JTmTF3xxbyipVqLDa8ROJ não encontrada no banco de dados
+Faixa Saudade Nível Hard:2dmGj5Nf01FcR6N4HPzAbL não encontrada no banco de dados
+Faixa Só Pra Castigar:2X8sssaxS5GReg6945B6RW não encontrada no banco de dados
+Faixa Sofazinho - Ao Vivo:6V2L3QqyfKhbnufC1QNRq7 não encontrada no banco de dados
+Faixa Zé da Recaída:4iGwWeV7XVIWO9Yy5QExOr não encontrada no banco de dados
+Faixa Coração Infectado:3buGB7k4NFkMEz4RA8BMYn não encontrada no banco de dados
+Faixa Bye Bye - Ao Vivo:0bQWrpOuFcxQlBMiZkfkB2 não encontrada no banco de dados
+Faixa Amo Noite e Dia - Ao Vivo:2VBTHwf7YzlyENFnrgIlD5 não encontrada no banco de dados
+Faixa Tbt - Ao Vivo:7tIqWMyJlgHnB4EwPAzgrC não encontrada no banco de dados
+Faixa Bateria Acabou:2Ye0LGbytqjUkISvyrvScx não encontrada no banco de dados
+Faixa Notificação Preferida - Ao Vivo:2qkNnJvQvhLiZ63X1L3eFz não encontrada no banco de dados
+Faixa Boate Azul - Ao Vivo:4Z20Nlp53CuArdsy0VbeTb não encontrada no banco de dados
+Faixa Falando Sério - Ao Vivo:1TB93NFLxsvRSTCcvpntrr não encontrada no banco de dados
+Faixa Não Fala Não pra Mim:0PaAB17axL9hn88mHiw8g0 não encontrada no banco de dados
+Faixa Madrid - Ao Vivo:1smr1jbERRUTOtPnkIPT3N não encontrada no banco de dados
+Faixa Juramento do Dedinho:0lCmp1Mws7I9K4a0OAgces não encontrada no banco de dados
+Faixa Lendas e Mistérios - Ao Vivo:1BfiZANgyy8ibk0srwlpRR não encontrada no banco de dados
+Faixa Tentei Te Esquecer / Coração Está Em Pedaços - Live:0WZ9VpAIP58QgerQJKLR6w não encontrada no banco de dados
+Faixa Explica Esse Rolê - Ao Vivo:6wgH9uph5RYpopu3Med4Hq não encontrada no banco de dados
+Faixa Cidade Vizinha:2YJAIDwnezLX52s3ZBPyC7 não encontrada no banco de dados
+Faixa Quando as Bocas Já Se Conhecem (feat. Hugo & Vitor) - Ao Vivo:3ks5ugEhwnpFbklRszLTP7 não encontrada no banco de dados
+Faixa Sem Sal - Ao Vivo:0E5S49GCejjIo9Bjmo5Q4z não encontrada no banco de dados
+Faixa Passa Mal - Ao Vivo:2oezDpHysEKUuXSAuanT4M não encontrada no banco de dados
+Faixa Até o Tempo Passa - Ao Vivo:66LS7kDjILdyytxSA7B50F não encontrada no banco de dados
+Faixa Não Casa Não - Ao Vivo:5vi35oHQUhTJxk4eQQHQBR não encontrada no banco de dados
+Faixa Como a Culpa É Minha?:7syzSkxOVr3XnX8bBcNVnJ não encontrada no banco de dados
+Faixa Qualidade De Vida - Ao Vivo:5Wmg5LPPJnbMsKA9fthM3l não encontrada no banco de dados
+Faixa Bebi Liguei - Ao Vivo:1T7aSWZQIorPMzRT8jTMXc não encontrada no banco de dados
+Faixa Solteiro Não Trai - Ao Vivo:7oEr56KG6odStlQH0nvdyr não encontrada no banco de dados
+Faixa Vingança - Ao Vivo:7KdcbYcVF8LkQeQcTYOixJ não encontrada no banco de dados
+Faixa Maturidade (feat. Matheus & Kauan):3QkKCTSHnJlUag0GG9F1cN não encontrada no banco de dados
+Faixa Bem Pior Que Eu - Ao Vivo:4CdMz076UN8RyeWGQCdqFZ não encontrada no banco de dados
+Faixa Amiga (Participação especial de Marília Mendonça) - Ao vivo:2elyVBpcq9TMu5Fr8chPve não encontrada no banco de dados
+Faixa Quem Me Dera:29dRTbLTxRaSl63DIzbjvl não encontrada no banco de dados
+Faixa Amigo Emprestado - Ao Vivo:6nn9utEXmkfR5iBxerXtB5 não encontrada no banco de dados
+Faixa Sabiá - Ao Vivo:0FwpTN3wN2ljtdiqUSQOIU não encontrada no banco de dados
+Faixa Obrigado por Estragar Tudo - Ao Vivo:4a5GPCo8oX4vvaRkciKlih não encontrada no banco de dados
+Faixa Cobaia:1xyVMQx51Kab6eLVtE6twx não encontrada no banco de dados
+Faixa Bijouteria:2dlIuj0EA3g0HfG1bVYw6D não encontrada no banco de dados
+Faixa Te Conheço Só De Olhar Na Sua Cara - Ao Vivo:1kGAqxn7LoBCDFBu6PgzqA não encontrada no banco de dados
+Faixa Love À Queima Roupa - Ao Vivo:0aUGXSCmdJz9I9kdY9e9kk não encontrada no banco de dados
+Faixa Aham - Ao Vivo:0kDMCzd7KNT18SO7MM5nT9 não encontrada no banco de dados
+Faixa Amando Por Um - Ao Vivo:5OhCyOc49v2pnZBUpIplhp não encontrada no banco de dados
+Faixa Beber Com Emergência - Ao Vivo:1IcbQvHb9B7MikgQjfJtAl não encontrada no banco de dados
+Faixa Se Olha No Espelho - Ao Vivo:2wmY09fsvmYgA7bKZzjAVt não encontrada no banco de dados
+Faixa Nessas Horas - Ao Vivo:1MnUXXQEuzlJFNF5xMH1XQ não encontrada no banco de dados
+Faixa Mais Amor e Menos Drama - Ao Vivo:2TihKW8ShdEEhKN3PSDEIq não encontrada no banco de dados
+Faixa Coisa de ex:39UwLy7LeY68YDsktn1cUx não encontrada no banco de dados
+Faixa Vezinho Azul - Ao Vivo:2iOzn4x6Hc1icpR7oWr3Pz não encontrada no banco de dados
+Faixa Estado Decadente - Acústico:4eB8rsNNm5791m3uvEBNLR não encontrada no banco de dados
+Faixa Tijolão - Ao Vivo:6QwFUcPc5nhsqZuhXUYtV7 não encontrada no banco de dados
+Faixa Fingindo Maturidade - Ao Vivo:39aWBx86ZdvXQ9d0fRAXxH não encontrada no banco de dados
+Faixa Fake News - Ao Vivo:4Cm51VOGs75ik79YMpJykG não encontrada no banco de dados
+Faixa Aperte O Play - Ao Vivo:5M8qHiAV6b0jo3phlyhxcR não encontrada no banco de dados
+Faixa Pro Nosso Bem - Ao Vivo:73u22uLsakf8W12suab1QO não encontrada no banco de dados
+Faixa Apaixonadinha - Ao Vivo:0rUL7vUZmCKxB0gS83W3aM não encontrada no banco de dados
+Faixa Serenata - Ao Vivo:5fY9bVl1Wj4PIM3wnduWop não encontrada no banco de dados
+Faixa Áudio - Ao Vivo em Brasília:2PqPSf3gtTED79rWGwVtYg não encontrada no banco de dados
+Faixa quando a bad bater - ao vivo:5gvrBqNFFEWcxYPt3mamvJ não encontrada no banco de dados
+Faixa Tchau Tchau:1psCVg04oOY36IqUVyRfhO não encontrada no banco de dados
+Faixa Flor Que Se Cheira - Ao Vivo:49pu85144Xir6PgWjeyJhG não encontrada no banco de dados
+Faixa Supera - Ao Vivo:3GmJxfnUDrIs1iCfKUELFz não encontrada no banco de dados
+Faixa Milu:1nqaSoiLuqevDes4S18sO7 não encontrada no banco de dados
+Faixa Quem Traiu Levou - Ao Vivo:1owErGXMkNVCgCmCjI1vRL não encontrada no banco de dados
+Faixa Também Sei Fazer Falta - Ao Vivo:6hrV6KYL9zM8vFAbOSxFHY não encontrada no banco de dados
+Faixa Cheirosa - Ao Vivo:2PWjKmjyTZeDpmOUa3a5da não encontrada no banco de dados
+Faixa Liberdade Provisória - Ao Vivo:1vG3YuKRYqPwTmNmYgqkpg não encontrada no banco de dados
+Faixa 3 Batidas - Ao Vivo:1uryupl9hqVZYurJwH4G9k não encontrada no banco de dados
+Faixa S de Saudade:3J5Pu25BODMex4Jpy4l6FL não encontrada no banco de dados
+Faixa Aí Eu Bebo - Ao Vivo:6lK3nCiigk34SGqEjpQoqO não encontrada no banco de dados
+Faixa Com ou Sem Mim - Ao Vivo:2BU6XXSG8SqiptRuj6EiLA não encontrada no banco de dados
+Faixa Graveto - Ao Vivo:3tc8Z4lGzOIwmIVftsxO6o não encontrada no banco de dados
+Faixa SOFRENDO FEITO UM LOUCO - SUMMER VERSION:1wHNSciCOxqs4dft2EWrIC não encontrada no banco de dados
+Faixa ignore - ao vivo:70U7M98hDV4bG9PnpXh0h7 não encontrada no banco de dados
+Faixa Barzinho Aleatório - Ao Vivo:3WjSkl7VDWY1prwJw7dSG0 não encontrada no banco de dados
+Faixa Litrão - Ao Vivo Em Recife / 2020:5W1kqz2l1lDX77DXBMeXZg não encontrada no banco de dados
+Faixa Tiro Certo - Ao Vivo:5MArTXEVyKBwoodjdy04fk não encontrada no banco de dados
+Faixa Inquilina - Ao Vivo:0XwpOHWnRid52uc7IHSAot não encontrada no banco de dados
+Faixa A Gente Fez Amor - Ao Vivo:3tv697PZNnaQN0Mn2zGhS5 não encontrada no banco de dados
+Faixa Troca de Favor - Ao Vivo:3s1sNUHp0uJCTUHzwfpWen não encontrada no banco de dados
+Faixa Impressionando os Anjos:4tbDsuukvtfxlwEToGeb0i não encontrada no banco de dados
+Faixa Idiota Favorito:4tGhPwNEdXR7qJNLsvqRqw não encontrada no banco de dados
+Faixa Dois Enganados:72N0CRIAqjETbhghrkCUW2 não encontrada no banco de dados
+Faixa choque térmico - ao vivo:159ntSAEWJ9zIMOSXmQ530 não encontrada no banco de dados
+Faixa Prisão Sem Grade - Ao Vivo:2cP4GaGkbnRP7ESOqcQzUd não encontrada no banco de dados
+Faixa Contramão - Ao Vivo:4XAG36kbBEarr5pHv44wDn não encontrada no banco de dados
+Faixa Briga Feia - Ao Vivo:4j2bK4fnc2s6GyVmhJsJhk não encontrada no banco de dados
+Faixa Relógio Parado (Ao Vivo):5n8Y78Pl5q8lqS7sJP61qw não encontrada no banco de dados
+Faixa Viva Voz - Ao Vivo Em São Paulo / 2019:08Sd5vVcIH3uKeAiaJdoYj não encontrada no banco de dados
+Faixa Despedida - Ao Vivo:5LpLYzpV0HWKI2DlPmNywg não encontrada no banco de dados
+Faixa Quero Você do Jeito Que Quiser:51uXmhqGR76tT2UeKZyeN6 não encontrada no banco de dados
+Faixa Ranking:0RaIjuKU5hudMteEXwr4RS não encontrada no banco de dados
+Faixa Agora E Sempre - Ao Vivo:0Iv9PCBE1LkfgI8JcL3Nml não encontrada no banco de dados
+Faixa Para, Pensa e Volta - Ao Vivo:2KyXyTrp3kp1Fsg7B1osYD não encontrada no banco de dados
+Faixa O Grande Amor da Minha Vida (Convite de Casamento):2R8eNzdJSiqt28AWk3zoB5 não encontrada no banco de dados
+Faixa Se Mordendo de Raiva:0DDYiuKwbX180ZEKtuB9sH não encontrada no banco de dados
+Faixa Tá Rocheda:3dPvQLKl42dMYWV4LWRTLK não encontrada no banco de dados
+Faixa Tentativas:5STHFaWYO1KeyITjvB4hR8 não encontrada no banco de dados
+Faixa Você Nem É Tudo Isso:7A80qvCqnAXMURfZsaPOcT não encontrada no banco de dados
+Faixa Nada Mudou:61ybqIhU4yGBb6rnI2uksr não encontrada no banco de dados
+Faixa Deixa Eu Te Amar:7xMbuN7L9sT8g7uDlf1ps5 não encontrada no banco de dados
+Faixa Não Aprendi a Dizer Adeus:0kv7pnTISV5Rp6n26VRC0G não encontrada no banco de dados
+Faixa Nuvem de Lágrimas:19CX9p1PCiDbHsKTCCcFuG não encontrada no banco de dados
+Faixa Bebe e Vem Me Procurar:3tu0GkIZwwkmILoD4HemBq não encontrada no banco de dados
+Faixa Esqueci Você - Ao Vivo:0QiQ1fWh17PMSuOoMMI8YN não encontrada no banco de dados
+Faixa Cenário Ideal - Ao Vivo:7tZ2ul7cQBdw7gePR7GhRB não encontrada no banco de dados
+Faixa Aprendi a Esperar:14SoOmfZqQXrhWelMia07v não encontrada no banco de dados
+Faixa Mercedita - Ao Vivo:678Jrg5O4pdXuxZtjAINPa não encontrada no banco de dados
+Faixa Brigas - Ao Vivo:6ERs5QtQe52VwemUrUKD3M não encontrada no banco de dados
+Faixa Te Esquecer é Impossível (Ao Vivo):13Sq2PSJQDDtKiVuST4fWu não encontrada no banco de dados
+Faixa Jura (Ao Vivo):1PeqmHof5X3XwVRNaIqGPH não encontrada no banco de dados
+Faixa Meia Noite (Você tem meu Whatsapp):6sPBi0qLI6KM3yXX56NxsA não encontrada no banco de dados
+Faixa Ele É Ele, Eu Sou Eu:7EWXP47VlXKO3r7mNxuWHw não encontrada no banco de dados
+Faixa Lance Individual:7GLWWrk1YlkPYqJK3ynIA0 não encontrada no banco de dados
+Faixa Alô Ambev (Segue Sua Vida) - Ao Vivo:5m5aY6S9ttfIG157xli2Rs não encontrada no banco de dados
+Faixa Investe Em Mim:15k1TDabqSEmyXOwMq9RM7 não encontrada no banco de dados
+Faixa Facas - Ao Vivo:1ere9b9vDw2N3m9d4uiXxa não encontrada no banco de dados
+Faixa Batom de Cereja - Ao Vivo:2MZQAvsA7aZDssppBLRxYp não encontrada no banco de dados
+Faixa Tapão Na Raba:58pgi1RpcU2fVJsxhm7BIr não encontrada no banco de dados
+Faixa Esquema Preferido:27X3qzgB0Show6qfw5wNOK não encontrada no banco de dados
+Faixa Troca de Calçada:4AAIAVjSyiq1N7SXKkwXZe não encontrada no banco de dados
+Faixa Coração Na Cama - Ao Vivo:2nZj5YymF54qhAu7RneVP6 não encontrada no banco de dados
+Faixa Coração Bandido:1sCn4E8TSAc0NGtJNyfhap não encontrada no banco de dados
+Faixa Faz Amor Comigo Só Hoje - Ao Vivo:7Kba4OaxQFQ1zlknQUpNqN não encontrada no banco de dados
+Faixa Volta Bebê, Volta Neném:4wQUopWk9Ed7Ng5qpKN5qd não encontrada no banco de dados
+Faixa Quero Ver é Me Esquecer (feat. Jorge) - Ao Vivo:2SUPbyD77tJuOUbqbxct6l não encontrada no banco de dados
+Faixa Volta Comigo BB:1h4u5t0EJZki8ieNGwwFXc não encontrada no banco de dados
+Faixa Eu Tenho Medo:7yjduLSgPntFlq79Cuzrfz não encontrada no banco de dados
+Faixa Convite de Casamento:3BDnZJC9yaj01jtqpyDYzG não encontrada no banco de dados
+Faixa boa memória - ao vivo:79BHjj4YkvbpOlMvG6wf3n não encontrada no banco de dados
+Faixa Cadê o Amor:1EHFiKkrppC5kXImn8LFBr não encontrada no banco de dados
+Faixa Baby Me Atende:5R9KPXQVeyqsHZoPLMgfNy não encontrada no banco de dados
+Faixa melhor sozinha :-)-::0gpZ8zy9OAE98nNBVIxWvi não encontrada no banco de dados
+Faixa Meu Mel:1w5GF97jRe8bnNKcBPYPyf não encontrada no banco de dados
+Faixa Fim da Noite:4jMrV2f00zM9ifqJal3CcG não encontrada no banco de dados
+Faixa M de Mulher - Ao Vivo:0ZuyDpxvFs9cS1T7wFIg8N não encontrada no banco de dados
+Faixa Nunca Vai Ser Nós:6KoWlMNCiFdHnzYSX1Ag8q não encontrada no banco de dados
+Faixa Nosso Amor Envelheceu:0XRDNfCJWLccJc9NXvx5zM não encontrada no banco de dados
+Faixa Rosa Embriagada:3m5R3oBKpfaf2KKJYqBvEF não encontrada no banco de dados
+Faixa Boiadeira:17vkpwdNFLE5T1Y4PE3stJ não encontrada no banco de dados
+Faixa Revoada No Colchão:4kGdnA7FzSVsXC29LPghej não encontrada no banco de dados
+Faixa Meu Ex Amor / Hoje Eu Quero Te Amar / Tem Nada a Ver / Te Cuida Coração - Ao Vivo:5r94qmV4MGCn2XdA5R37nn não encontrada no banco de dados
+Faixa Coração Cachorro:2RGIuYTsyyHoOCqW0krvNE não encontrada no banco de dados
+Faixa Arranhão - Ao Vivo:4u06FbRh6FvV2FQZkouzCw não encontrada no banco de dados
+Faixa Nota de Repúdio - Ao Vivo:3agFBAMPiIvzfTh7a9Udm6 não encontrada no banco de dados
+Faixa Você Beberia Ou Não Beberia?:2ixi9HWJw5lnLDmRMsiCS5 não encontrada no banco de dados
+Faixa Ficha Limpa:5SwyN9hzmWjBsINlif8li8 não encontrada no banco de dados
+Faixa Chega E Senta - Ao Vivo:2ookQf9qP2qiBuNFnNXyfl não encontrada no banco de dados
+Faixa Esqueça-Me Se For Capaz:4qsOrxBv09HhNSpsgMRXdC não encontrada no banco de dados
+Faixa Todo Mundo Vai Sofrer - Ao Vivo:4E6RdcCWMiHTu7zy1VTNDo não encontrada no banco de dados
+Faixa Pot-Pourri: Sinônimos / Pense Em Mim / É o Amor - Ao Vivo:7nTzdZys23dEG15phgLnif não encontrada no banco de dados
+Faixa Vai Lá Em Casa Hoje:1c4htMHiolERc0YJvZNdlc não encontrada no banco de dados
+Faixa Volta Vai - Ao Vivo:0jeFHISVpw1dgBOdM63SB3 não encontrada no banco de dados
+Faixa Cê Tá Preparada - Ao Vivo:1tYJnXtKLoWVIL4lZOouQG não encontrada no banco de dados
+Faixa Pot-Pourri: Te Amar Foi Ilusão / Passou da Conta / O Grande Amor da Minha Vida (Convite de Casamento) / Agora Vai - Ao Vivo:6HTmn2dm2OKBPNtgMyb986 não encontrada no banco de dados
+Faixa Pot-Pourri: Amor Perfeito / Tô Fazendo Falta / As Quatro Estações - Ao Vivo:02ZKDw25OeDJ4WDU7pOZso não encontrada no banco de dados
+Faixa Agora É Só Alegria / Vazei na Braquiara / O Doutor e a Empregada - Ao Vivo:16Y3c9rBOwejfb7sYwYKJn não encontrada no banco de dados
+Faixa Deslumbrante - Ao Vivo:63cU2zoiP2si3Xg1Aq6Wua não encontrada no banco de dados
+Faixa Mal Feito - Ao Vivo:5719MEdRQcH4c3phXqX7WN não encontrada no banco de dados
+Faixa Molhando o Volante:3ITkrUvAA6gzxer2UIom3P não encontrada no banco de dados
+Faixa Namorando Com Saudade:6m84TzSTM5nbwZxIxkYHz6 não encontrada no banco de dados
+Faixa Troca:6HV630GY0GT3RN2efFRmbP não encontrada no banco de dados
+Faixa Tudo Em Paz:0LjcDhacvjZN5QyCqM2UTy não encontrada no banco de dados
+Faixa Me Ame Mais:4iavXH4dDUMA8yAabnUhSI não encontrada no banco de dados
+Faixa Paradigmas:158ukl5rih76dOEsp0I91H não encontrada no banco de dados
+Faixa A Maior Saudade - Ao Vivo:5Q0ZnQjk4lQpScX7ujswun não encontrada no banco de dados
+Faixa Cheiro De Problema - Ao Vivo:00kfZkAW1DITxrSaUsOzUA não encontrada no banco de dados
+Faixa Aí Já Era:00An04LOF36saBLHZpBRLH não encontrada no banco de dados
+Faixa Na Hora de Amar - Ao Vivo:1xCpKtc4kC9sgF0FRc43u2 não encontrada no banco de dados
+Faixa Cem Mil - Ao Vivo:5eMmT4Ava5BGThju0AD8vQ não encontrada no banco de dados
+Faixa Uma Ex - Ao Vivo:5AOE9T63alCQtJrtDA78Z7 não encontrada no banco de dados
+Faixa Fã Clube:1G0kLIS0hE6uUPlIE9gksp não encontrada no banco de dados
+Faixa Todo Mundo Menos Você:053zWWZDziDJd3U94x8RuP não encontrada no banco de dados
+Faixa Motel Afrodite:6WxpU2F5gwTzwYsAalI6nI não encontrada no banco de dados
+Faixa Não Sei o Que Lá:28m65cMH7QXHzFnZSTtNHY não encontrada no banco de dados
+Faixa Campeão de Bilheteria - Ao Vivo:6pBV2I3o6aRsXqrQweUU4u não encontrada no banco de dados
+Faixa Senhorita - Ao Vivo:1esoLtlZfWfoythesRE1Dx não encontrada no banco de dados
+Faixa Te Amo Demais:4xxeEWGQNFQ6qehlnev5LS não encontrada no banco de dados
+Faixa Te Amo Que Mais Posso Dizer (More Than I Can Say):66K83nVy3aTJ5zLxbiMi7I não encontrada no banco de dados
+Faixa Não Era Pra Ser Assim:53V8gDkg4I7vDKnIyEuyoB não encontrada no banco de dados
+Faixa Sendo Assim / Muito Estranho (Cuida Bem de Mim):3vP4dkFp5iHDuKDdLOJJZb não encontrada no banco de dados
+Faixa Um Sonhador / Não Precisa / Não Aprendi A Dizer Adeus - Ao Vivo:42cdiwjkfYVjI8JtAQwsG5 não encontrada no banco de dados
+Faixa Seu Perfil - Ao Vivo:7kcrUZ5B8VIVtzmUlkjlhj não encontrada no banco de dados
+Faixa Pingo de Dó - Ao Vivo:1a17gIb57XhPj2CMbqYABw não encontrada no banco de dados
+Faixa Evento Cancelado - Ao Vivo:11fqunD6qlOCrRd88kMOk6 não encontrada no banco de dados
+Faixa CORAÇÃO CIGANO - Ao Vivo:4vWh6tEfcLzdvYWp2IlOJS não encontrada no banco de dados
+Faixa Bloqueado - Ao Vivo:6nkoWsFZeFt5dUdNmlIceh não encontrada no banco de dados
+Faixa Pactos - Ao Vivo:1XK9YFwauSVk92FSKR5y2i não encontrada no banco de dados
+Faixa Haja Colírio (feat. Hugo & Guilherme) - Ao Vivo:1ELsaYdj2NlxLvkx9g24xZ não encontrada no banco de dados
+Faixa Caso Indefinido - Ao Vivo:54TwNxgRorpA9lsStXcv0k não encontrada no banco de dados
+Faixa Querendo Te Encontrar - Acústico:0rSx9NgFyTeCYbyYxGA6N1 não encontrada no banco de dados
+Faixa Quero Provar Que Te Amo:6BbGZkEZl8OCvtElCWWgT6 não encontrada no banco de dados
+Faixa Meu Ex-Amor / Deixa Eu Chorar - Acústico:55KaaD0hjVyBajBG1oTNpv não encontrada no banco de dados
+Faixa Deixaria Tudo (Dejaria Todo) (feat. Leonardo) - Ao Vivo:6idV5ipp49xEuORFdcRPRO não encontrada no banco de dados
+Faixa Magia e Mistério:2QlwHi6WLs0qK62ZHicd4W não encontrada no banco de dados
+Faixa Só De Você - Ao Vivo:59nE2rDy2irqSIXD4sexiC não encontrada no banco de dados
+Faixa Marca Evidente - Ao Vivo:3aDV90V6vHUSYKKYDLNdQ8 não encontrada no banco de dados
+Faixa Aquela Pessoa - Ao Vivo:5asabafNzfAzjUecDvuNES não encontrada no banco de dados
+Faixa Eu Gosto Assim - Ao Vivo:4ASA1PZyWGbuc4d9N8OAcF não encontrada no banco de dados
+Faixa A Bela E O Fera - Ao Vivo:5yWkyfBlYSixM7AZeVI4SA não encontrada no banco de dados
+Faixa Azul:6c63XoLOW95ZK6J4vtDY2X não encontrada no banco de dados
+Faixa Tá No Meu Coração - Ao Vivo:2lsWLIqU48p51pkjPPobr4 não encontrada no banco de dados
+Faixa Pot-Pourri: Ei, Psiu! Beijo Me Liga / Pagode Em Brasília - Ao Vivo:06xkZyjTIh8z8evDynHP9G não encontrada no banco de dados
+Faixa Pot-Pourri: O Menino da Porteira / Ai Se Eu Te Pego - Ao Vivo:3x2Fnj0r6deaKUJlLvJwtA não encontrada no banco de dados
+Faixa Pot-Pourri: Chico Mineiro / Tristeza do Jeca / Moreninha Linda - Ao Vivo:5uu61Dkp9jUdwDkn9wsxLc não encontrada no banco de dados
+Faixa Estrelinha:6hFU1qqclbJkyA7gPuUNDS não encontrada no banco de dados
+Faixa Majestade O Sabiá - Ao Vivo:4uUs057018O9QWY8dkS60U não encontrada no banco de dados
+Faixa Ainda Ontem Chorei De Saudade:0EQO7Ks1RBHmopLLOYQJJN não encontrada no banco de dados
+Faixa Decida - Ao Vivo:5OoGzZh3v57f2mFdAeK36J não encontrada no banco de dados
+Faixa Vou Ter Que Superar - Ao Vivo:6sRLrSetyIwIKhW1eMlUNP não encontrada no banco de dados
+Faixa Beijo de Glicose - Ao Vivo:6gyhp7IcNhTYzwlk8utsgP não encontrada no banco de dados
+Faixa Dengo:6Ulh9GPYz6JKdv04qc3q2U não encontrada no banco de dados
+Faixa Leão:2K9kZpwD2CzTa6iiSYYOoO não encontrada no banco de dados
+Faixa Uma Vida a Mais:5B7ROG4santIosQXPdnG9W não encontrada no banco de dados
+Faixa Fantasma:5Nw3HvX6k8cB7NjEkqJkij não encontrada no banco de dados
+Faixa Quase um Casal - Ao Vivo:3BhctwMUY5Y9xmes194QTq não encontrada no banco de dados
+Faixa Desbloqueado - Ao Vivo:66HWIQEq6xO0IZ47AHrybG não encontrada no banco de dados
+Faixa Meu Número - Ao Vivo:3XF598RmEUF3XW4XKo1lyP não encontrada no banco de dados
+Faixa Bombonzinho - Ao Vivo:4o6v3Oooyt7HF20idztRD4 não encontrada no banco de dados
+Faixa A Culpa É Nossa - Ao Vivo:7nwHsYxiuHo98dLI7UVkyn não encontrada no banco de dados
+Faixa Perfeito Pra Ficar Sozinho - Ao Vivo:4cxQWmXmmbFoWvV8qipQTe não encontrada no banco de dados
+Faixa Nosso Quadro:1bzRhnrWU1l1u4Bby9ZbfQ não encontrada no banco de dados
+Faixa Você Não É Mais Assim - Ao Vivo:0cmW66v6mOdc2yK6ioeBT5 não encontrada no banco de dados
+Faixa DEUS É MUITO BOM - Ao Vivo:235CP5ItAYMS6usv3C8jkP não encontrada no banco de dados
+Faixa Metade De Mim - Ao Vivo:6cZqw8wIrMsFxCNMzLRbNU não encontrada no banco de dados
+Faixa Dia, Lugar e Hora:0bAtYUcHyGlOj5R3eNjHhA não encontrada no banco de dados
+Faixa Mesmo Sem Estar:5zNK9ZyCrrJFlGgMMv2Xt7 não encontrada no banco de dados
+Faixa Estaca Zero:5OZqnhkGUxuSuW2P7CzH7y não encontrada no banco de dados
+Faixa Rg:5oVVAwRQnXJDEHFNeganG0 não encontrada no banco de dados
+Faixa Amar Não É Pecado:0niJwkH3aqLf8FZC4nvAaQ não encontrada no banco de dados
+Faixa Não Vitalício (Nunca Mais) - Ao Vivo:4sqpSDnTrbS8v7RMNCUyqS não encontrada no banco de dados
+Faixa Namorando Ou Não - Ao Vivo:0ZAL7RbP2FsM3rObV60o7T não encontrada no banco de dados
+Faixa Rosas, Versos e Vinhos:6PyTGvEiXsFQFSZIPY2AkX não encontrada no banco de dados
+Faixa Barulho Do Foguete - Ao Vivo:42JNab8NPeCADJ9D3Cl5wS não encontrada no banco de dados
+Faixa Seu Brilho Sumiu - Ao Vivo:5Sj0nbKFCB5GhcR1fL1lRp não encontrada no banco de dados
+Faixa Erro Gostoso - Ao Vivo:51pxwIxDVCbFHW8oyJFQXD não encontrada no banco de dados
+Faixa Manda um Oi - Ao Vivo:7DkhndGTKaqkFxxKN7XlAh não encontrada no banco de dados
+Faixa Solteiro Forçado - Boiadeira Internacional:4Z2i41GDQyu3KRpBavEnyR não encontrada no banco de dados
+Faixa Traumatizei - Ao Vivo Em Brasília:7r8yMaSOy4XmuhRz7iv1gi não encontrada no banco de dados
+Faixa Cor de Ouro - Ao Vivo:0SgH9N75dIk1LatnZETwsX não encontrada no banco de dados
+Faixa Inventor dos Amores (feat. Jorge & Mateus) - Ao Vivo:3Q8cDYX0CYQWgcXmAFwXsN não encontrada no banco de dados
+Faixa Romance - Ao Vivo:2bjUb6brYmvOXkMboRENLa não encontrada no banco de dados
+Faixa ILHA:2zvfMwpBdm9zC4zwLWq1Wg não encontrada no banco de dados
+Faixa Me Leva Pra Casa / Escrito Nas Estrelas / Saudade - Ao Vivo:2sYFUcurlISdHlAsnYCEgD não encontrada no banco de dados
+Faixa MEIO TERMO - Ao Vivo:23IebZSNZ8VzwUr4rJNGRG não encontrada no banco de dados
+Faixa AMBIENTE ERRADO - Ao Vivo:7blC5LzebSn2A64Kn4XXMP não encontrada no banco de dados
+Faixa E AÍ - Ao Vivo:0iSPtXsvqAemWXYqxXhctJ não encontrada no banco de dados
+Faixa ME DESBLOQUEIA AÍ - Ao Vivo:0BpEQ8JaIrMlIfCK0qaMnN não encontrada no banco de dados
+Faixa VIDA NOTURNA - Ao Vivo:6tW6K24FELDT4kyt7M97Ga não encontrada no banco de dados
+Faixa Haverá Sinais - Ao Vivo:6X6jKoyw1OjogRghMEQAZV não encontrada no banco de dados
+Faixa EU SOU SENTIMENTO:0HDMisLsuGNml98Xq7atpm não encontrada no banco de dados
+Faixa REFLETINDO MÁGOA - Ao Vivo:15uWSsKnke5gVUd3WFxJDD não encontrada no banco de dados
+Faixa POUCO BEIJO, MUITO GELO - Ao Vivo:3rCp2ECnGqozopX5eAy3lj não encontrada no banco de dados

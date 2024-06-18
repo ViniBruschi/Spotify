@@ -1,4 +1,4 @@
-import os, requests, psycopg2
+import os, requests, psycopg2, time
 from dotenv import load_dotenv
 from spotify_credentials import client_id, client_secret, getAccessToken
 
@@ -19,7 +19,7 @@ def getArtist(artist_name, access_token):
     headers = {
         'Authorization': f'Bearer {access_token}'
     }
-    response = requests.get(url, params=params, headers=headers)
+    response = requests.get(url, params=params, headers=headers, timeout=10)
     if response.status_code == 200:
         data = response.json()
         return data['artists']['items'][0] if data['artists']['items'] else None
@@ -76,9 +76,9 @@ def findArtist(artist_name):
 if __name__ == "__main__":
     filepath = os.path.join('dados', 'artists.txt')
     with open(filepath, 'r', encoding='utf-8') as file:
+        access_token = getAccessToken(client_id, client_secret)
         for line in file:
             artist_name = line.strip()
-            access_token = getAccessToken(client_id, client_secret)
             artist_data = getArtist(artist_name, access_token)
             if artist_data:
                 insertArtist(artist_data)
