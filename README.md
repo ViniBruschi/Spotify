@@ -1,3 +1,5 @@
+Integrantes: Vinícius Bruschi Carneiro
+
 # Spotify
 Trabalho de Laboratório de Banco de Dados
 
