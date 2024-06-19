@@ -36,7 +36,7 @@ def insertGenres(genres):
         for genre in genres:
             cursor.execute("INSERT INTO public.Genres (name) VALUES (%s)", (genre,))
         connection.commit()
-        print("Gêneros foram inseridos no banco de dados com sucesso!")
+        print("Gêneros foram inseridos com sucesso no banco de dados.")
     except (Exception, psycopg2.Error) as error:
         print("Erro ao inserir gêneros no banco de dados:", error)
     finally:

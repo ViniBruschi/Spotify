@@ -1,0 +1,1261 @@
+Playlist 'Todo mundo ouve' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7'}, 'href': 'https://api.spotify.com/v1/artists/31TPClRtHm23RisEBtV3X7', 'id': '31TPClRtHm23RisEBtV3X7', 'name': 'Justin Timberlake', 'type': 'artist', 'uri': 'spotify:artist:31TPClRtHm23RisEBtV3X7'}]
+Artista 'Justin Timberlake' inserido com sucesso no banco de dados.
+Album 'The 20/20 Experience (Deluxe Version)' inserido com sucesso no banco de dados.
+Faixa 'Mirrors' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H'}, 'href': 'https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H', 'id': '5pKCCKE2ajJHZ9KAiaK11H', 'name': 'Rihanna', 'type': 'artist', 'uri': 'spotify:artist:5pKCCKE2ajJHZ9KAiaK11H'}]
+Artista 'Rihanna' inserido com sucesso no banco de dados.
+Album 'Unapologetic (Deluxe)' inserido com sucesso no banco de dados.
+Faixa 'Diamonds' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y'}, 'href': 'https://api.spotify.com/v1/artists/07YZf4WDAMNwqr4jfgOZ8y', 'id': '07YZf4WDAMNwqr4jfgOZ8y', 'name': 'Jason Derulo', 'type': 'artist', 'uri': 'spotify:artist:07YZf4WDAMNwqr4jfgOZ8y'}]
+Artista 'Jason Derulo' inserido com sucesso no banco de dados.
+Album 'Tattoos' inserido com sucesso no banco de dados.
+Faixa 'Trumpets' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y'}, 'href': 'https://api.spotify.com/v1/artists/07YZf4WDAMNwqr4jfgOZ8y', 'id': '07YZf4WDAMNwqr4jfgOZ8y', 'name': 'Jason Derulo', 'type': 'artist', 'uri': 'spotify:artist:07YZf4WDAMNwqr4jfgOZ8y'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp'}, 'href': 'https://api.spotify.com/v1/artists/17lzZA2AlOHwCwFALHttmp', 'id': '17lzZA2AlOHwCwFALHttmp', 'name': '2 Chainz', 'type': 'artist', 'uri': 'spotify:artist:17lzZA2AlOHwCwFALHttmp'}]
+Artista 'Jason Derulo' inserido com sucesso no banco de dados.
+Artista '2 Chainz' inserido com sucesso no banco de dados.
+Album 'Tattoos' inserido com sucesso no banco de dados.
+Faixa 'Talk Dirty (feat. 2 Chainz)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C'}, 'href': 'https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C', 'id': '0du5cEVh5yTK9QJze8zA0C', 'name': 'Bruno Mars', 'type': 'artist', 'uri': 'spotify:artist:0du5cEVh5yTK9QJze8zA0C'}]
+Artista 'Bruno Mars' inserido com sucesso no banco de dados.
+Album 'Unorthodox Jukebox' inserido com sucesso no banco de dados.
+Faixa 'Treasure' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai'}, 'href': 'https://api.spotify.com/v1/artists/1Cs0zKBU1kc0i8ypK3B9ai', 'id': '1Cs0zKBU1kc0i8ypK3B9ai', 'name': 'David Guetta', 'type': 'artist', 'uri': 'spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK'}, 'href': 'https://api.spotify.com/v1/artists/66AE89GQTx88zLYhXn1wFK', 'id': '66AE89GQTx88zLYhXn1wFK', 'name': 'Sam Martin', 'type': 'artist', 'uri': 'spotify:artist:66AE89GQTx88zLYhXn1wFK'}]
+Artista 'David Guetta' inserido com sucesso no banco de dados.
+Artista 'Sam Martin' inserido com sucesso no banco de dados.
+Album 'Listen' inserido com sucesso no banco de dados.
+Faixa 'Dangerous (feat. Sam Martin)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai'}, 'href': 'https://api.spotify.com/v1/artists/1Cs0zKBU1kc0i8ypK3B9ai', 'id': '1Cs0zKBU1kc0i8ypK3B9ai', 'name': 'David Guetta', 'type': 'artist', 'uri': 'spotify:artist:1Cs0zKBU1kc0i8ypK3B9ai'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz'}, 'href': 'https://api.spotify.com/v1/artists/4D75GcNG95ebPtNvoNVXhz', 'id': '4D75GcNG95ebPtNvoNVXhz', 'name': 'AFROJACK', 'type': 'artist', 'uri': 'spotify:artist:4D75GcNG95ebPtNvoNVXhz'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb'}, 'href': 'https://api.spotify.com/v1/artists/64M6ah0SkkRsnPGtGiRAbb', 'id': '64M6ah0SkkRsnPGtGiRAbb', 'name': 'Bebe Rexha', 'type': 'artist', 'uri': 'spotify:artist:64M6ah0SkkRsnPGtGiRAbb'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh'}, 'href': 'https://api.spotify.com/v1/artists/0hCNtLu0JehylgoiP8L4Gh', 'id': '0hCNtLu0JehylgoiP8L4Gh', 'name': 'Nicki Minaj', 'type': 'artist', 'uri': 'spotify:artist:0hCNtLu0JehylgoiP8L4Gh'}]
+Artista 'David Guetta' inserido com sucesso no banco de dados.
+Artista 'AFROJACK' inserido com sucesso no banco de dados.
+Artista 'Bebe Rexha' inserido com sucesso no banco de dados.
+Artista 'Nicki Minaj' inserido com sucesso no banco de dados.
+Album 'Listen' inserido com sucesso no banco de dados.
+Faixa 'Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H'}, 'href': 'https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H', 'id': '5pKCCKE2ajJHZ9KAiaK11H', 'name': 'Rihanna', 'type': 'artist', 'uri': 'spotify:artist:5pKCCKE2ajJHZ9KAiaK11H'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4'}, 'href': 'https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4', 'id': '3TVXtAsR1Inumwj472S9r4', 'name': 'Drake', 'type': 'artist', 'uri': 'spotify:artist:3TVXtAsR1Inumwj472S9r4'}]
+Artista 'Rihanna' inserido com sucesso no banco de dados.
+Artista 'Drake' inserido com sucesso no banco de dados.
+Album 'ANTI (Deluxe)' inserido com sucesso no banco de dados.
+Faixa 'Work' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz'}, 'href': 'https://api.spotify.com/v1/artists/6T5tfhQCknKG4UnH90qGnz', 'id': '6T5tfhQCknKG4UnH90qGnz', 'name': 'DNCE', 'type': 'artist', 'uri': 'spotify:artist:6T5tfhQCknKG4UnH90qGnz'}]
+Artista 'DNCE' inserido com sucesso no banco de dados.
+Album 'Cake By The Ocean' inserido com sucesso no banco de dados.
+Faixa 'Cake By The Ocean' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt'}, 'href': 'https://api.spotify.com/v1/artists/1l8Fu6IkuTP0U5QetQJ5Xt', 'id': '1l8Fu6IkuTP0U5QetQJ5Xt', 'name': 'Fifth Harmony', 'type': 'artist', 'uri': 'spotify:artist:1l8Fu6IkuTP0U5QetQJ5Xt'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq'}, 'href': 'https://api.spotify.com/v1/artists/7c0XG5cIJTrrAgEC3ULPiq', 'id': '7c0XG5cIJTrrAgEC3ULPiq', 'name': 'Ty Dolla $ign', 'type': 'artist', 'uri': 'spotify:artist:7c0XG5cIJTrrAgEC3ULPiq'}]
+Artista 'Fifth Harmony' inserido com sucesso no banco de dados.
+Artista 'Ty Dolla $ign' inserido com sucesso no banco de dados.
+Album '7/27 (Deluxe)' inserido com sucesso no banco de dados.
+Faixa 'Work from Home (feat. Ty Dolla $ign)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s'}, 'href': 'https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s', 'id': '1uNFoZAHBGtllmzznpCI3s', 'name': 'Justin Bieber', 'type': 'artist', 'uri': 'spotify:artist:1uNFoZAHBGtllmzznpCI3s'}]
+Artista 'Justin Bieber' inserido com sucesso no banco de dados.
+Album 'Purpose (Deluxe)' inserido com sucesso no banco de dados.
+Faixa 'Sorry' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp'}, 'href': 'https://api.spotify.com/v1/artists/3hv9jJF3adDNsBSIQDqcjp', 'id': '3hv9jJF3adDNsBSIQDqcjp', 'name': 'Mark Ronson', 'type': 'artist', 'uri': 'spotify:artist:3hv9jJF3adDNsBSIQDqcjp'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C'}, 'href': 'https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C', 'id': '0du5cEVh5yTK9QJze8zA0C', 'name': 'Bruno Mars', 'type': 'artist', 'uri': 'spotify:artist:0du5cEVh5yTK9QJze8zA0C'}]
+Artista 'Mark Ronson' inserido com sucesso no banco de dados.
+Artista 'Bruno Mars' inserido com sucesso no banco de dados.
+Album 'Uptown Funk (Remixes) (feat. Bruno Mars)' inserido com sucesso no banco de dados.
+Faixa 'Uptown Funk (feat. Bruno Mars)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C'}, 'href': 'https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C', 'id': '0du5cEVh5yTK9QJze8zA0C', 'name': 'Bruno Mars', 'type': 'artist', 'uri': 'spotify:artist:0du5cEVh5yTK9QJze8zA0C'}]
+Artista 'Bruno Mars' inserido com sucesso no banco de dados.
+Album 'Doo-Wops & Hooligans' inserido com sucesso no banco de dados.
+Faixa 'Just the Way You Are' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C'}, 'href': 'https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C', 'id': '0du5cEVh5yTK9QJze8zA0C', 'name': 'Bruno Mars', 'type': 'artist', 'uri': 'spotify:artist:0du5cEVh5yTK9QJze8zA0C'}]
+Artista 'Bruno Mars' inserido com sucesso no banco de dados.
+Album 'Unorthodox Jukebox' inserido com sucesso no banco de dados.
+Faixa 'Locked out of Heaven' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX'}, 'href': 'https://api.spotify.com/v1/artists/4UXqAaa6dQYAk18Lv7PEgX', 'id': '4UXqAaa6dQYAk18Lv7PEgX', 'name': 'Fall Out Boy', 'type': 'artist', 'uri': 'spotify:artist:4UXqAaa6dQYAk18Lv7PEgX'}]
+Artista 'Fall Out Boy' inserido com sucesso no banco de dados.
+Album 'Save Rock And Roll' inserido com sucesso no banco de dados.
+Faixa 'My Songs Know What You Did In The Dark (Light Em Up)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c'}, 'href': 'https://api.spotify.com/v1/artists/0DxeaLnv6SyYk2DOqkLO8c', 'id': '0DxeaLnv6SyYk2DOqkLO8c', 'name': 'MAGIC!', 'type': 'artist', 'uri': 'spotify:artist:0DxeaLnv6SyYk2DOqkLO8c'}]
+Artista 'MAGIC!' inserido com sucesso no banco de dados.
+Album 'Don't Kill the Magic' inserido com sucesso no banco de dados.
+Faixa 'Rude' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG'}, 'href': 'https://api.spotify.com/v1/artists/4V8Sr092TqfHkfAA5fXXqG', 'id': '4V8Sr092TqfHkfAA5fXXqG', 'name': 'Luis Fonsi', 'type': 'artist', 'uri': 'spotify:artist:4V8Sr092TqfHkfAA5fXXqG'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m'}, 'href': 'https://api.spotify.com/v1/artists/4VMYDCV2IEDYJArk749S6m', 'id': '4VMYDCV2IEDYJArk749S6m', 'name': 'Daddy Yankee', 'type': 'artist', 'uri': 'spotify:artist:4VMYDCV2IEDYJArk749S6m'}]
+Artista 'Luis Fonsi' inserido com sucesso no banco de dados.
+Artista 'Daddy Yankee' inserido com sucesso no banco de dados.
+Album 'Despacito (Featuring Daddy Yankee)' inserido com sucesso no banco de dados.
+Faixa 'Despacito (Featuring Daddy Yankee)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG'}, 'href': 'https://api.spotify.com/v1/artists/4V8Sr092TqfHkfAA5fXXqG', 'id': '4V8Sr092TqfHkfAA5fXXqG', 'name': 'Luis Fonsi', 'type': 'artist', 'uri': 'spotify:artist:4V8Sr092TqfHkfAA5fXXqG'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m'}, 'href': 'https://api.spotify.com/v1/artists/4VMYDCV2IEDYJArk749S6m', 'id': '4VMYDCV2IEDYJArk749S6m', 'name': 'Daddy Yankee', 'type': 'artist', 'uri': 'spotify:artist:4VMYDCV2IEDYJArk749S6m'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s'}, 'href': 'https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s', 'id': '1uNFoZAHBGtllmzznpCI3s', 'name': 'Justin Bieber', 'type': 'artist', 'uri': 'spotify:artist:1uNFoZAHBGtllmzznpCI3s'}]
+Artista 'Luis Fonsi' inserido com sucesso no banco de dados.
+Artista 'Daddy Yankee' inserido com sucesso no banco de dados.
+Artista 'Justin Bieber' inserido com sucesso no banco de dados.
+Album 'Despacito Feat. Justin Bieber (Remix)' inserido com sucesso no banco de dados.
+Faixa 'Despacito - Remix' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh'}, 'href': 'https://api.spotify.com/v1/artists/5MouCg6ta7zAxsfMEbc1uh', 'id': '5MouCg6ta7zAxsfMEbc1uh', 'name': 'OMI', 'type': 'artist', 'uri': 'spotify:artist:5MouCg6ta7zAxsfMEbc1uh'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG'}, 'href': 'https://api.spotify.com/v1/artists/4bL2B6hmLlMWnUEZnorEtG', 'id': '4bL2B6hmLlMWnUEZnorEtG', 'name': 'Felix Jaehn', 'type': 'artist', 'uri': 'spotify:artist:4bL2B6hmLlMWnUEZnorEtG'}]
+Artista 'OMI' inserido com sucesso no banco de dados.
+Artista 'Felix Jaehn' inserido com sucesso no banco de dados.
+Album 'Me 4 U' inserido com sucesso no banco de dados.
+Faixa 'Cheerleader (Felix Jaehn Remix) - Radio Edit' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ'}, 'href': 'https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ', 'id': '1Xyo4u8uXC1ZmMpatF05PJ', 'name': 'The Weeknd', 'type': 'artist', 'uri': 'spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi'}, 'href': 'https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi', 'id': '4tZwfgrHOc3mvqYlEYSvVi', 'name': 'Daft Punk', 'type': 'artist', 'uri': 'spotify:artist:4tZwfgrHOc3mvqYlEYSvVi'}]
+Artista 'The Weeknd' inserido com sucesso no banco de dados.
+Artista 'Daft Punk' inserido com sucesso no banco de dados.
+Album 'Starboy' inserido com sucesso no banco de dados.
+Faixa 'Starboy' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN'}, 'href': 'https://api.spotify.com/v1/artists/5WUlDfRSoLAfcVSX1WnrxN', 'id': '5WUlDfRSoLAfcVSX1WnrxN', 'name': 'Sia', 'type': 'artist', 'uri': 'spotify:artist:5WUlDfRSoLAfcVSX1WnrxN'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9'}, 'href': 'https://api.spotify.com/v1/artists/3Isy6kedDrgPYoTS1dazA9', 'id': '3Isy6kedDrgPYoTS1dazA9', 'name': 'Sean Paul', 'type': 'artist', 'uri': 'spotify:artist:3Isy6kedDrgPYoTS1dazA9'}]
+Artista 'Sia' inserido com sucesso no banco de dados.
+Artista 'Sean Paul' inserido com sucesso no banco de dados.
+Album 'Cheap Thrills (feat. Sean Paul)' inserido com sucesso no banco de dados.
+Faixa 'Cheap Thrills (feat. Sean Paul)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81'}, 'href': 'https://api.spotify.com/v1/artists/5ZsFI1h6hIdQRw2ti0hz81', 'id': '5ZsFI1h6hIdQRw2ti0hz81', 'name': 'ZAYN', 'type': 'artist', 'uri': 'spotify:artist:5ZsFI1h6hIdQRw2ti0hz81'}]
+Artista 'ZAYN' inserido com sucesso no banco de dados.
+Album 'Mind Of Mine (Deluxe Edition)' inserido com sucesso no banco de dados.
+Faixa 'PILLOWTALK' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp'}, 'href': 'https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp', 'id': '69GGBxA162lTqCwzJG5jLp', 'name': 'The Chainsmokers', 'type': 'artist', 'uri': 'spotify:artist:69GGBxA162lTqCwzJG5jLp'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH'}, 'href': 'https://api.spotify.com/v1/artists/6Dd3NScHWwnW6obMFbl1BH', 'id': '6Dd3NScHWwnW6obMFbl1BH', 'name': 'Daya', 'type': 'artist', 'uri': 'spotify:artist:6Dd3NScHWwnW6obMFbl1BH'}]
+Artista 'The Chainsmokers' inserido com sucesso no banco de dados.
+Artista 'Daya' inserido com sucesso no banco de dados.
+Album 'Don't Let Me Down' inserido com sucesso no banco de dados.
+Faixa 'Don't Let Me Down' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D'}, 'href': 'https://api.spotify.com/v1/artists/7iZtZyCzp3LItcw1wtPI3D', 'id': '7iZtZyCzp3LItcw1wtPI3D', 'name': 'Rae Sremmurd', 'type': 'artist', 'uri': 'spotify:artist:7iZtZyCzp3LItcw1wtPI3D'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo'}, 'href': 'https://api.spotify.com/v1/artists/13y7CgLHjMVRMDqxdx0Xdo', 'id': '13y7CgLHjMVRMDqxdx0Xdo', 'name': 'Gucci Mane', 'type': 'artist', 'uri': 'spotify:artist:13y7CgLHjMVRMDqxdx0Xdo'}]
+Artista 'Rae Sremmurd' inserido com sucesso no banco de dados.
+Artista 'Gucci Mane' inserido com sucesso no banco de dados.
+Album 'SremmLife 2 (Deluxe)' inserido com sucesso no banco de dados.
+Faixa 'Black Beatles' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN'}, 'href': 'https://api.spotify.com/v1/artists/5WUlDfRSoLAfcVSX1WnrxN', 'id': '5WUlDfRSoLAfcVSX1WnrxN', 'name': 'Sia', 'type': 'artist', 'uri': 'spotify:artist:5WUlDfRSoLAfcVSX1WnrxN'}]
+Artista 'Sia' inserido com sucesso no banco de dados.
+Album 'This Is Acting (Deluxe Version)' inserido com sucesso no banco de dados.
+Faixa 'The Greatest' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C'}, 'href': 'https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C', 'id': '0du5cEVh5yTK9QJze8zA0C', 'name': 'Bruno Mars', 'type': 'artist', 'uri': 'spotify:artist:0du5cEVh5yTK9QJze8zA0C'}]
+Artista 'Bruno Mars' inserido com sucesso no banco de dados.
+Album '24K Magic' inserido com sucesso no banco de dados.
+Faixa 'That's What I Like' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp'}, 'href': 'https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp', 'id': '0EmeFodog0BfCgMzAIvKQp', 'name': 'Shakira', 'type': 'artist', 'uri': 'spotify:artist:0EmeFodog0BfCgMzAIvKQp'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau'}, 'href': 'https://api.spotify.com/v1/artists/1r4hJ1h58CWwUQe3MxPuau', 'id': '1r4hJ1h58CWwUQe3MxPuau', 'name': 'Maluma', 'type': 'artist', 'uri': 'spotify:artist:1r4hJ1h58CWwUQe3MxPuau'}]
+Artista 'Shakira' inserido com sucesso no banco de dados.
+Artista 'Maluma' inserido com sucesso no banco de dados.
+Album 'El Dorado' inserido com sucesso no banco de dados.
+Faixa 'Chantaje (feat. Maluma)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp'}, 'href': 'https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp', 'id': '69GGBxA162lTqCwzJG5jLp', 'name': 'The Chainsmokers', 'type': 'artist', 'uri': 'spotify:artist:69GGBxA162lTqCwzJG5jLp'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2'}, 'href': 'https://api.spotify.com/v1/artists/26VFTg2z8YR0cCuwLzESi2', 'id': '26VFTg2z8YR0cCuwLzESi2', 'name': 'Halsey', 'type': 'artist', 'uri': 'spotify:artist:26VFTg2z8YR0cCuwLzESi2'}]
+Artista 'The Chainsmokers' inserido com sucesso no banco de dados.
+Artista 'Halsey' inserido com sucesso no banco de dados.
+Album 'Closer' inserido com sucesso no banco de dados.
+Faixa 'Closer' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C'}, 'href': 'https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C', 'id': '0du5cEVh5yTK9QJze8zA0C', 'name': 'Bruno Mars', 'type': 'artist', 'uri': 'spotify:artist:0du5cEVh5yTK9QJze8zA0C'}]
+Artista 'Bruno Mars' inserido com sucesso no banco de dados.
+Album '24K Magic' inserido com sucesso no banco de dados.
+Faixa '24K Magic' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4'}, 'href': 'https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4', 'id': '3TVXtAsR1Inumwj472S9r4', 'name': 'Drake', 'type': 'artist', 'uri': 'spotify:artist:3TVXtAsR1Inumwj472S9r4'}]
+Artista 'Drake' inserido com sucesso no banco de dados.
+Album 'Views' inserido com sucesso no banco de dados.
+Faixa 'Hotline Bling' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN'}, 'href': 'https://api.spotify.com/v1/artists/5WUlDfRSoLAfcVSX1WnrxN', 'id': '5WUlDfRSoLAfcVSX1WnrxN', 'name': 'Sia', 'type': 'artist', 'uri': 'spotify:artist:5WUlDfRSoLAfcVSX1WnrxN'}]
+Artista 'Sia' inserido com sucesso no banco de dados.
+Album '1000 Forms Of Fear' inserido com sucesso no banco de dados.
+Faixa 'Chandelier' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr'}, 'href': 'https://api.spotify.com/v1/artists/7n2wHs1TKAczGzO7Dd2rGr', 'id': '7n2wHs1TKAczGzO7Dd2rGr', 'name': 'Shawn Mendes', 'type': 'artist', 'uri': 'spotify:artist:7n2wHs1TKAczGzO7Dd2rGr'}]
+Artista 'Shawn Mendes' inserido com sucesso no banco de dados.
+Album 'Illuminate' inserido com sucesso no banco de dados.
+Faixa 'Treat You Better' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G'}, 'href': 'https://api.spotify.com/v1/artists/3r17AfJCCUqC9Lf0OAc73G', 'id': '3r17AfJCCUqC9Lf0OAc73G', 'name': 'Fergie', 'type': 'artist', 'uri': 'spotify:artist:3r17AfJCCUqC9Lf0OAc73G'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA'}, 'href': 'https://api.spotify.com/v1/artists/085pc2PYOi8bGKj0PNjekA', 'id': '085pc2PYOi8bGKj0PNjekA', 'name': 'will.i.am', 'type': 'artist', 'uri': 'spotify:artist:085pc2PYOi8bGKj0PNjekA'}]
+Artista 'Fergie' inserido com sucesso no banco de dados.
+Artista 'will.i.am' inserido com sucesso no banco de dados.
+Album 'The Dutchess (Explicit Version)' inserido com sucesso no banco de dados.
+Faixa 'Fergalicious' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp'}, 'href': 'https://api.spotify.com/v1/artists/738wLrAtLtCtFOLvQBXOXp', 'id': '738wLrAtLtCtFOLvQBXOXp', 'name': 'Major Lazer', 'type': 'artist', 'uri': 'spotify:artist:738wLrAtLtCtFOLvQBXOXp'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv'}, 'href': 'https://api.spotify.com/v1/artists/0bdfiayQAKewqEvaU6rXCv', 'id': '0bdfiayQAKewqEvaU6rXCv', 'name': 'MØ', 'type': 'artist', 'uri': 'spotify:artist:0bdfiayQAKewqEvaU6rXCv'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4'}, 'href': 'https://api.spotify.com/v1/artists/540vIaP2JwjQb9dm3aArA4', 'id': '540vIaP2JwjQb9dm3aArA4', 'name': 'DJ Snake', 'type': 'artist', 'uri': 'spotify:artist:540vIaP2JwjQb9dm3aArA4'}]
+Artista 'Major Lazer' inserido com sucesso no banco de dados.
+Artista 'MØ' inserido com sucesso no banco de dados.
+Artista 'DJ Snake' inserido com sucesso no banco de dados.
+Album 'Peace Is The Mission' inserido com sucesso no banco de dados.
+Faixa 'Lean On (feat. MØ & DJ Snake)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj'}, 'href': 'https://api.spotify.com/v1/artists/23zg3TcAtWQy7J6upgbUnj', 'id': '23zg3TcAtWQy7J6upgbUnj', 'name': 'USHER', 'type': 'artist', 'uri': 'spotify:artist:23zg3TcAtWQy7J6upgbUnj'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK'}, 'href': 'https://api.spotify.com/v1/artists/7sfl4Xt5KmfyDs2T3SVSMK', 'id': '7sfl4Xt5KmfyDs2T3SVSMK', 'name': 'Lil Jon', 'type': 'artist', 'uri': 'spotify:artist:7sfl4Xt5KmfyDs2T3SVSMK'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi'}, 'href': 'https://api.spotify.com/v1/artists/3ipn9JLAPI5GUEo4y4jcoi', 'id': '3ipn9JLAPI5GUEo4y4jcoi', 'name': 'Ludacris', 'type': 'artist', 'uri': 'spotify:artist:3ipn9JLAPI5GUEo4y4jcoi'}]
+Artista 'USHER' inserido com sucesso no banco de dados.
+Artista 'Lil Jon' inserido com sucesso no banco de dados.
+Artista 'Ludacris' inserido com sucesso no banco de dados.
+Album 'Confessions (Expanded Edition)' inserido com sucesso no banco de dados.
+Faixa 'Yeah! (feat. Lil Jon & Ludacris)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx'}, 'href': 'https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx', 'id': '3YQKmKGau1PzlVlkL1iodx', 'name': 'Twenty One Pilots', 'type': 'artist', 'uri': 'spotify:artist:3YQKmKGau1PzlVlkL1iodx'}]
+Artista 'Twenty One Pilots' inserido com sucesso no banco de dados.
+Album 'Stressed Out' inserido com sucesso no banco de dados.
+Faixa 'Stressed Out' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX'}, 'href': 'https://api.spotify.com/v1/artists/6LqNN22kT3074XbTVUrhzX', 'id': '6LqNN22kT3074XbTVUrhzX', 'name': 'Kesha', 'type': 'artist', 'uri': 'spotify:artist:6LqNN22kT3074XbTVUrhzX'}]
+Artista 'Kesha' inserido com sucesso no banco de dados.
+Album 'TiK-Tok - Remixes' inserido com sucesso no banco de dados.
+Faixa 'TiK ToK' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF'}, 'href': 'https://api.spotify.com/v1/artists/0uq5PttqEjj3IH1bzwcrXF', 'id': '0uq5PttqEjj3IH1bzwcrXF', 'name': 'Spice Girls', 'type': 'artist', 'uri': 'spotify:artist:0uq5PttqEjj3IH1bzwcrXF'}]
+Artista 'Spice Girls' inserido com sucesso no banco de dados.
+Erro ao inserir o album 'Virgin Records: 40 Years Of Disruptions' no banco de dados: insert or update on table "albums" violates foreign key constraint "albums_artist_id_fkey"
+DETAIL:  Key (artist_id)=(0LyfQWJT6nXafLPZqxe9Of) is not present in table "artists".
+
+Erro ao inserir a faixa 'Wannabe' no banco de dados: insert or update on table "tracks" violates foreign key constraint "tracks_album_id_fkey"
+DETAIL:  Key (album_id)=(1PDvi5uU71NCpZ7TPdcl6B) is not present in table "albums".
+
+Erro ao inserir a faixa '0n6FMFq5bE22tNTmd6L9U4' da playlist '0LYpdcWIRk19rC026Rnmbi' no banco de dados: insert or update on table "playlisttracks" violates foreign key constraint "playlisttracks_track_id_fkey"
+DETAIL:  Key (track_id)=(0n6FMFq5bE22tNTmd6L9U4) is not present in table "tracks".
+
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X'}, 'href': 'https://api.spotify.com/v1/artists/6jJ0s89eD6GaHleKKya26X', 'id': '6jJ0s89eD6GaHleKKya26X', 'name': 'Katy Perry', 'type': 'artist', 'uri': 'spotify:artist:6jJ0s89eD6GaHleKKya26X'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi'}, 'href': 'https://api.spotify.com/v1/artists/5gCRApTajqwbnHHPbr2Fpi', 'id': '5gCRApTajqwbnHHPbr2Fpi', 'name': 'Juicy J', 'type': 'artist', 'uri': 'spotify:artist:5gCRApTajqwbnHHPbr2Fpi'}]
+Artista 'Katy Perry' inserido com sucesso no banco de dados.
+Artista 'Juicy J' inserido com sucesso no banco de dados.
+Album 'PRISM (Deluxe)' inserido com sucesso no banco de dados.
+Faixa 'Dark Horse' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK'}, 'href': 'https://api.spotify.com/v1/artists/20JZFwl6HVl6yg8a4H3ZqK', 'id': '20JZFwl6HVl6yg8a4H3ZqK', 'name': 'Panic! At The Disco', 'type': 'artist', 'uri': 'spotify:artist:20JZFwl6HVl6yg8a4H3ZqK'}]
+Artista 'Panic! At The Disco' inserido com sucesso no banco de dados.
+Album 'Emperor's New Clothes' inserido com sucesso no banco de dados.
+Faixa 'Emperor's New Clothes' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS'}, 'href': 'https://api.spotify.com/v1/artists/1yxSLGMDHlW21z4YXirZDS', 'id': '1yxSLGMDHlW21z4YXirZDS', 'name': 'Black Eyed Peas', 'type': 'artist', 'uri': 'spotify:artist:1yxSLGMDHlW21z4YXirZDS'}]
+Artista 'Black Eyed Peas' inserido com sucesso no banco de dados.
+Album 'Monkey Business' inserido com sucesso no banco de dados.
+Faixa 'Pump It' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF'}, 'href': 'https://api.spotify.com/v1/artists/74XFHRwlV6OrjEM0A2NCMF', 'id': '74XFHRwlV6OrjEM0A2NCMF', 'name': 'Paramore', 'type': 'artist', 'uri': 'spotify:artist:74XFHRwlV6OrjEM0A2NCMF'}]
+Artista 'Paramore' inserido com sucesso no banco de dados.
+Album 'Riot!' inserido com sucesso no banco de dados.
+Faixa 'That's What You Get' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ'}, 'href': 'https://api.spotify.com/v1/artists/5Pwc4xIPtQLFEnJriah9YJ', 'id': '5Pwc4xIPtQLFEnJriah9YJ', 'name': 'OneRepublic', 'type': 'artist', 'uri': 'spotify:artist:5Pwc4xIPtQLFEnJriah9YJ'}]
+Artista 'OneRepublic' inserido com sucesso no banco de dados.
+Album 'Native' inserido com sucesso no banco de dados.
+Faixa 'Counting Stars' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X'}, 'href': 'https://api.spotify.com/v1/artists/6jJ0s89eD6GaHleKKya26X', 'id': '6jJ0s89eD6GaHleKKya26X', 'name': 'Katy Perry', 'type': 'artist', 'uri': 'spotify:artist:6jJ0s89eD6GaHleKKya26X'}]
+Artista 'Katy Perry' inserido com sucesso no banco de dados.
+Album 'Teenage Dream' inserido com sucesso no banco de dados.
+Faixa 'Firework' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz'}, 'href': 'https://api.spotify.com/v1/artists/6JL8zeS1NmiOftqZTRgdTz', 'id': '6JL8zeS1NmiOftqZTRgdTz', 'name': 'Meghan Trainor', 'type': 'artist', 'uri': 'spotify:artist:6JL8zeS1NmiOftqZTRgdTz'}]
+Artista 'Meghan Trainor' inserido com sucesso no banco de dados.
+Album 'All About That Bass' inserido com sucesso no banco de dados.
+Faixa 'All About That Bass' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju'}, 'href': 'https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju', 'id': '6sFIWsNpZYqfjUpaCgueju', 'name': 'Carly Rae Jepsen', 'type': 'artist', 'uri': 'spotify:artist:6sFIWsNpZYqfjUpaCgueju'}]
+Artista 'Carly Rae Jepsen' inserido com sucesso no banco de dados.
+Album 'Call Me Maybe' inserido com sucesso no banco de dados.
+Faixa 'Call Me Maybe' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q'}, 'href': 'https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q', 'id': '53XhwfbYqKCa1cC15pYq2q', 'name': 'Imagine Dragons', 'type': 'artist', 'uri': 'spotify:artist:53XhwfbYqKCa1cC15pYq2q'}]
+Artista 'Imagine Dragons' inserido com sucesso no banco de dados.
+Album 'Night Visions (Deluxe)' inserido com sucesso no banco de dados.
+Faixa 'Radioactive' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg'}, 'href': 'https://api.spotify.com/v1/artists/0TnOYISbd1XYRBk9myaseg', 'id': '0TnOYISbd1XYRBk9myaseg', 'name': 'Pitbull', 'type': 'artist', 'uri': 'spotify:artist:0TnOYISbd1XYRBk9myaseg'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX'}, 'href': 'https://api.spotify.com/v1/artists/6LqNN22kT3074XbTVUrhzX', 'id': '6LqNN22kT3074XbTVUrhzX', 'name': 'Kesha', 'type': 'artist', 'uri': 'spotify:artist:6LqNN22kT3074XbTVUrhzX'}]
+Artista 'Pitbull' inserido com sucesso no banco de dados.
+Artista 'Kesha' inserido com sucesso no banco de dados.
+Album 'Timber' inserido com sucesso no banco de dados.
+Faixa 'Timber' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd'}, 'href': 'https://api.spotify.com/v1/artists/2iEvnFsWxR0Syqu2JNopAd', 'id': '2iEvnFsWxR0Syqu2JNopAd', 'name': 'Smash Mouth', 'type': 'artist', 'uri': 'spotify:artist:2iEvnFsWxR0Syqu2JNopAd'}]
+Artista 'Smash Mouth' inserido com sucesso no banco de dados.
+Album 'All Star Smash Hits' inserido com sucesso no banco de dados.
+Faixa 'All Star' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6f1YthbbEpu9qHzOUW2UYI'}, 'href': 'https://api.spotify.com/v1/artists/6f1YthbbEpu9qHzOUW2UYI', 'id': '6f1YthbbEpu9qHzOUW2UYI', 'name': 'Tonight', 'type': 'artist', 'uri': 'spotify:artist:6f1YthbbEpu9qHzOUW2UYI'}]
+Artista 'Tonight' inserido com sucesso no banco de dados.
+Album 'We Are Young - Single' inserido com sucesso no banco de dados.
+Faixa 'We Are Young' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms'}, 'href': 'https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms', 'id': '1HY2Jd0NmPuamShAr6KMms', 'name': 'Lady Gaga', 'type': 'artist', 'uri': 'spotify:artist:1HY2Jd0NmPuamShAr6KMms'}]
+Artista 'Lady Gaga' inserido com sucesso no banco de dados.
+Album 'Poker Face' inserido com sucesso no banco de dados.
+Faixa 'Poker Face' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6'}, 'href': 'https://api.spotify.com/v1/artists/1vCWHaC5f2uS3yhpwWbIA6', 'id': '1vCWHaC5f2uS3yhpwWbIA6', 'name': 'Avicii', 'type': 'artist', 'uri': 'spotify:artist:1vCWHaC5f2uS3yhpwWbIA6'}]
+Artista 'Avicii' inserido com sucesso no banco de dados.
+Album 'True' inserido com sucesso no banco de dados.
+Faixa 'Wake Me Up - Radio Edit' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS'}, 'href': 'https://api.spotify.com/v1/artists/1yxSLGMDHlW21z4YXirZDS', 'id': '1yxSLGMDHlW21z4YXirZDS', 'name': 'Black Eyed Peas', 'type': 'artist', 'uri': 'spotify:artist:1yxSLGMDHlW21z4YXirZDS'}]
+Artista 'Black Eyed Peas' inserido com sucesso no banco de dados.
+Album 'THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]' inserido com sucesso no banco de dados.
+Faixa 'Boom Boom Pow' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6EysjvvcafloXNdLkwuGLm'}, 'href': 'https://api.spotify.com/v1/artists/6EysjvvcafloXNdLkwuGLm', 'id': '6EysjvvcafloXNdLkwuGLm', 'name': 'Tragédie', 'type': 'artist', 'uri': 'spotify:artist:6EysjvvcafloXNdLkwuGLm'}]
+Artista 'Tragédie' inserido com sucesso no banco de dados.
+Album 'Tragédie' inserido com sucesso no banco de dados.
+Faixa 'Hey Oh - Radio Edit' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V'}, 'href': 'https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V', 'id': '6eUKZXaKkcviH0Ku9w2n3V', 'name': 'Ed Sheeran', 'type': 'artist', 'uri': 'spotify:artist:6eUKZXaKkcviH0Ku9w2n3V'}]
+Artista 'Ed Sheeran' inserido com sucesso no banco de dados.
+Album 'Shape of You' inserido com sucesso no banco de dados.
+Faixa 'Shape of You' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W'}, 'href': 'https://api.spotify.com/v1/artists/0NGAZxHanS9e0iNHpR8f2W', 'id': '0NGAZxHanS9e0iNHpR8f2W', 'name': 'Alok', 'type': 'artist', 'uri': 'spotify:artist:0NGAZxHanS9e0iNHpR8f2W'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L'}, 'href': 'https://api.spotify.com/v1/artists/5veVxxPm1vzgi6pO2iVA8L', 'id': '5veVxxPm1vzgi6pO2iVA8L', 'name': 'Bruno Martini', 'type': 'artist', 'uri': 'spotify:artist:5veVxxPm1vzgi6pO2iVA8L'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK'}, 'href': 'https://api.spotify.com/v1/artists/7qPLO2XOUaRrRxkvLZ3AEK', 'id': '7qPLO2XOUaRrRxkvLZ3AEK', 'name': 'Zeeba', 'type': 'artist', 'uri': 'spotify:artist:7qPLO2XOUaRrRxkvLZ3AEK'}]
+Artista 'Alok' inserido com sucesso no banco de dados.
+Artista 'Bruno Martini' inserido com sucesso no banco de dados.
+Artista 'Zeeba' inserido com sucesso no banco de dados.
+Album 'Hear Me Now' inserido com sucesso no banco de dados.
+Faixa 'Hear Me Now' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR'}, 'href': 'https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR', 'id': '7dGJo4pcD2V6oG8kP0tJRR', 'name': 'Eminem', 'type': 'artist', 'uri': 'spotify:artist:7dGJo4pcD2V6oG8kP0tJRR'}]
+Artista 'Eminem' inserido com sucesso no banco de dados.
+Album 'Curtain Call (Deluxe)' inserido com sucesso no banco de dados.
+Faixa 'The Real Slim Shady' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB'}, 'href': 'https://api.spotify.com/v1/artists/0NKDgy9j66h3DLnN8qu1bB', 'id': '0NKDgy9j66h3DLnN8qu1bB', 'name': 'Eurythmics', 'type': 'artist', 'uri': 'spotify:artist:0NKDgy9j66h3DLnN8qu1bB'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum'}, 'href': 'https://api.spotify.com/v1/artists/5MspMQqdVbdwP6ax3GXqum', 'id': '5MspMQqdVbdwP6ax3GXqum', 'name': 'Annie Lennox', 'type': 'artist', 'uri': 'spotify:artist:5MspMQqdVbdwP6ax3GXqum'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg'}, 'href': 'https://api.spotify.com/v1/artists/7gcCQIlkkfbul5Mt0jBQkg', 'id': '7gcCQIlkkfbul5Mt0jBQkg', 'name': 'Dave Stewart', 'type': 'artist', 'uri': 'spotify:artist:7gcCQIlkkfbul5Mt0jBQkg'}]
+Artista 'Eurythmics' inserido com sucesso no banco de dados.
+Artista 'Annie Lennox' inserido com sucesso no banco de dados.
+Artista 'Dave Stewart' inserido com sucesso no banco de dados.
+Album 'Sweet Dreams (Are Made Of This)' inserido com sucesso no banco de dados.
+Faixa 'Sweet Dreams (Are Made of This) - Remastered' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H'}, 'href': 'https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H', 'id': '5pKCCKE2ajJHZ9KAiaK11H', 'name': 'Rihanna', 'type': 'artist', 'uri': 'spotify:artist:5pKCCKE2ajJHZ9KAiaK11H'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB'}, 'href': 'https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB', 'id': '3nFkdlSjzX9mRTtwJOzDYB', 'name': 'JAY-Z', 'type': 'artist', 'uri': 'spotify:artist:3nFkdlSjzX9mRTtwJOzDYB'}]
+Artista 'Rihanna' inserido com sucesso no banco de dados.
+Artista 'JAY-Z' inserido com sucesso no banco de dados.
+Album 'Good Girl Gone Bad: Reloaded' inserido com sucesso no banco de dados.
+Faixa 'Umbrella' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS'}, 'href': 'https://api.spotify.com/v1/artists/1yxSLGMDHlW21z4YXirZDS', 'id': '1yxSLGMDHlW21z4YXirZDS', 'name': 'Black Eyed Peas', 'type': 'artist', 'uri': 'spotify:artist:1yxSLGMDHlW21z4YXirZDS'}]
+Artista 'Black Eyed Peas' inserido com sucesso no banco de dados.
+Album 'Monkey Business' inserido com sucesso no banco de dados.
+Faixa 'My Humps' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X'}, 'href': 'https://api.spotify.com/v1/artists/6jJ0s89eD6GaHleKKya26X', 'id': '6jJ0s89eD6GaHleKKya26X', 'name': 'Katy Perry', 'type': 'artist', 'uri': 'spotify:artist:6jJ0s89eD6GaHleKKya26X'}]
+Artista 'Katy Perry' inserido com sucesso no banco de dados.
+Album 'One Of The Boys' inserido com sucesso no banco de dados.
+Faixa 'Hot N Cold' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC'}, 'href': 'https://api.spotify.com/v1/artists/6MF9fzBmfXghAz953czmBC', 'id': '6MF9fzBmfXghAz953czmBC', 'name': 'Taio Cruz', 'type': 'artist', 'uri': 'spotify:artist:6MF9fzBmfXghAz953czmBC'}]
+Artista 'Taio Cruz' inserido com sucesso no banco de dados.
+Album 'Rokstarr' inserido com sucesso no banco de dados.
+Faixa 'Dynamite' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS'}, 'href': 'https://api.spotify.com/v1/artists/1yxSLGMDHlW21z4YXirZDS', 'id': '1yxSLGMDHlW21z4YXirZDS', 'name': 'Black Eyed Peas', 'type': 'artist', 'uri': 'spotify:artist:1yxSLGMDHlW21z4YXirZDS'}]
+Artista 'Black Eyed Peas' inserido com sucesso no banco de dados.
+Album 'THE E.N.D. (THE ENERGY NEVER DIES)' inserido com sucesso no banco de dados.
+Faixa 'I Gotta Feeling' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X'}, 'href': 'https://api.spotify.com/v1/artists/6jJ0s89eD6GaHleKKya26X', 'id': '6jJ0s89eD6GaHleKKya26X', 'name': 'Katy Perry', 'type': 'artist', 'uri': 'spotify:artist:6jJ0s89eD6GaHleKKya26X'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG'}, 'href': 'https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG', 'id': '7hJcb9fa4alzcOq3EaNPoG', 'name': 'Snoop Dogg', 'type': 'artist', 'uri': 'spotify:artist:7hJcb9fa4alzcOq3EaNPoG'}]
+Artista 'Katy Perry' inserido com sucesso no banco de dados.
+Artista 'Snoop Dogg' inserido com sucesso no banco de dados.
+Album 'Teenage Dream' inserido com sucesso no banco de dados.
+Faixa 'California Gurls' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j'}, 'href': 'https://api.spotify.com/v1/artists/0p4nmQO2msCgU4IF37Wi3j', 'id': '0p4nmQO2msCgU4IF37Wi3j', 'name': 'Avril Lavigne', 'type': 'artist', 'uri': 'spotify:artist:0p4nmQO2msCgU4IF37Wi3j'}]
+Artista 'Avril Lavigne' inserido com sucesso no banco de dados.
+Album 'The Best Damn Thing' inserido com sucesso no banco de dados.
+Faixa 'Girlfriend' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK'}, 'href': 'https://api.spotify.com/v1/artists/20JZFwl6HVl6yg8a4H3ZqK', 'id': '20JZFwl6HVl6yg8a4H3ZqK', 'name': 'Panic! At The Disco', 'type': 'artist', 'uri': 'spotify:artist:20JZFwl6HVl6yg8a4H3ZqK'}]
+Artista 'Panic! At The Disco' inserido com sucesso no banco de dados.
+Album 'A Fever You Can't Sweat Out' inserido com sucesso no banco de dados.
+Faixa 'I Write Sins Not Tragedies' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR'}, 'href': 'https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR', 'id': '66CXWjxzNUsdJxJ2JdwvnR', 'name': 'Ariana Grande', 'type': 'artist', 'uri': 'spotify:artist:66CXWjxzNUsdJxJ2JdwvnR'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh'}, 'href': 'https://api.spotify.com/v1/artists/0hCNtLu0JehylgoiP8L4Gh', 'id': '0hCNtLu0JehylgoiP8L4Gh', 'name': 'Nicki Minaj', 'type': 'artist', 'uri': 'spotify:artist:0hCNtLu0JehylgoiP8L4Gh'}]
+Artista 'Ariana Grande' inserido com sucesso no banco de dados.
+Artista 'Nicki Minaj' inserido com sucesso no banco de dados.
+Album 'Dangerous Woman' inserido com sucesso no banco de dados.
+Faixa 'Side To Side' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X'}, 'href': 'https://api.spotify.com/v1/artists/6jJ0s89eD6GaHleKKya26X', 'id': '6jJ0s89eD6GaHleKKya26X', 'name': 'Katy Perry', 'type': 'artist', 'uri': 'spotify:artist:6jJ0s89eD6GaHleKKya26X'}]
+Artista 'Katy Perry' inserido com sucesso no banco de dados.
+Album 'One Of The Boys' inserido com sucesso no banco de dados.
+Faixa 'I Kissed A Girl' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp'}, 'href': 'https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp', 'id': '0EmeFodog0BfCgMzAIvKQp', 'name': 'Shakira', 'type': 'artist', 'uri': 'spotify:artist:0EmeFodog0BfCgMzAIvKQp'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe'}, 'href': 'https://api.spotify.com/v1/artists/7aBzpmFXB4WWpPl2F7RjBe', 'id': '7aBzpmFXB4WWpPl2F7RjBe', 'name': 'Wyclef Jean', 'type': 'artist', 'uri': 'spotify:artist:7aBzpmFXB4WWpPl2F7RjBe'}]
+Artista 'Shakira' inserido com sucesso no banco de dados.
+Artista 'Wyclef Jean' inserido com sucesso no banco de dados.
+Album 'Oral Fixation, Vol. 2 (Expanded Edition)' inserido com sucesso no banco de dados.
+Faixa 'Hips Don't Lie (feat. Wyclef Jean)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP'}, 'href': 'https://api.spotify.com/v1/artists/04gDigrS5kc9YWfZHwBETP', 'id': '04gDigrS5kc9YWfZHwBETP', 'name': 'Maroon 5', 'type': 'artist', 'uri': 'spotify:artist:04gDigrS5kc9YWfZHwBETP'}]
+Artista 'Maroon 5' inserido com sucesso no banco de dados.
+Album 'V (Deluxe)' inserido com sucesso no banco de dados.
+Faixa 'Animals' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X'}, 'href': 'https://api.spotify.com/v1/artists/6jJ0s89eD6GaHleKKya26X', 'id': '6jJ0s89eD6GaHleKKya26X', 'name': 'Katy Perry', 'type': 'artist', 'uri': 'spotify:artist:6jJ0s89eD6GaHleKKya26X'}]
+Artista 'Katy Perry' inserido com sucesso no banco de dados.
+Album 'PRISM (Deluxe)' inserido com sucesso no banco de dados.
+Faixa 'Roar' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou'}, 'href': 'https://api.spotify.com/v1/artists/2gsggkzM5R49q6jpPvazou', 'id': '2gsggkzM5R49q6jpPvazou', 'name': 'Jessie J', 'type': 'artist', 'uri': 'spotify:artist:2gsggkzM5R49q6jpPvazou'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR'}, 'href': 'https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR', 'id': '66CXWjxzNUsdJxJ2JdwvnR', 'name': 'Ariana Grande', 'type': 'artist', 'uri': 'spotify:artist:66CXWjxzNUsdJxJ2JdwvnR'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh'}, 'href': 'https://api.spotify.com/v1/artists/0hCNtLu0JehylgoiP8L4Gh', 'id': '0hCNtLu0JehylgoiP8L4Gh', 'name': 'Nicki Minaj', 'type': 'artist', 'uri': 'spotify:artist:0hCNtLu0JehylgoiP8L4Gh'}]
+Artista 'Jessie J' inserido com sucesso no banco de dados.
+Artista 'Ariana Grande' inserido com sucesso no banco de dados.
+Artista 'Nicki Minaj' inserido com sucesso no banco de dados.
+Album 'My Everything (Deluxe)' inserido com sucesso no banco de dados.
+Faixa 'Bang Bang' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ'}, 'href': 'https://api.spotify.com/v1/artists/0X2BH1fck6amBIoJhDVmmJ', 'id': '0X2BH1fck6amBIoJhDVmmJ', 'name': 'Ellie Goulding', 'type': 'artist', 'uri': 'spotify:artist:0X2BH1fck6amBIoJhDVmmJ'}]
+Artista 'Ellie Goulding' inserido com sucesso no banco de dados.
+Album 'Halcyon Days' inserido com sucesso no banco de dados.
+Faixa 'Burn' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm'}, 'href': 'https://api.spotify.com/v1/artists/163tK9Wjr9P9DmM0AVK7lm', 'id': '163tK9Wjr9P9DmM0AVK7lm', 'name': 'Lorde', 'type': 'artist', 'uri': 'spotify:artist:163tK9Wjr9P9DmM0AVK7lm'}]
+Artista 'Lorde' inserido com sucesso no banco de dados.
+Album 'Pure Heroine' inserido com sucesso no banco de dados.
+Faixa 'Royals' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q'}, 'href': 'https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q', 'id': '53XhwfbYqKCa1cC15pYq2q', 'name': 'Imagine Dragons', 'type': 'artist', 'uri': 'spotify:artist:53XhwfbYqKCa1cC15pYq2q'}]
+Artista 'Imagine Dragons' inserido com sucesso no banco de dados.
+Album 'Evolve' inserido com sucesso no banco de dados.
+Faixa 'Believer' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q'}, 'href': 'https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q', 'id': '53XhwfbYqKCa1cC15pYq2q', 'name': 'Imagine Dragons', 'type': 'artist', 'uri': 'spotify:artist:53XhwfbYqKCa1cC15pYq2q'}]
+Artista 'Imagine Dragons' inserido com sucesso no banco de dados.
+Album 'Smoke + Mirrors (Deluxe)' inserido com sucesso no banco de dados.
+Faixa 'Gold' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q'}, 'href': 'https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q', 'id': '53XhwfbYqKCa1cC15pYq2q', 'name': 'Imagine Dragons', 'type': 'artist', 'uri': 'spotify:artist:53XhwfbYqKCa1cC15pYq2q'}]
+Artista 'Imagine Dragons' inserido com sucesso no banco de dados.
+Album 'Smoke + Mirrors (Deluxe)' inserido com sucesso no banco de dados.
+Faixa 'Warriors' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q'}, 'href': 'https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q', 'id': '53XhwfbYqKCa1cC15pYq2q', 'name': 'Imagine Dragons', 'type': 'artist', 'uri': 'spotify:artist:53XhwfbYqKCa1cC15pYq2q'}]
+Artista 'Imagine Dragons' inserido com sucesso no banco de dados.
+Album 'Night Visions' inserido com sucesso no banco de dados.
+Faixa 'On Top Of The World' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC'}, 'href': 'https://api.spotify.com/v1/artists/5BcAKTbp20cv7tC5VqPFoC', 'id': '5BcAKTbp20cv7tC5VqPFoC', 'name': 'Macklemore & Ryan Lewis', 'type': 'artist', 'uri': 'spotify:artist:5BcAKTbp20cv7tC5VqPFoC'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/56xTxG4nQMAs1GW9kvn0uA'}, 'href': 'https://api.spotify.com/v1/artists/56xTxG4nQMAs1GW9kvn0uA', 'id': '56xTxG4nQMAs1GW9kvn0uA', 'name': 'Wanz', 'type': 'artist', 'uri': 'spotify:artist:56xTxG4nQMAs1GW9kvn0uA'}]
+Artista 'Macklemore & Ryan Lewis' inserido com sucesso no banco de dados.
+Artista 'Wanz' inserido com sucesso no banco de dados.
+Album 'The Heist (Deluxe Edition)' inserido com sucesso no banco de dados.
+Faixa 'Thrift Shop (feat. Wanz)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR'}, 'href': 'https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR', 'id': '7dGJo4pcD2V6oG8kP0tJRR', 'name': 'Eminem', 'type': 'artist', 'uri': 'spotify:artist:7dGJo4pcD2V6oG8kP0tJRR'}]
+Artista 'Eminem' inserido com sucesso no banco de dados.
+Album 'The Marshall Mathers LP2 (Deluxe)' inserido com sucesso no banco de dados.
+Faixa 'Rap God' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR'}, 'href': 'https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR', 'id': '7dGJo4pcD2V6oG8kP0tJRR', 'name': 'Eminem', 'type': 'artist', 'uri': 'spotify:artist:7dGJo4pcD2V6oG8kP0tJRR'}]
+Artista 'Eminem' inserido com sucesso no banco de dados.
+Album 'The Marshall Mathers LP2' inserido com sucesso no banco de dados.
+Faixa 'So Much Better' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR'}, 'href': 'https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR', 'id': '7dGJo4pcD2V6oG8kP0tJRR', 'name': 'Eminem', 'type': 'artist', 'uri': 'spotify:artist:7dGJo4pcD2V6oG8kP0tJRR'}]
+Artista 'Eminem' inserido com sucesso no banco de dados.
+Album 'The Marshall Mathers LP2' inserido com sucesso no banco de dados.
+Faixa 'Brainless' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/7o9Nl7K1Al6NNAHX6jn6iG'}, 'href': 'https://api.spotify.com/v1/artists/7o9Nl7K1Al6NNAHX6jn6iG', 'id': '7o9Nl7K1Al6NNAHX6jn6iG', 'name': 'Travie McCoy', 'type': 'artist', 'uri': 'spotify:artist:7o9Nl7K1Al6NNAHX6jn6iG'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C'}, 'href': 'https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C', 'id': '0du5cEVh5yTK9QJze8zA0C', 'name': 'Bruno Mars', 'type': 'artist', 'uri': 'spotify:artist:0du5cEVh5yTK9QJze8zA0C'}]
+Artista 'Travie McCoy' inserido com sucesso no banco de dados.
+Artista 'Bruno Mars' inserido com sucesso no banco de dados.
+Album 'Billionaire (feat. Bruno Mars)' inserido com sucesso no banco de dados.
+Faixa 'Billionaire (feat. Bruno Mars)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK'}, 'href': 'https://api.spotify.com/v1/artists/20JZFwl6HVl6yg8a4H3ZqK', 'id': '20JZFwl6HVl6yg8a4H3ZqK', 'name': 'Panic! At The Disco', 'type': 'artist', 'uri': 'spotify:artist:20JZFwl6HVl6yg8a4H3ZqK'}]
+Artista 'Panic! At The Disco' inserido com sucesso no banco de dados.
+Album 'Too Weird to Live, Too Rare to Die!' inserido com sucesso no banco de dados.
+Faixa 'This Is Gospel' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK'}, 'href': 'https://api.spotify.com/v1/artists/20JZFwl6HVl6yg8a4H3ZqK', 'id': '20JZFwl6HVl6yg8a4H3ZqK', 'name': 'Panic! At The Disco', 'type': 'artist', 'uri': 'spotify:artist:20JZFwl6HVl6yg8a4H3ZqK'}]
+Artista 'Panic! At The Disco' inserido com sucesso no banco de dados.
+Album 'Death of a Bachelor' inserido com sucesso no banco de dados.
+Faixa 'Don't Threaten Me with a Good Time' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6'}, 'href': 'https://api.spotify.com/v1/artists/1vCWHaC5f2uS3yhpwWbIA6', 'id': '1vCWHaC5f2uS3yhpwWbIA6', 'name': 'Avicii', 'type': 'artist', 'uri': 'spotify:artist:1vCWHaC5f2uS3yhpwWbIA6'}]
+Artista 'Avicii' inserido com sucesso no banco de dados.
+Album 'True' inserido com sucesso no banco de dados.
+Faixa 'Hey Brother' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK'}, 'href': 'https://api.spotify.com/v1/artists/20JZFwl6HVl6yg8a4H3ZqK', 'id': '20JZFwl6HVl6yg8a4H3ZqK', 'name': 'Panic! At The Disco', 'type': 'artist', 'uri': 'spotify:artist:20JZFwl6HVl6yg8a4H3ZqK'}]
+Artista 'Panic! At The Disco' inserido com sucesso no banco de dados.
+Album 'Death of a Bachelor' inserido com sucesso no banco de dados.
+Faixa 'Crazy = Genius' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4'}, 'href': 'https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4', 'id': '3TVXtAsR1Inumwj472S9r4', 'name': 'Drake', 'type': 'artist', 'uri': 'spotify:artist:3TVXtAsR1Inumwj472S9r4'}]
+Artista 'Drake' inserido com sucesso no banco de dados.
+Album 'Scorpion' inserido com sucesso no banco de dados.
+Faixa 'God's Plan' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY'}, 'href': 'https://api.spotify.com/v1/artists/0jnsk9HBra6NMjO2oANoPY', 'id': '0jnsk9HBra6NMjO2oANoPY', 'name': 'Flo Rida', 'type': 'artist', 'uri': 'spotify:artist:0jnsk9HBra6NMjO2oANoPY'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy'}, 'href': 'https://api.spotify.com/v1/artists/3aQeKQSyrW4qWr35idm0cy', 'id': '3aQeKQSyrW4qWr35idm0cy', 'name': 'T-Pain', 'type': 'artist', 'uri': 'spotify:artist:3aQeKQSyrW4qWr35idm0cy'}]
+Artista 'Flo Rida' inserido com sucesso no banco de dados.
+Artista 'T-Pain' inserido com sucesso no banco de dados.
+Album 'Mail on Sunday' inserido com sucesso no banco de dados.
+Faixa 'Low (feat. T-Pain)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'}, 'href': 'https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02', 'id': '06HL4z0CvFAxyc27GXpf02', 'name': 'Taylor Swift', 'type': 'artist', 'uri': 'spotify:artist:06HL4z0CvFAxyc27GXpf02'}]
+Artista 'Taylor Swift' inserido com sucesso no banco de dados.
+Album '1989' inserido com sucesso no banco de dados.
+Faixa 'Shake It Off' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C'}, 'href': 'https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C', 'id': '0du5cEVh5yTK9QJze8zA0C', 'name': 'Bruno Mars', 'type': 'artist', 'uri': 'spotify:artist:0du5cEVh5yTK9QJze8zA0C'}]
+Artista 'Bruno Mars' inserido com sucesso no banco de dados.
+Album 'Doo-Wops & Hooligans' inserido com sucesso no banco de dados.
+Faixa 'The Lazy Song' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou'}, 'href': 'https://api.spotify.com/v1/artists/2gsggkzM5R49q6jpPvazou', 'id': '2gsggkzM5R49q6jpPvazou', 'name': 'Jessie J', 'type': 'artist', 'uri': 'spotify:artist:2gsggkzM5R49q6jpPvazou'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT'}, 'href': 'https://api.spotify.com/v1/artists/5ndkK3dpZLKtBklKjxNQwT', 'id': '5ndkK3dpZLKtBklKjxNQwT', 'name': 'B.o.B', 'type': 'artist', 'uri': 'spotify:artist:5ndkK3dpZLKtBklKjxNQwT'}]
+Artista 'Jessie J' inserido com sucesso no banco de dados.
+Artista 'B.o.B' inserido com sucesso no banco de dados.
+Album 'Who You Are (Platinum Edition)' inserido com sucesso no banco de dados.
+Faixa 'Price Tag' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb'}, 'href': 'https://api.spotify.com/v1/artists/7FBcuc1gsnv6Y1nwFtNRCb', 'id': '7FBcuc1gsnv6Y1nwFtNRCb', 'name': 'My Chemical Romance', 'type': 'artist', 'uri': 'spotify:artist:7FBcuc1gsnv6Y1nwFtNRCb'}]
+Artista 'My Chemical Romance' inserido com sucesso no banco de dados.
+Album 'The Black Parade' inserido com sucesso no banco de dados.
+Faixa 'Welcome to the Black Parade' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF'}, 'href': 'https://api.spotify.com/v1/artists/4nDoRrQiYLoBzwC5BhVJzF', 'id': '4nDoRrQiYLoBzwC5BhVJzF', 'name': 'Camila Cabello', 'type': 'artist', 'uri': 'spotify:artist:4nDoRrQiYLoBzwC5BhVJzF'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn'}, 'href': 'https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn', 'id': '50co4Is1HCEo8bhOyUWKpn', 'name': 'Young Thug', 'type': 'artist', 'uri': 'spotify:artist:50co4Is1HCEo8bhOyUWKpn'}]
+Artista 'Camila Cabello' inserido com sucesso no banco de dados.
+Artista 'Young Thug' inserido com sucesso no banco de dados.
+Album 'Camila' inserido com sucesso no banco de dados.
+Faixa 'Havana (feat. Young Thug)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp'}, 'href': 'https://api.spotify.com/v1/artists/6S2OmqARrzebs0tKUEyXyp', 'id': '6S2OmqARrzebs0tKUEyXyp', 'name': 'Demi Lovato', 'type': 'artist', 'uri': 'spotify:artist:6S2OmqARrzebs0tKUEyXyp'}]
+Artista 'Demi Lovato' inserido com sucesso no banco de dados.
+Album 'Demi' inserido com sucesso no banco de dados.
+Faixa 'Heart Attack' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp'}, 'href': 'https://api.spotify.com/v1/artists/6S2OmqARrzebs0tKUEyXyp', 'id': '6S2OmqARrzebs0tKUEyXyp', 'name': 'Demi Lovato', 'type': 'artist', 'uri': 'spotify:artist:6S2OmqARrzebs0tKUEyXyp'}]
+Artista 'Demi Lovato' inserido com sucesso no banco de dados.
+Album 'Here We Go Again (European Version)' inserido com sucesso no banco de dados.
+Faixa 'La La Land' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb'}, 'href': 'https://api.spotify.com/v1/artists/7FBcuc1gsnv6Y1nwFtNRCb', 'id': '7FBcuc1gsnv6Y1nwFtNRCb', 'name': 'My Chemical Romance', 'type': 'artist', 'uri': 'spotify:artist:7FBcuc1gsnv6Y1nwFtNRCb'}]
+Artista 'My Chemical Romance' inserido com sucesso no banco de dados.
+Album 'Three Cheers for Sweet Revenge' inserido com sucesso no banco de dados.
+Faixa 'Helena' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ'}, 'href': 'https://api.spotify.com/v1/artists/2p4FqHnazRucYQHyDCdBrJ', 'id': '2p4FqHnazRucYQHyDCdBrJ', 'name': 'Simple Plan', 'type': 'artist', 'uri': 'spotify:artist:2p4FqHnazRucYQHyDCdBrJ'}]
+Artista 'Simple Plan' inserido com sucesso no banco de dados.
+Album 'No Pads, No Helmets...Just Balls (15th Anniversary Tour Edition)' inserido com sucesso no banco de dados.
+Faixa 'Perfect' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX'}, 'href': 'https://api.spotify.com/v1/artists/4UXqAaa6dQYAk18Lv7PEgX', 'id': '4UXqAaa6dQYAk18Lv7PEgX', 'name': 'Fall Out Boy', 'type': 'artist', 'uri': 'spotify:artist:4UXqAaa6dQYAk18Lv7PEgX'}]
+Artista 'Fall Out Boy' inserido com sucesso no banco de dados.
+Album 'From Under The Cork Tree' inserido com sucesso no banco de dados.
+Faixa 'Dance, Dance' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/3SYGWAHCe31oykdeUPpoJp'}, 'href': 'https://api.spotify.com/v1/artists/3SYGWAHCe31oykdeUPpoJp', 'id': '3SYGWAHCe31oykdeUPpoJp', 'name': 'Miranda Cosgrove', 'type': 'artist', 'uri': 'spotify:artist:3SYGWAHCe31oykdeUPpoJp'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/03ilIKH0i08IxmjKcn63ne'}, 'href': 'https://api.spotify.com/v1/artists/03ilIKH0i08IxmjKcn63ne', 'id': '03ilIKH0i08IxmjKcn63ne', 'name': 'Drake Bell', 'type': 'artist', 'uri': 'spotify:artist:03ilIKH0i08IxmjKcn63ne'}]
+Artista 'Miranda Cosgrove' inserido com sucesso no banco de dados.
+Artista 'Drake Bell' inserido com sucesso no banco de dados.
+Album 'Leave It All To Me (Theme from iCarly) (feat. Drake Bell)' inserido com sucesso no banco de dados.
+Faixa 'Leave It All To Me (Theme from iCarly) (feat. Drake Bell)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7'}, 'href': 'https://api.spotify.com/v1/artists/5rSXSAkZ67PYJSvpUpkOr7', 'id': '5rSXSAkZ67PYJSvpUpkOr7', 'name': 'Backstreet Boys', 'type': 'artist', 'uri': 'spotify:artist:5rSXSAkZ67PYJSvpUpkOr7'}]
+Artista 'Backstreet Boys' inserido com sucesso no banco de dados.
+Album 'The Hits--Chapter One' inserido com sucesso no banco de dados.
+Faixa 'I Want It That Way' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7'}, 'href': 'https://api.spotify.com/v1/artists/1G9G7WwrXka3Z1r7aIDjI7', 'id': '1G9G7WwrXka3Z1r7aIDjI7', 'name': 'Outkast', 'type': 'artist', 'uri': 'spotify:artist:1G9G7WwrXka3Z1r7aIDjI7'}]
+Artista 'Outkast' inserido com sucesso no banco de dados.
+Album 'Speakerboxxx/The Love Below' inserido com sucesso no banco de dados.
+Faixa 'Hey Ya! - Radio Mix / Club Mix' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP'}, 'href': 'https://api.spotify.com/v1/artists/04gDigrS5kc9YWfZHwBETP', 'id': '04gDigrS5kc9YWfZHwBETP', 'name': 'Maroon 5', 'type': 'artist', 'uri': 'spotify:artist:04gDigrS5kc9YWfZHwBETP'}]
+Artista 'Maroon 5' inserido com sucesso no banco de dados.
+Album 'Songs About Jane' inserido com sucesso no banco de dados.
+Faixa 'This Love' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz'}, 'href': 'https://api.spotify.com/v1/artists/6XyY86QOPPrYVGvF9ch6wz', 'id': '6XyY86QOPPrYVGvF9ch6wz', 'name': 'Linkin Park', 'type': 'artist', 'uri': 'spotify:artist:6XyY86QOPPrYVGvF9ch6wz'}]
+Artista 'Linkin Park' inserido com sucesso no banco de dados.
+Album 'Meteora (Bonus Edition)' inserido com sucesso no banco de dados.
+Faixa 'Numb' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A'}, 'href': 'https://api.spotify.com/v1/artists/3FUY2gzHeIiaesXtOAdB7A', 'id': '3FUY2gzHeIiaesXtOAdB7A', 'name': 'Train', 'type': 'artist', 'uri': 'spotify:artist:3FUY2gzHeIiaesXtOAdB7A'}]
+Artista 'Train' inserido com sucesso no banco de dados.
+Album 'Hey, Soul Sister' inserido com sucesso no banco de dados.
+Faixa 'Hey, Soul Sister' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms'}, 'href': 'https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms', 'id': '1HY2Jd0NmPuamShAr6KMms', 'name': 'Lady Gaga', 'type': 'artist', 'uri': 'spotify:artist:1HY2Jd0NmPuamShAr6KMms'}]
+Artista 'Lady Gaga' inserido com sucesso no banco de dados.
+Album 'Bad Romance' inserido com sucesso no banco de dados.
+Faixa 'Bad Romance' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl'}, 'href': 'https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl', 'id': '4phGZZrJZRo4ElhRtViYdl', 'name': 'Jason Mraz', 'type': 'artist', 'uri': 'spotify:artist:4phGZZrJZRo4ElhRtViYdl'}]
+Artista 'Jason Mraz' inserido com sucesso no banco de dados.
+Album 'I'm Yours' inserido com sucesso no banco de dados.
+Faixa 'I'm Yours' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j'}, 'href': 'https://api.spotify.com/v1/artists/0p4nmQO2msCgU4IF37Wi3j', 'id': '0p4nmQO2msCgU4IF37Wi3j', 'name': 'Avril Lavigne', 'type': 'artist', 'uri': 'spotify:artist:0p4nmQO2msCgU4IF37Wi3j'}]
+Artista 'Avril Lavigne' inserido com sucesso no banco de dados.
+Album 'Let Go' inserido com sucesso no banco de dados.
+Faixa 'Complicated' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C'}, 'href': 'https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C', 'id': '0du5cEVh5yTK9QJze8zA0C', 'name': 'Bruno Mars', 'type': 'artist', 'uri': 'spotify:artist:0du5cEVh5yTK9QJze8zA0C'}]
+Artista 'Bruno Mars' inserido com sucesso no banco de dados.
+Album 'Doo-Wops & Hooligans' inserido com sucesso no banco de dados.
+Faixa 'Grenade' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY'}, 'href': 'https://api.spotify.com/v1/artists/0jnsk9HBra6NMjO2oANoPY', 'id': '0jnsk9HBra6NMjO2oANoPY', 'name': 'Flo Rida', 'type': 'artist', 'uri': 'spotify:artist:0jnsk9HBra6NMjO2oANoPY'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX'}, 'href': 'https://api.spotify.com/v1/artists/6LqNN22kT3074XbTVUrhzX', 'id': '6LqNN22kT3074XbTVUrhzX', 'name': 'Kesha', 'type': 'artist', 'uri': 'spotify:artist:6LqNN22kT3074XbTVUrhzX'}]
+Artista 'Flo Rida' inserido com sucesso no banco de dados.
+Artista 'Kesha' inserido com sucesso no banco de dados.
+Album 'R.O.O.T.S. (Route of Overcoming the Struggle)' inserido com sucesso no banco de dados.
+Faixa 'Right Round' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7'}, 'href': 'https://api.spotify.com/v1/artists/31TPClRtHm23RisEBtV3X7', 'id': '31TPClRtHm23RisEBtV3X7', 'name': 'Justin Timberlake', 'type': 'artist', 'uri': 'spotify:artist:31TPClRtHm23RisEBtV3X7'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ'}, 'href': 'https://api.spotify.com/v1/artists/5Y5TRrQiqgUO4S36tzjIRZ', 'id': '5Y5TRrQiqgUO4S36tzjIRZ', 'name': 'Timbaland', 'type': 'artist', 'uri': 'spotify:artist:5Y5TRrQiqgUO4S36tzjIRZ'}]
+Artista 'Justin Timberlake' inserido com sucesso no banco de dados.
+Artista 'Timbaland' inserido com sucesso no banco de dados.
+Album 'FutureSex/LoveSounds' inserido com sucesso no banco de dados.
+Faixa 'SexyBack (feat. Timbaland)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o'}, 'href': 'https://api.spotify.com/v1/artists/6Ff53KvcvAj5U7Z1vojB5o', 'id': '6Ff53KvcvAj5U7Z1vojB5o', 'name': '*NSYNC', 'type': 'artist', 'uri': 'spotify:artist:6Ff53KvcvAj5U7Z1vojB5o'}]
+Artista '*NSYNC' inserido com sucesso no banco de dados.
+Album 'Greatest Hits' inserido com sucesso no banco de dados.
+Faixa 'Bye Bye Bye' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR'}, 'href': 'https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR', 'id': '7dGJo4pcD2V6oG8kP0tJRR', 'name': 'Eminem', 'type': 'artist', 'uri': 'spotify:artist:7dGJo4pcD2V6oG8kP0tJRR'}]
+Artista 'Eminem' inserido com sucesso no banco de dados.
+Album 'Curtain Call (Deluxe)' inserido com sucesso no banco de dados.
+Faixa 'Lose Yourself - From "8 Mile" Soundtrack' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP'}, 'href': 'https://api.spotify.com/v1/artists/04gDigrS5kc9YWfZHwBETP', 'id': '04gDigrS5kc9YWfZHwBETP', 'name': 'Maroon 5', 'type': 'artist', 'uri': 'spotify:artist:04gDigrS5kc9YWfZHwBETP'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB'}, 'href': 'https://api.spotify.com/v1/artists/4kYSro6naA4h99UJvo89HB', 'id': '4kYSro6naA4h99UJvo89HB', 'name': 'Cardi B', 'type': 'artist', 'uri': 'spotify:artist:4kYSro6naA4h99UJvo89HB'}]
+Artista 'Maroon 5' inserido com sucesso no banco de dados.
+Artista 'Cardi B' inserido com sucesso no banco de dados.
+Album 'Girls Like You (feat. Cardi B)' inserido com sucesso no banco de dados.
+Faixa 'Girls Like You (feat. Cardi B) - Cardi B Version' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz'}, 'href': 'https://api.spotify.com/v1/artists/6JL8zeS1NmiOftqZTRgdTz', 'id': '6JL8zeS1NmiOftqZTRgdTz', 'name': 'Meghan Trainor', 'type': 'artist', 'uri': 'spotify:artist:6JL8zeS1NmiOftqZTRgdTz'}]
+Artista 'Meghan Trainor' inserido com sucesso no banco de dados.
+Album 'NO' inserido com sucesso no banco de dados.
+Faixa 'NO' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m'}, 'href': 'https://api.spotify.com/v1/artists/6vWDO969PvNqNYHIOW5v0m', 'id': '6vWDO969PvNqNYHIOW5v0m', 'name': 'Beyoncé', 'type': 'artist', 'uri': 'spotify:artist:6vWDO969PvNqNYHIOW5v0m'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB'}, 'href': 'https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB', 'id': '3nFkdlSjzX9mRTtwJOzDYB', 'name': 'JAY-Z', 'type': 'artist', 'uri': 'spotify:artist:3nFkdlSjzX9mRTtwJOzDYB'}]
+Artista 'Beyoncé' inserido com sucesso no banco de dados.
+Artista 'JAY-Z' inserido com sucesso no banco de dados.
+Album 'Dangerously In Love' inserido com sucesso no banco de dados.
+Faixa 'Crazy In Love (feat. Jay-Z)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR'}, 'href': 'https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR', 'id': '66CXWjxzNUsdJxJ2JdwvnR', 'name': 'Ariana Grande', 'type': 'artist', 'uri': 'spotify:artist:66CXWjxzNUsdJxJ2JdwvnR'}]
+Artista 'Ariana Grande' inserido com sucesso no banco de dados.
+Album 'thank u, next' inserido com sucesso no banco de dados.
+Faixa 'thank u, next' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR'}, 'href': 'https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR', 'id': '66CXWjxzNUsdJxJ2JdwvnR', 'name': 'Ariana Grande', 'type': 'artist', 'uri': 'spotify:artist:66CXWjxzNUsdJxJ2JdwvnR'}]
+Artista 'Ariana Grande' inserido com sucesso no banco de dados.
+Album '7 rings' inserido com sucesso no banco de dados.
+Faixa '7 rings' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP'}, 'href': 'https://api.spotify.com/v1/artists/04gDigrS5kc9YWfZHwBETP', 'id': '04gDigrS5kc9YWfZHwBETP', 'name': 'Maroon 5', 'type': 'artist', 'uri': 'spotify:artist:04gDigrS5kc9YWfZHwBETP'}]
+Artista 'Maroon 5' inserido com sucesso no banco de dados.
+Album 'V' inserido com sucesso no banco de dados.
+Faixa 'Sugar' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp'}, 'href': 'https://api.spotify.com/v1/artists/6S2OmqARrzebs0tKUEyXyp', 'id': '6S2OmqARrzebs0tKUEyXyp', 'name': 'Demi Lovato', 'type': 'artist', 'uri': 'spotify:artist:6S2OmqARrzebs0tKUEyXyp'}]
+Artista 'Demi Lovato' inserido com sucesso no banco de dados.
+Album 'Tell Me You Love Me' inserido com sucesso no banco de dados.
+Faixa 'Sorry Not Sorry' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6'}, 'href': 'https://api.spotify.com/v1/artists/5YGY8feqx7naU7z4HrwZM6', 'id': '5YGY8feqx7naU7z4HrwZM6', 'name': 'Miley Cyrus', 'type': 'artist', 'uri': 'spotify:artist:5YGY8feqx7naU7z4HrwZM6'}]
+Artista 'Miley Cyrus' inserido com sucesso no banco de dados.
+Album 'Bangerz (Deluxe Version)' inserido com sucesso no banco de dados.
+Faixa 'Wrecking Ball' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh'}, 'href': 'https://api.spotify.com/v1/artists/0hCNtLu0JehylgoiP8L4Gh', 'id': '0hCNtLu0JehylgoiP8L4Gh', 'name': 'Nicki Minaj', 'type': 'artist', 'uri': 'spotify:artist:0hCNtLu0JehylgoiP8L4Gh'}]
+Artista 'Nicki Minaj' inserido com sucesso no banco de dados.
+Album 'Pink Friday' inserido com sucesso no banco de dados.
+Faixa 'Super Bass' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT'}, 'href': 'https://api.spotify.com/v1/artists/5ndkK3dpZLKtBklKjxNQwT', 'id': '5ndkK3dpZLKtBklKjxNQwT', 'name': 'B.o.B', 'type': 'artist', 'uri': 'spotify:artist:5ndkK3dpZLKtBklKjxNQwT'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM'}, 'href': 'https://api.spotify.com/v1/artists/6Rx1JKzBrSzoKQtmbVmBnM', 'id': '6Rx1JKzBrSzoKQtmbVmBnM', 'name': 'Hayley Williams', 'type': 'artist', 'uri': 'spotify:artist:6Rx1JKzBrSzoKQtmbVmBnM'}]
+Artista 'B.o.B' inserido com sucesso no banco de dados.
+Artista 'Hayley Williams' inserido com sucesso no banco de dados.
+Album 'B.o.B Presents: The Adventures of Bobby Ray' inserido com sucesso no banco de dados.
+Faixa 'Airplanes (feat. Hayley Williams of Paramore)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H'}, 'href': 'https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H', 'id': '5pKCCKE2ajJHZ9KAiaK11H', 'name': 'Rihanna', 'type': 'artist', 'uri': 'spotify:artist:5pKCCKE2ajJHZ9KAiaK11H'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY'}, 'href': 'https://api.spotify.com/v1/artists/7CajNmpbOovFoOoasH2HaY', 'id': '7CajNmpbOovFoOoasH2HaY', 'name': 'Calvin Harris', 'type': 'artist', 'uri': 'spotify:artist:7CajNmpbOovFoOoasH2HaY'}]
+Artista 'Rihanna' inserido com sucesso no banco de dados.
+Artista 'Calvin Harris' inserido com sucesso no banco de dados.
+Album 'Talk That Talk' inserido com sucesso no banco de dados.
+Faixa 'We Found Love' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq'}, 'href': 'https://api.spotify.com/v1/artists/4AK6F7OLvEQ5QYCBNiQWHq', 'id': '4AK6F7OLvEQ5QYCBNiQWHq', 'name': 'One Direction', 'type': 'artist', 'uri': 'spotify:artist:4AK6F7OLvEQ5QYCBNiQWHq'}]
+Artista 'One Direction' inserido com sucesso no banco de dados.
+Album 'Up All Night' inserido com sucesso no banco de dados.
+Faixa 'What Makes You Beautiful' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd'}, 'href': 'https://api.spotify.com/v1/artists/0GWCNkPi54upO9WLlwjAHd', 'id': '0GWCNkPi54upO9WLlwjAHd', 'name': 'Big Time Rush', 'type': 'artist', 'uri': 'spotify:artist:0GWCNkPi54upO9WLlwjAHd'}]
+Artista 'Big Time Rush' inserido com sucesso no banco de dados.
+Album 'Any Kind of Guy' inserido com sucesso no banco de dados.
+Faixa 'Any Kind of Guy' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh'}, 'href': 'https://api.spotify.com/v1/artists/1mG23iQeR29Ojhq89D5gbh', 'id': '1mG23iQeR29Ojhq89D5gbh', 'name': 'DJ Jazzy Jeff & The Fresh Prince', 'type': 'artist', 'uri': 'spotify:artist:1mG23iQeR29Ojhq89D5gbh'}]
+Artista 'DJ Jazzy Jeff & The Fresh Prince' inserido com sucesso no banco de dados.
+Album 'Greatest Hits' inserido com sucesso no banco de dados.
+Faixa 'The Fresh Prince of Bel-Air' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr'}, 'href': 'https://api.spotify.com/v1/artists/6S0dmVVn4udvppDhZIWxCr', 'id': '6S0dmVVn4udvppDhZIWxCr', 'name': 'Sean Kingston', 'type': 'artist', 'uri': 'spotify:artist:6S0dmVVn4udvppDhZIWxCr'}]
+Artista 'Sean Kingston' inserido com sucesso no banco de dados.
+Album 'Beautiful Girls' inserido com sucesso no banco de dados.
+Faixa 'Beautiful Girls' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd'}, 'href': 'https://api.spotify.com/v1/artists/0GWCNkPi54upO9WLlwjAHd', 'id': '0GWCNkPi54upO9WLlwjAHd', 'name': 'Big Time Rush', 'type': 'artist', 'uri': 'spotify:artist:0GWCNkPi54upO9WLlwjAHd'}]
+Artista 'Big Time Rush' inserido com sucesso no banco de dados.
+Album 'BTR' inserido com sucesso no banco de dados.
+Faixa 'Big Time Rush' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP'}, 'href': 'https://api.spotify.com/v1/artists/04gDigrS5kc9YWfZHwBETP', 'id': '04gDigrS5kc9YWfZHwBETP', 'name': 'Maroon 5', 'type': 'artist', 'uri': 'spotify:artist:04gDigrS5kc9YWfZHwBETP'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS'}, 'href': 'https://api.spotify.com/v1/artists/1l7ZsJRRS8wlW3WfJfPfNS', 'id': '1l7ZsJRRS8wlW3WfJfPfNS', 'name': 'Christina Aguilera', 'type': 'artist', 'uri': 'spotify:artist:1l7ZsJRRS8wlW3WfJfPfNS'}]
+Artista 'Maroon 5' inserido com sucesso no banco de dados.
+Artista 'Christina Aguilera' inserido com sucesso no banco de dados.
+Album 'Hands All Over (Revised International Standard version)' inserido com sucesso no banco de dados.
+Faixa 'Moves Like Jagger - Studio Recording From "The Voice" Performance' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s'}, 'href': 'https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s', 'id': '1uNFoZAHBGtllmzznpCI3s', 'name': 'Justin Bieber', 'type': 'artist', 'uri': 'spotify:artist:1uNFoZAHBGtllmzznpCI3s'}]
+Artista 'Justin Bieber' inserido com sucesso no banco de dados.
+Album 'My World' inserido com sucesso no banco de dados.
+Faixa 'One Time' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X'}, 'href': 'https://api.spotify.com/v1/artists/6jJ0s89eD6GaHleKKya26X', 'id': '6jJ0s89eD6GaHleKKya26X', 'name': 'Katy Perry', 'type': 'artist', 'uri': 'spotify:artist:6jJ0s89eD6GaHleKKya26X'}]
+Artista 'Katy Perry' inserido com sucesso no banco de dados.
+Album 'Teenage Dream: The Complete Confection' inserido com sucesso no banco de dados.
+Faixa 'Wide Awake' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz'}, 'href': 'https://api.spotify.com/v1/artists/4njdEjTnLfcGImKZu1iSrz', 'id': '4njdEjTnLfcGImKZu1iSrz', 'name': 'AWOLNATION', 'type': 'artist', 'uri': 'spotify:artist:4njdEjTnLfcGImKZu1iSrz'}]
+Artista 'AWOLNATION' inserido com sucesso no banco de dados.
+Album 'Megalithic Symphony Deluxe' inserido com sucesso no banco de dados.
+Faixa 'Sail' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m'}, 'href': 'https://api.spotify.com/v1/artists/6vWDO969PvNqNYHIOW5v0m', 'id': '6vWDO969PvNqNYHIOW5v0m', 'name': 'Beyoncé', 'type': 'artist', 'uri': 'spotify:artist:6vWDO969PvNqNYHIOW5v0m'}]
+Artista 'Beyoncé' inserido com sucesso no banco de dados.
+Album 'I AM...SASHA FIERCE' inserido com sucesso no banco de dados.
+Faixa 'Halo' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4'}, 'href': 'https://api.spotify.com/v1/artists/26dSoYclwsYLMAKD3tpOr4', 'id': '26dSoYclwsYLMAKD3tpOr4', 'name': 'Britney Spears', 'type': 'artist', 'uri': 'spotify:artist:26dSoYclwsYLMAKD3tpOr4'}]
+Artista 'Britney Spears' inserido com sucesso no banco de dados.
+Album 'In The Zone' inserido com sucesso no banco de dados.
+Faixa 'Toxic' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL'}, 'href': 'https://api.spotify.com/v1/artists/5e4Dhzv426EvQe3aDb64jL', 'id': '5e4Dhzv426EvQe3aDb64jL', 'name': 'Shania Twain', 'type': 'artist', 'uri': 'spotify:artist:5e4Dhzv426EvQe3aDb64jL'}]
+Artista 'Shania Twain' inserido com sucesso no banco de dados.
+Album 'Come On Over' inserido com sucesso no banco de dados.
+Faixa 'Man! I Feel Like A Woman!' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7'}, 'href': 'https://api.spotify.com/v1/artists/6DPYiyq5kWVQS4RGwxzPC7', 'id': '6DPYiyq5kWVQS4RGwxzPC7', 'name': 'Dr. Dre', 'type': 'artist', 'uri': 'spotify:artist:6DPYiyq5kWVQS4RGwxzPC7'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG'}, 'href': 'https://api.spotify.com/v1/artists/7hJcb9fa4alzcOq3EaNPoG', 'id': '7hJcb9fa4alzcOq3EaNPoG', 'name': 'Snoop Dogg', 'type': 'artist', 'uri': 'spotify:artist:7hJcb9fa4alzcOq3EaNPoG'}]
+Artista 'Dr. Dre' inserido com sucesso no banco de dados.
+Artista 'Snoop Dogg' inserido com sucesso no banco de dados.
+Album '2001' inserido com sucesso no banco de dados.
+Faixa 'The Next Episode' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS'}, 'href': 'https://api.spotify.com/v1/artists/1l7ZsJRRS8wlW3WfJfPfNS', 'id': '1l7ZsJRRS8wlW3WfJfPfNS', 'name': 'Christina Aguilera', 'type': 'artist', 'uri': 'spotify:artist:1l7ZsJRRS8wlW3WfJfPfNS'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX'}, 'href': 'https://api.spotify.com/v1/artists/5tth2a3v0sWwV1C7bApBdX', 'id': '5tth2a3v0sWwV1C7bApBdX', 'name': "Lil' Kim", 'type': 'artist', 'uri': 'spotify:artist:5tth2a3v0sWwV1C7bApBdX'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF'}, 'href': 'https://api.spotify.com/v1/artists/6lHL3ubAMgSasKjNqKb8HF', 'id': '6lHL3ubAMgSasKjNqKb8HF', 'name': 'Mýa', 'type': 'artist', 'uri': 'spotify:artist:6lHL3ubAMgSasKjNqKb8HF'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR'}, 'href': 'https://api.spotify.com/v1/artists/1KCSPY1glIKqW2TotWuXOR', 'id': '1KCSPY1glIKqW2TotWuXOR', 'name': 'P!nk', 'type': 'artist', 'uri': 'spotify:artist:1KCSPY1glIKqW2TotWuXOR'}]
+Artista 'Christina Aguilera' inserido com sucesso no banco de dados.
+Artista 'Lil' Kim' inserido com sucesso no banco de dados.
+Artista 'Mýa' inserido com sucesso no banco de dados.
+Artista 'P!nk' inserido com sucesso no banco de dados.
+Erro ao inserir o album 'Moulin Rouge' no banco de dados: insert or update on table "albums" violates foreign key constraint "albums_artist_id_fkey"
+DETAIL:  Key (artist_id)=(0LyfQWJT6nXafLPZqxe9Of) is not present in table "artists".
+
+Erro ao inserir a faixa 'Lady Marmalade - From "Moulin Rouge" Soundtrack' no banco de dados: insert or update on table "tracks" violates foreign key constraint "tracks_album_id_fkey"
+DETAIL:  Key (album_id)=(5cbAqQZSEgRiiNjuEHWTXc) is not present in table "albums".
+
+Erro ao inserir a faixa '7GbqE3MlkKosIaCvf50JRK' da playlist '0LYpdcWIRk19rC026Rnmbi' no banco de dados: insert or update on table "playlisttracks" violates foreign key constraint "playlisttracks_track_id_fkey"
+DETAIL:  Key (track_id)=(7GbqE3MlkKosIaCvf50JRK) is not present in table "tracks".
+
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu'}, 'href': 'https://api.spotify.com/v1/artists/0C0XlULifJtAgn6ZNCW2eu', 'id': '0C0XlULifJtAgn6ZNCW2eu', 'name': 'The Killers', 'type': 'artist', 'uri': 'spotify:artist:0C0XlULifJtAgn6ZNCW2eu'}]
+Artista 'The Killers' inserido com sucesso no banco de dados.
+Album 'Hot Fuss' inserido com sucesso no banco de dados.
+Faixa 'Mr. Brightside' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ'}, 'href': 'https://api.spotify.com/v1/artists/5Pwc4xIPtQLFEnJriah9YJ', 'id': '5Pwc4xIPtQLFEnJriah9YJ', 'name': 'OneRepublic', 'type': 'artist', 'uri': 'spotify:artist:5Pwc4xIPtQLFEnJriah9YJ'}]
+Artista 'OneRepublic' inserido com sucesso no banco de dados.
+Album 'Dreaming Out Loud (Deluxe)' inserido com sucesso no banco de dados.
+Faixa 'Apologize' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS'}, 'href': 'https://api.spotify.com/v1/artists/6GMYJwaziB4ekv1Y6wCDWS', 'id': '6GMYJwaziB4ekv1Y6wCDWS', 'name': 'Soulja Boy', 'type': 'artist', 'uri': 'spotify:artist:6GMYJwaziB4ekv1Y6wCDWS'}]
+Artista 'Soulja Boy' inserido com sucesso no banco de dados.
+Album 'souljaboytellem.com' inserido com sucesso no banco de dados.
+Faixa 'Crank That (Soulja Boy)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H'}, 'href': 'https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H', 'id': '5pKCCKE2ajJHZ9KAiaK11H', 'name': 'Rihanna', 'type': 'artist', 'uri': 'spotify:artist:5pKCCKE2ajJHZ9KAiaK11H'}]
+Artista 'Rihanna' inserido com sucesso no banco de dados.
+Album 'Good Girl Gone Bad: Reloaded' inserido com sucesso no banco de dados.
+Faixa 'Don't Stop The Music' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq'}, 'href': 'https://api.spotify.com/v1/artists/7jVv8c5Fj3E9VhNjxT4snq', 'id': '7jVv8c5Fj3E9VhNjxT4snq', 'name': 'Lil Nas X', 'type': 'artist', 'uri': 'spotify:artist:7jVv8c5Fj3E9VhNjxT4snq'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa'}, 'href': 'https://api.spotify.com/v1/artists/60rpJ9SgigSd16DOAG7GSa', 'id': '60rpJ9SgigSd16DOAG7GSa', 'name': 'Billy Ray Cyrus', 'type': 'artist', 'uri': 'spotify:artist:60rpJ9SgigSd16DOAG7GSa'}]
+Artista 'Lil Nas X' inserido com sucesso no banco de dados.
+Artista 'Billy Ray Cyrus' inserido com sucesso no banco de dados.
+Album 'Old Town Road' inserido com sucesso no banco de dados.
+Faixa 'Old Town Road (feat. Billy Ray Cyrus) - Remix' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS'}, 'href': 'https://api.spotify.com/v1/artists/6xfqnpe2HnLVUaYXs2F8YS', 'id': '6xfqnpe2HnLVUaYXs2F8YS', 'name': 'Anna Kendrick', 'type': 'artist', 'uri': 'spotify:artist:6xfqnpe2HnLVUaYXs2F8YS'}]
+Artista 'Anna Kendrick' inserido com sucesso no banco de dados.
+Album 'Cups (Pitch Perfect’s “When I’m Gone”)' inserido com sucesso no banco de dados.
+Faixa 'Cups (Pitch Perfect’s “When I’m Gone”) - Pop Version' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx'}, 'href': 'https://api.spotify.com/v1/artists/0C8ZW7ezQVs4URX5aX7Kqx', 'id': '0C8ZW7ezQVs4URX5aX7Kqx', 'name': 'Selena Gomez', 'type': 'artist', 'uri': 'spotify:artist:0C8ZW7ezQVs4URX5aX7Kqx'}]
+Artista 'Selena Gomez' inserido com sucesso no banco de dados.
+Album 'Come & Get It' inserido com sucesso no banco de dados.
+Faixa 'Come & Get It' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82'}, 'href': 'https://api.spotify.com/v1/artists/5X4LWwbUFNzPkEas04uU82', 'id': '5X4LWwbUFNzPkEas04uU82', 'name': 'DVBBS', 'type': 'artist', 'uri': 'spotify:artist:5X4LWwbUFNzPkEas04uU82'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp'}, 'href': 'https://api.spotify.com/v1/artists/4uiMn2g0pgTrhN096QJhbp', 'id': '4uiMn2g0pgTrhN096QJhbp', 'name': 'Borgeous', 'type': 'artist', 'uri': 'spotify:artist:4uiMn2g0pgTrhN096QJhbp'}]
+Artista 'DVBBS' inserido com sucesso no banco de dados.
+Artista 'Borgeous' inserido com sucesso no banco de dados.
+Album 'Tsunami' inserido com sucesso no banco de dados.
+Faixa 'Tsunami' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa'}, 'href': 'https://api.spotify.com/v1/artists/00FQb4jTyendYWaN8pK0wa', 'id': '00FQb4jTyendYWaN8pK0wa', 'name': 'Lana Del Rey', 'type': 'artist', 'uri': 'spotify:artist:00FQb4jTyendYWaN8pK0wa'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724'}, 'href': 'https://api.spotify.com/v1/artists/4Wjf8diP59VmPG7fi4y724', 'id': '4Wjf8diP59VmPG7fi4y724', 'name': 'Cedric Gervais', 'type': 'artist', 'uri': 'spotify:artist:4Wjf8diP59VmPG7fi4y724'}]
+Artista 'Lana Del Rey' inserido com sucesso no banco de dados.
+Artista 'Cedric Gervais' inserido com sucesso no banco de dados.
+Album 'Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix)' inserido com sucesso no banco de dados.
+Faixa 'Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'}, 'href': 'https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02', 'id': '06HL4z0CvFAxyc27GXpf02', 'name': 'Taylor Swift', 'type': 'artist', 'uri': 'spotify:artist:06HL4z0CvFAxyc27GXpf02'}]
+Artista 'Taylor Swift' inserido com sucesso no banco de dados.
+Album 'Red' inserido com sucesso no banco de dados.
+Faixa 'We Are Never Ever Getting Back Together' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou'}, 'href': 'https://api.spotify.com/v1/artists/2gsggkzM5R49q6jpPvazou', 'id': '2gsggkzM5R49q6jpPvazou', 'name': 'Jessie J', 'type': 'artist', 'uri': 'spotify:artist:2gsggkzM5R49q6jpPvazou'}]
+Artista 'Jessie J' inserido com sucesso no banco de dados.
+Album 'Flashlight (From "Pitch Perfect 2" Soundtrack)' inserido com sucesso no banco de dados.
+Faixa 'Flashlight - From "Pitch Perfect 2" Soundtrack' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu'}, 'href': 'https://api.spotify.com/v1/artists/1f5GqyOPo0CkotzzRwviBu', 'id': '1f5GqyOPo0CkotzzRwviBu', 'name': 'The Lonely Island', 'type': 'artist', 'uri': 'spotify:artist:1f5GqyOPo0CkotzzRwviBu'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n'}, 'href': 'https://api.spotify.com/v1/artists/4bYPcJP5jwMhSivRcqie2n', 'id': '4bYPcJP5jwMhSivRcqie2n', 'name': 'Adam Levine', 'type': 'artist', 'uri': 'spotify:artist:4bYPcJP5jwMhSivRcqie2n'}]
+Artista 'The Lonely Island' inserido com sucesso no banco de dados.
+Artista 'Adam Levine' inserido com sucesso no banco de dados.
+Album 'Popstar: Never Stop Never Stopping' inserido com sucesso no banco de dados.
+Faixa 'I’m So Humble' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu'}, 'href': 'https://api.spotify.com/v1/artists/1f5GqyOPo0CkotzzRwviBu', 'id': '1f5GqyOPo0CkotzzRwviBu', 'name': 'The Lonely Island', 'type': 'artist', 'uri': 'spotify:artist:1f5GqyOPo0CkotzzRwviBu'}]
+Artista 'The Lonely Island' inserido com sucesso no banco de dados.
+Album 'Popstar: Never Stop Never Stopping' inserido com sucesso no banco de dados.
+Faixa 'Finest Girl (Bin Laden Song)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu'}, 'href': 'https://api.spotify.com/v1/artists/1f5GqyOPo0CkotzzRwviBu', 'id': '1f5GqyOPo0CkotzzRwviBu', 'name': 'The Lonely Island', 'type': 'artist', 'uri': 'spotify:artist:1f5GqyOPo0CkotzzRwviBu'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn'}, 'href': 'https://api.spotify.com/v1/artists/6YHEMoNPbcheiWS2haGzkn', 'id': '6YHEMoNPbcheiWS2haGzkn', 'name': 'Michael Bolton', 'type': 'artist', 'uri': 'spotify:artist:6YHEMoNPbcheiWS2haGzkn'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/5gPV64KDjM19c1aeRMH43b'}, 'href': 'https://api.spotify.com/v1/artists/5gPV64KDjM19c1aeRMH43b', 'id': '5gPV64KDjM19c1aeRMH43b', 'name': 'Mr. Fish', 'type': 'artist', 'uri': 'spotify:artist:5gPV64KDjM19c1aeRMH43b'}]
+Artista 'The Lonely Island' inserido com sucesso no banco de dados.
+Artista 'Michael Bolton' inserido com sucesso no banco de dados.
+Artista 'Mr. Fish' inserido com sucesso no banco de dados.
+Album 'Popstar: Never Stop Never Stopping' inserido com sucesso no banco de dados.
+Faixa 'Incredible Thoughts' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX'}, 'href': 'https://api.spotify.com/v1/artists/6TIYQ3jFPwQSRmorSezPxX', 'id': '6TIYQ3jFPwQSRmorSezPxX', 'name': 'mgk', 'type': 'artist', 'uri': 'spotify:artist:6TIYQ3jFPwQSRmorSezPxX'}]
+Artista 'mgk' inserido com sucesso no banco de dados.
+Album 'RAP DEVIL' inserido com sucesso no banco de dados.
+Faixa 'RAP DEVIL' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR'}, 'href': 'https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR', 'id': '7dGJo4pcD2V6oG8kP0tJRR', 'name': 'Eminem', 'type': 'artist', 'uri': 'spotify:artist:7dGJo4pcD2V6oG8kP0tJRR'}]
+Artista 'Eminem' inserido com sucesso no banco de dados.
+Album 'Killshot' inserido com sucesso no banco de dados.
+Faixa 'Killshot' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR'}, 'href': 'https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR', 'id': '7dGJo4pcD2V6oG8kP0tJRR', 'name': 'Eminem', 'type': 'artist', 'uri': 'spotify:artist:7dGJo4pcD2V6oG8kP0tJRR'}]
+Artista 'Eminem' inserido com sucesso no banco de dados.
+Album 'The Slim Shady LP' inserido com sucesso no banco de dados.
+Faixa 'My Name Is' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR'}, 'href': 'https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR', 'id': '7dGJo4pcD2V6oG8kP0tJRR', 'name': 'Eminem', 'type': 'artist', 'uri': 'spotify:artist:7dGJo4pcD2V6oG8kP0tJRR'}]
+Artista 'Eminem' inserido com sucesso no banco de dados.
+Album 'The Eminem Show' inserido com sucesso no banco de dados.
+Faixa 'Without Me' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP'}, 'href': 'https://api.spotify.com/v1/artists/04gDigrS5kc9YWfZHwBETP', 'id': '04gDigrS5kc9YWfZHwBETP', 'name': 'Maroon 5', 'type': 'artist', 'uri': 'spotify:artist:04gDigrS5kc9YWfZHwBETP'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop'}, 'href': 'https://api.spotify.com/v1/artists/137W8MRPWKqSmrBGDBFSop', 'id': '137W8MRPWKqSmrBGDBFSop', 'name': 'Wiz Khalifa', 'type': 'artist', 'uri': 'spotify:artist:137W8MRPWKqSmrBGDBFSop'}]
+Artista 'Maroon 5' inserido com sucesso no banco de dados.
+Artista 'Wiz Khalifa' inserido com sucesso no banco de dados.
+Album 'Overexposed Track By Track' inserido com sucesso no banco de dados.
+Faixa 'Payphone' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS'}, 'href': 'https://api.spotify.com/v1/artists/1yxSLGMDHlW21z4YXirZDS', 'id': '1yxSLGMDHlW21z4YXirZDS', 'name': 'Black Eyed Peas', 'type': 'artist', 'uri': 'spotify:artist:1yxSLGMDHlW21z4YXirZDS'}]
+Artista 'Black Eyed Peas' inserido com sucesso no banco de dados.
+Album 'THE E.N.D. (THE ENERGY NEVER DIES) [International Version]' inserido com sucesso no banco de dados.
+Faixa 'Imma Be' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H'}, 'href': 'https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H', 'id': '5pKCCKE2ajJHZ9KAiaK11H', 'name': 'Rihanna', 'type': 'artist', 'uri': 'spotify:artist:5pKCCKE2ajJHZ9KAiaK11H'}]
+Artista 'Rihanna' inserido com sucesso no banco de dados.
+Album 'Rated R' inserido com sucesso no banco de dados.
+Faixa 'Rude Boy' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR'}, 'href': 'https://api.spotify.com/v1/artists/1KCSPY1glIKqW2TotWuXOR', 'id': '1KCSPY1glIKqW2TotWuXOR', 'name': 'P!nk', 'type': 'artist', 'uri': 'spotify:artist:1KCSPY1glIKqW2TotWuXOR'}]
+Artista 'P!nk' inserido com sucesso no banco de dados.
+Album 'Funhouse (Expanded Edition)' inserido com sucesso no banco de dados.
+Faixa 'So What' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'}, 'href': 'https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02', 'id': '06HL4z0CvFAxyc27GXpf02', 'name': 'Taylor Swift', 'type': 'artist', 'uri': 'spotify:artist:06HL4z0CvFAxyc27GXpf02'}]
+Artista 'Taylor Swift' inserido com sucesso no banco de dados.
+Album 'Red (Big Machine Radio Release Special)' inserido com sucesso no banco de dados.
+Faixa 'I Knew You Were Trouble.' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY'}, 'href': 'https://api.spotify.com/v1/artists/0jnsk9HBra6NMjO2oANoPY', 'id': '0jnsk9HBra6NMjO2oANoPY', 'name': 'Flo Rida', 'type': 'artist', 'uri': 'spotify:artist:0jnsk9HBra6NMjO2oANoPY'}]
+Artista 'Flo Rida' inserido com sucesso no banco de dados.
+Album 'Wild Ones' inserido com sucesso no banco de dados.
+Faixa 'Whistle' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'}, 'href': 'https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02', 'id': '06HL4z0CvFAxyc27GXpf02', 'name': 'Taylor Swift', 'type': 'artist', 'uri': 'spotify:artist:06HL4z0CvFAxyc27GXpf02'}]
+Artista 'Taylor Swift' inserido com sucesso no banco de dados.
+Album '1989' inserido com sucesso no banco de dados.
+Faixa 'Bad Blood' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6WLvgbfYXQPO396oJEYCsi'}, 'href': 'https://api.spotify.com/v1/artists/6WLvgbfYXQPO396oJEYCsi', 'id': '6WLvgbfYXQPO396oJEYCsi', 'name': 'Macklemore & Ryan Lewis', 'type': 'artist', 'uri': 'spotify:artist:6WLvgbfYXQPO396oJEYCsi'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY'}, 'href': 'https://api.spotify.com/v1/artists/3JhNCzhSMTxs9WLGJJxWOY', 'id': '3JhNCzhSMTxs9WLGJJxWOY', 'name': 'Macklemore', 'type': 'artist', 'uri': 'spotify:artist:3JhNCzhSMTxs9WLGJJxWOY'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp'}, 'href': 'https://api.spotify.com/v1/artists/4myTppRgh0rojLxx8RycOp', 'id': '4myTppRgh0rojLxx8RycOp', 'name': 'Ryan Lewis', 'type': 'artist', 'uri': 'spotify:artist:4myTppRgh0rojLxx8RycOp'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13'}, 'href': 'https://api.spotify.com/v1/artists/4e0nWw2r4BoQSKPQ2zpU13', 'id': '4e0nWw2r4BoQSKPQ2zpU13', 'name': 'Ray Dalton', 'type': 'artist', 'uri': 'spotify:artist:4e0nWw2r4BoQSKPQ2zpU13'}]
+Artista 'Macklemore & Ryan Lewis' inserido com sucesso no banco de dados.
+Artista 'Macklemore' inserido com sucesso no banco de dados.
+Artista 'Ryan Lewis' inserido com sucesso no banco de dados.
+Artista 'Ray Dalton' inserido com sucesso no banco de dados.
+Album 'The Heist' inserido com sucesso no banco de dados.
+Faixa 'Can't Hold Us (feat. Ray Dalton)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX'}, 'href': 'https://api.spotify.com/v1/artists/3BmGtnKgCSGYIUhmivXKWX', 'id': '3BmGtnKgCSGYIUhmivXKWX', 'name': 'Kelly Clarkson', 'type': 'artist', 'uri': 'spotify:artist:3BmGtnKgCSGYIUhmivXKWX'}]
+Artista 'Kelly Clarkson' inserido com sucesso no banco de dados.
+Album 'Breakaway' inserido com sucesso no banco de dados.
+Faixa 'Since U Been Gone' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK'}, 'href': 'https://api.spotify.com/v1/artists/20JZFwl6HVl6yg8a4H3ZqK', 'id': '20JZFwl6HVl6yg8a4H3ZqK', 'name': 'Panic! At The Disco', 'type': 'artist', 'uri': 'spotify:artist:20JZFwl6HVl6yg8a4H3ZqK'}]
+Artista 'Panic! At The Disco' inserido com sucesso no banco de dados.
+Album 'New Perspective' inserido com sucesso no banco de dados.
+Faixa 'New Perspective' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ'}, 'href': 'https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ', 'id': '1Xyo4u8uXC1ZmMpatF05PJ', 'name': 'The Weeknd', 'type': 'artist', 'uri': 'spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ'}]
+Artista 'The Weeknd' inserido com sucesso no banco de dados.
+Album 'After Hours' inserido com sucesso no banco de dados.
+Faixa 'Blinding Lights' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/68524z8sd176IRenNb1Fjy'}, 'href': 'https://api.spotify.com/v1/artists/68524z8sd176IRenNb1Fjy', 'id': '68524z8sd176IRenNb1Fjy', 'name': 'Matthew Perryman Jones', 'type': 'artist', 'uri': 'spotify:artist:68524z8sd176IRenNb1Fjy'}]
+Artista 'Matthew Perryman Jones' inserido com sucesso no banco de dados.
+Album 'Living in the Shadows' inserido com sucesso no banco de dados.
+Faixa 'Living in the Shadows' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF'}, 'href': 'https://api.spotify.com/v1/artists/41MozSoPIsD1dJM0CLPjZF', 'id': '41MozSoPIsD1dJM0CLPjZF', 'name': 'BLACKPINK', 'type': 'artist', 'uri': 'spotify:artist:41MozSoPIsD1dJM0CLPjZF'}]
+Artista 'BLACKPINK' inserido com sucesso no banco de dados.
+Album 'THE ALBUM' inserido com sucesso no banco de dados.
+Faixa 'How You Like That' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB'}, 'href': 'https://api.spotify.com/v1/artists/4kYSro6naA4h99UJvo89HB', 'id': '4kYSro6naA4h99UJvo89HB', 'name': 'Cardi B', 'type': 'artist', 'uri': 'spotify:artist:4kYSro6naA4h99UJvo89HB'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK'}, 'href': 'https://api.spotify.com/v1/artists/181bsRPaVXVlUKXrxwZfHK', 'id': '181bsRPaVXVlUKXrxwZfHK', 'name': 'Megan Thee Stallion', 'type': 'artist', 'uri': 'spotify:artist:181bsRPaVXVlUKXrxwZfHK'}]
+Artista 'Cardi B' inserido com sucesso no banco de dados.
+Artista 'Megan Thee Stallion' inserido com sucesso no banco de dados.
+Album 'WAP (feat. Megan Thee Stallion)' inserido com sucesso no banco de dados.
+Faixa 'WAP (feat. Megan Thee Stallion)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C'}, 'href': 'https://api.spotify.com/v1/artists/6s22t5Y3prQHyaHWUN1R1C', 'id': '6s22t5Y3prQHyaHWUN1R1C', 'name': 'AJR', 'type': 'artist', 'uri': 'spotify:artist:6s22t5Y3prQHyaHWUN1R1C'}]
+Artista 'AJR' inserido com sucesso no banco de dados.
+Album 'Bang!' inserido com sucesso no banco de dados.
+Faixa 'Bang!' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP'}, 'href': 'https://api.spotify.com/v1/artists/0QHgL1lAIqAw0HtD7YldmP', 'id': '0QHgL1lAIqAw0HtD7YldmP', 'name': 'DJ Khaled', 'type': 'artist', 'uri': 'spotify:artist:0QHgL1lAIqAw0HtD7YldmP'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4'}, 'href': 'https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4', 'id': '3TVXtAsR1Inumwj472S9r4', 'name': 'Drake', 'type': 'artist', 'uri': 'spotify:artist:3TVXtAsR1Inumwj472S9r4'}]
+Artista 'DJ Khaled' inserido com sucesso no banco de dados.
+Artista 'Drake' inserido com sucesso no banco de dados.
+Album 'POPSTAR (feat. Drake)' inserido com sucesso no banco de dados.
+Faixa 'POPSTAR (feat. Drake)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY'}, 'href': 'https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY', 'id': '0Y5tJX1MQlPlqiwlOH1tJY', 'name': 'Travis Scott', 'type': 'artist', 'uri': 'spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn'}, 'href': 'https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn', 'id': '50co4Is1HCEo8bhOyUWKpn', 'name': 'Young Thug', 'type': 'artist', 'uri': 'spotify:artist:50co4Is1HCEo8bhOyUWKpn'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU'}, 'href': 'https://api.spotify.com/v1/artists/0QJIPDAEDILuo8AIq3pMuU', 'id': '0QJIPDAEDILuo8AIq3pMuU', 'name': 'M.I.A.', 'type': 'artist', 'uri': 'spotify:artist:0QJIPDAEDILuo8AIq3pMuU'}]
+Artista 'Travis Scott' inserido com sucesso no banco de dados.
+Artista 'Young Thug' inserido com sucesso no banco de dados.
+Artista 'M.I.A.' inserido com sucesso no banco de dados.
+Album 'FRANCHISE (feat. Young Thug & M.I.A.)' inserido com sucesso no banco de dados.
+Faixa 'FRANCHISE (feat. Young Thug & M.I.A.)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3'}, 'href': 'https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3', 'id': '6KImCVD70vtIoJWnq6nGn3', 'name': 'Harry Styles', 'type': 'artist', 'uri': 'spotify:artist:6KImCVD70vtIoJWnq6nGn3'}]
+Artista 'Harry Styles' inserido com sucesso no banco de dados.
+Album 'Fine Line' inserido com sucesso no banco de dados.
+Faixa 'Watermelon Sugar' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT'}, 'href': 'https://api.spotify.com/v1/artists/5ndkK3dpZLKtBklKjxNQwT', 'id': '5ndkK3dpZLKtBklKjxNQwT', 'name': 'B.o.B', 'type': 'artist', 'uri': 'spotify:artist:5ndkK3dpZLKtBklKjxNQwT'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v'}, 'href': 'https://api.spotify.com/v1/artists/4LAz9VRX8Nat9kvIzgkg2v', 'id': '4LAz9VRX8Nat9kvIzgkg2v', 'name': 'Rivers Cuomo', 'type': 'artist', 'uri': 'spotify:artist:4LAz9VRX8Nat9kvIzgkg2v'}]
+Artista 'B.o.B' inserido com sucesso no banco de dados.
+Artista 'Rivers Cuomo' inserido com sucesso no banco de dados.
+Album 'B.o.B Presents: The Adventures of Bobby Ray' inserido com sucesso no banco de dados.
+Faixa 'Magic (feat. Rivers Cuomo)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we'}, 'href': 'https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we', 'id': '6M2wZ9GZgrQXHCFfjv46we', 'name': 'Dua Lipa', 'type': 'artist', 'uri': 'spotify:artist:6M2wZ9GZgrQXHCFfjv46we'}]
+Artista 'Dua Lipa' inserido com sucesso no banco de dados.
+Album 'Future Nostalgia' inserido com sucesso no banco de dados.
+Faixa 'Break My Heart' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH'}, 'href': 'https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH', 'id': '6qqNVTkY8uBg9cP3Jd7DAH', 'name': 'Billie Eilish', 'type': 'artist', 'uri': 'spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH'}]
+Artista 'Billie Eilish' inserido com sucesso no banco de dados.
+Album 'WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?' inserido com sucesso no banco de dados.
+Faixa 'you should see me in a crown' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP'}, 'href': 'https://api.spotify.com/v1/artists/04gDigrS5kc9YWfZHwBETP', 'id': '04gDigrS5kc9YWfZHwBETP', 'name': 'Maroon 5', 'type': 'artist', 'uri': 'spotify:artist:04gDigrS5kc9YWfZHwBETP'}]
+Artista 'Maroon 5' inserido com sucesso no banco de dados.
+Album 'Overexposed Track By Track' inserido com sucesso no banco de dados.
+Faixa 'One More Night' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'}, 'href': 'https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02', 'id': '06HL4z0CvFAxyc27GXpf02', 'name': 'Taylor Swift', 'type': 'artist', 'uri': 'spotify:artist:06HL4z0CvFAxyc27GXpf02'}]
+Artista 'Taylor Swift' inserido com sucesso no banco de dados.
+Album '1989 (Deluxe)' inserido com sucesso no banco de dados.
+Faixa 'Blank Space' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H'}, 'href': 'https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H', 'id': '5pKCCKE2ajJHZ9KAiaK11H', 'name': 'Rihanna', 'type': 'artist', 'uri': 'spotify:artist:5pKCCKE2ajJHZ9KAiaK11H'}]
+Artista 'Rihanna' inserido com sucesso no banco de dados.
+Album 'Loud' inserido com sucesso no banco de dados.
+Faixa 'S&M' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB'}, 'href': 'https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB', 'id': '3nFkdlSjzX9mRTtwJOzDYB', 'name': 'JAY-Z', 'type': 'artist', 'uri': 'spotify:artist:3nFkdlSjzX9mRTtwJOzDYB'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa'}, 'href': 'https://api.spotify.com/v1/artists/3DiDSECUqqY1AuBP8qtaIa', 'id': '3DiDSECUqqY1AuBP8qtaIa', 'name': 'Alicia Keys', 'type': 'artist', 'uri': 'spotify:artist:3DiDSECUqqY1AuBP8qtaIa'}]
+Artista 'JAY-Z' inserido com sucesso no banco de dados.
+Artista 'Alicia Keys' inserido com sucesso no banco de dados.
+Album 'The Blueprint 3' inserido com sucesso no banco de dados.
+Faixa 'Empire State Of Mind' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m'}, 'href': 'https://api.spotify.com/v1/artists/6vWDO969PvNqNYHIOW5v0m', 'id': '6vWDO969PvNqNYHIOW5v0m', 'name': 'Beyoncé', 'type': 'artist', 'uri': 'spotify:artist:6vWDO969PvNqNYHIOW5v0m'}]
+Artista 'Beyoncé' inserido com sucesso no banco de dados.
+Album 'I AM...SASHA FIERCE' inserido com sucesso no banco de dados.
+Faixa 'Single Ladies (Put a Ring on It)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'}, 'href': 'https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02', 'id': '06HL4z0CvFAxyc27GXpf02', 'name': 'Taylor Swift', 'type': 'artist', 'uri': 'spotify:artist:06HL4z0CvFAxyc27GXpf02'}]
+Artista 'Taylor Swift' inserido com sucesso no banco de dados.
+Album 'Fearless (Big Machine Radio Release Special)' inserido com sucesso no banco de dados.
+Faixa 'Love Story' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO'}, 'href': 'https://api.spotify.com/v1/artists/2MqhkhX4npxDZ62ObR5ELO', 'id': '2MqhkhX4npxDZ62ObR5ELO', 'name': 'Hoobastank', 'type': 'artist', 'uri': 'spotify:artist:2MqhkhX4npxDZ62ObR5ELO'}]
+Artista 'Hoobastank' inserido com sucesso no banco de dados.
+Album 'The Reason (15th Anniversary Deluxe)' inserido com sucesso no banco de dados.
+Faixa 'The Reason' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c'}, 'href': 'https://api.spotify.com/v1/artists/5nGIFgo0shDenQYSE0Sn7c', 'id': '5nGIFgo0shDenQYSE0Sn7c', 'name': 'Evanescence', 'type': 'artist', 'uri': 'spotify:artist:5nGIFgo0shDenQYSE0Sn7c'}]
+Artista 'Evanescence' inserido com sucesso no banco de dados.
+Album 'Fallen' inserido com sucesso no banco de dados.
+Faixa 'My Immortal' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F'}, 'href': 'https://api.spotify.com/v1/artists/4KkHjCe8ouh8C2P9LPoD4F', 'id': '4KkHjCe8ouh8C2P9LPoD4F', 'name': 'Yolanda Be Cool', 'type': 'artist', 'uri': 'spotify:artist:4KkHjCe8ouh8C2P9LPoD4F'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/6OkVmXCnj1BPjTf5aihiwt'}, 'href': 'https://api.spotify.com/v1/artists/6OkVmXCnj1BPjTf5aihiwt', 'id': '6OkVmXCnj1BPjTf5aihiwt', 'name': 'DCup', 'type': 'artist', 'uri': 'spotify:artist:6OkVmXCnj1BPjTf5aihiwt'}]
+Artista 'Yolanda Be Cool' inserido com sucesso no banco de dados.
+Artista 'DCup' inserido com sucesso no banco de dados.
+Album 'We No Speak Americano (Complete Remixes)' inserido com sucesso no banco de dados.
+Faixa 'We No Speak Americano (JT Radio Edit)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl'}, 'href': 'https://api.spotify.com/v1/artists/3sgFRtyBnxXD5ESfmbK4dl', 'id': '3sgFRtyBnxXD5ESfmbK4dl', 'name': 'LMFAO', 'type': 'artist', 'uri': 'spotify:artist:3sgFRtyBnxXD5ESfmbK4dl'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/2jLE4BoXHriQ96JagEtiDP'}, 'href': 'https://api.spotify.com/v1/artists/2jLE4BoXHriQ96JagEtiDP', 'id': '2jLE4BoXHriQ96JagEtiDP', 'name': 'Lauren Bennett', 'type': 'artist', 'uri': 'spotify:artist:2jLE4BoXHriQ96JagEtiDP'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/53sIBaVjXQhfH89Vu6nEGh'}, 'href': 'https://api.spotify.com/v1/artists/53sIBaVjXQhfH89Vu6nEGh', 'id': '53sIBaVjXQhfH89Vu6nEGh', 'name': 'GoonRock', 'type': 'artist', 'uri': 'spotify:artist:53sIBaVjXQhfH89Vu6nEGh'}]
+Artista 'LMFAO' inserido com sucesso no banco de dados.
+Artista 'Lauren Bennett' inserido com sucesso no banco de dados.
+Artista 'GoonRock' inserido com sucesso no banco de dados.
+Album 'Sorry For Party Rocking' inserido com sucesso no banco de dados.
+Faixa 'Party Rock Anthem' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z'}, 'href': 'https://api.spotify.com/v1/artists/7bXgB6jMjp9ATFy66eO08Z', 'id': '7bXgB6jMjp9ATFy66eO08Z', 'name': 'Chris Brown', 'type': 'artist', 'uri': 'spotify:artist:7bXgB6jMjp9ATFy66eO08Z'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy'}, 'href': 'https://api.spotify.com/v1/artists/3aQeKQSyrW4qWr35idm0cy', 'id': '3aQeKQSyrW4qWr35idm0cy', 'name': 'T-Pain', 'type': 'artist', 'uri': 'spotify:artist:3aQeKQSyrW4qWr35idm0cy'}]
+Artista 'Chris Brown' inserido com sucesso no banco de dados.
+Artista 'T-Pain' inserido com sucesso no banco de dados.
+Album 'Exclusive (Expanded Edition)' inserido com sucesso no banco de dados.
+Faixa 'Kiss Kiss (feat. T-Pain)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02'}, 'href': 'https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02', 'id': '06HL4z0CvFAxyc27GXpf02', 'name': 'Taylor Swift', 'type': 'artist', 'uri': 'spotify:artist:06HL4z0CvFAxyc27GXpf02'}]
+Artista 'Taylor Swift' inserido com sucesso no banco de dados.
+Album 'reputation' inserido com sucesso no banco de dados.
+Faixa 'Look What You Made Me Do' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr'}, 'href': 'https://api.spotify.com/v1/artists/0lAWpj5szCSwM4rUMHYmrr', 'id': '0lAWpj5szCSwM4rUMHYmrr', 'name': 'Måneskin', 'type': 'artist', 'uri': 'spotify:artist:0lAWpj5szCSwM4rUMHYmrr'}]
+Artista 'Måneskin' inserido com sucesso no banco de dados.
+Album 'Chosen' inserido com sucesso no banco de dados.
+Faixa 'Beggin'' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL'}, 'href': 'https://api.spotify.com/v1/artists/0BmLNz4nSLfoWYW1cYsElL', 'id': '0BmLNz4nSLfoWYW1cYsElL', 'name': 'Alexandra Stan', 'type': 'artist', 'uri': 'spotify:artist:0BmLNz4nSLfoWYW1cYsElL'}]
+Artista 'Alexandra Stan' inserido com sucesso no banco de dados.
+Album 'Saxobeats' inserido com sucesso no banco de dados.
+Faixa 'Mr. Saxobeat - Radio Edit' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7'}, 'href': 'https://api.spotify.com/v1/artists/31TPClRtHm23RisEBtV3X7', 'id': '31TPClRtHm23RisEBtV3X7', 'name': 'Justin Timberlake', 'type': 'artist', 'uri': 'spotify:artist:31TPClRtHm23RisEBtV3X7'}]
+Artista 'Justin Timberlake' inserido com sucesso no banco de dados.
+Album 'What Goes Around...Comes Around' inserido com sucesso no banco de dados.
+Faixa 'What Goes Around...Comes Around - Radio Edit' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms'}, 'href': 'https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms', 'id': '1HY2Jd0NmPuamShAr6KMms', 'name': 'Lady Gaga', 'type': 'artist', 'uri': 'spotify:artist:1HY2Jd0NmPuamShAr6KMms'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z'}, 'href': 'https://api.spotify.com/v1/artists/7fObcBw9VM3x7ntWKCYl0z', 'id': '7fObcBw9VM3x7ntWKCYl0z', 'name': "Colby O'Donis", 'type': 'artist', 'uri': 'spotify:artist:7fObcBw9VM3x7ntWKCYl0z'}]
+Artista 'Lady Gaga' inserido com sucesso no banco de dados.
+Artista 'Colby O'Donis' inserido com sucesso no banco de dados.
+Album 'The Fame' inserido com sucesso no banco de dados.
+Faixa 'Just Dance' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR'}, 'href': 'https://api.spotify.com/v1/artists/1KCSPY1glIKqW2TotWuXOR', 'id': '1KCSPY1glIKqW2TotWuXOR', 'name': 'P!nk', 'type': 'artist', 'uri': 'spotify:artist:1KCSPY1glIKqW2TotWuXOR'}]
+Artista 'P!nk' inserido com sucesso no banco de dados.
+Album 'Raise Your Glass' inserido com sucesso no banco de dados.
+Faixa 'Raise Your Glass' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX'}, 'href': 'https://api.spotify.com/v1/artists/6LqNN22kT3074XbTVUrhzX', 'id': '6LqNN22kT3074XbTVUrhzX', 'name': 'Kesha', 'type': 'artist', 'uri': 'spotify:artist:6LqNN22kT3074XbTVUrhzX'}]
+Artista 'Kesha' inserido com sucesso no banco de dados.
+Album 'Warrior (Expanded Edition)' inserido com sucesso no banco de dados.
+Faixa 'Die Young' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL'}, 'href': 'https://api.spotify.com/v1/artists/5yG7ZAZafVaAlMTeBybKAL', 'id': '5yG7ZAZafVaAlMTeBybKAL', 'name': 'Iggy Azalea', 'type': 'artist', 'uri': 'spotify:artist:5yG7ZAZafVaAlMTeBybKAL'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5'}, 'href': 'https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5', 'id': '25uiPmTg16RbhZWAqwLBy5', 'name': 'Charli xcx', 'type': 'artist', 'uri': 'spotify:artist:25uiPmTg16RbhZWAqwLBy5'}]
+Artista 'Iggy Azalea' inserido com sucesso no banco de dados.
+Artista 'Charli xcx' inserido com sucesso no banco de dados.
+Album 'The New Classic (Deluxe Version)' inserido com sucesso no banco de dados.
+Faixa 'Fancy' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s'}, 'href': 'https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s', 'id': '1uNFoZAHBGtllmzznpCI3s', 'name': 'Justin Bieber', 'type': 'artist', 'uri': 'spotify:artist:1uNFoZAHBGtllmzznpCI3s'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT'}, 'href': 'https://api.spotify.com/v1/artists/0xOeVMOz2fVg5BJY3N6akT', 'id': '0xOeVMOz2fVg5BJY3N6akT', 'name': 'Jaden', 'type': 'artist', 'uri': 'spotify:artist:0xOeVMOz2fVg5BJY3N6akT'}]
+Artista 'Justin Bieber' inserido com sucesso no banco de dados.
+Artista 'Jaden' inserido com sucesso no banco de dados.
+Album 'Never Say Never - The Remixes' inserido com sucesso no banco de dados.
+Faixa 'Never Say Never' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9'}, 'href': 'https://api.spotify.com/v1/artists/2VSHKHBTiXWplO8lxcnUC9', 'id': '2VSHKHBTiXWplO8lxcnUC9', 'name': 'GAYLE', 'type': 'artist', 'uri': 'spotify:artist:2VSHKHBTiXWplO8lxcnUC9'}]
+Artista 'GAYLE' inserido com sucesso no banco de dados.
+Album 'abcdefu' inserido com sucesso no banco de dados.
+Faixa 'abcdefu' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG'}, 'href': 'https://api.spotify.com/v1/artists/2AsusXITU8P25dlRNhcAbG', 'id': '2AsusXITU8P25dlRNhcAbG', 'name': 'Gotye', 'type': 'artist', 'uri': 'spotify:artist:2AsusXITU8P25dlRNhcAbG'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti'}, 'href': 'https://api.spotify.com/v1/artists/6hk7Yq1DU9QcCCrz9uc0Ti', 'id': '6hk7Yq1DU9QcCCrz9uc0Ti', 'name': 'Kimbra', 'type': 'artist', 'uri': 'spotify:artist:6hk7Yq1DU9QcCCrz9uc0Ti'}]
+Artista 'Gotye' inserido com sucesso no banco de dados.
+Artista 'Kimbra' inserido com sucesso no banco de dados.
+Album 'Making Mirrors' inserido com sucesso no banco de dados.
+Faixa 'Somebody That I Used To Know' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq'}, 'href': 'https://api.spotify.com/v1/artists/7jVv8c5Fj3E9VhNjxT4snq', 'id': '7jVv8c5Fj3E9VhNjxT4snq', 'name': 'Lil Nas X', 'type': 'artist', 'uri': 'spotify:artist:7jVv8c5Fj3E9VhNjxT4snq'}]
+Artista 'Lil Nas X' inserido com sucesso no banco de dados.
+Album 'MONTERO (Call Me By Your Name)' inserido com sucesso no banco de dados.
+Faixa 'MONTERO (Call Me By Your Name)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J'}, 'href': 'https://api.spotify.com/v1/artists/2tIP7SsRs7vjIcLrU85W8J', 'id': '2tIP7SsRs7vjIcLrU85W8J', 'name': 'The Kid LAROI', 'type': 'artist', 'uri': 'spotify:artist:2tIP7SsRs7vjIcLrU85W8J'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s'}, 'href': 'https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s', 'id': '1uNFoZAHBGtllmzznpCI3s', 'name': 'Justin Bieber', 'type': 'artist', 'uri': 'spotify:artist:1uNFoZAHBGtllmzznpCI3s'}]
+Artista 'The Kid LAROI' inserido com sucesso no banco de dados.
+Artista 'Justin Bieber' inserido com sucesso no banco de dados.
+Album 'STAY (with Justin Bieber)' inserido com sucesso no banco de dados.
+Faixa 'STAY (with Justin Bieber)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C'}, 'href': 'https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C', 'id': '0du5cEVh5yTK9QJze8zA0C', 'name': 'Bruno Mars', 'type': 'artist', 'uri': 'spotify:artist:0du5cEVh5yTK9QJze8zA0C'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa'}, 'href': 'https://api.spotify.com/v1/artists/3jK9MiCrA42lLAdMGUZpwa', 'id': '3jK9MiCrA42lLAdMGUZpwa', 'name': 'Anderson .Paak', 'type': 'artist', 'uri': 'spotify:artist:3jK9MiCrA42lLAdMGUZpwa'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr'}, 'href': 'https://api.spotify.com/v1/artists/6PvvGcCY2XtUcSRld1Wilr', 'id': '6PvvGcCY2XtUcSRld1Wilr', 'name': 'Silk Sonic', 'type': 'artist', 'uri': 'spotify:artist:6PvvGcCY2XtUcSRld1Wilr'}]
+Artista 'Bruno Mars' inserido com sucesso no banco de dados.
+Artista 'Anderson .Paak' inserido com sucesso no banco de dados.
+Artista 'Silk Sonic' inserido com sucesso no banco de dados.
+Album 'Leave The Door Open' inserido com sucesso no banco de dados.
+Faixa 'Leave The Door Open' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr'}, 'href': 'https://api.spotify.com/v1/artists/0lAWpj5szCSwM4rUMHYmrr', 'id': '0lAWpj5szCSwM4rUMHYmrr', 'name': 'Måneskin', 'type': 'artist', 'uri': 'spotify:artist:0lAWpj5szCSwM4rUMHYmrr'}]
+Artista 'Måneskin' inserido com sucesso no banco de dados.
+Album 'Teatro d'ira - Vol. I' inserido com sucesso no banco de dados.
+Faixa 'I WANNA BE YOUR SLAVE' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5'}, 'href': 'https://api.spotify.com/v1/artists/5cj0lLjcoR7YOSnhnX0Po5', 'id': '5cj0lLjcoR7YOSnhnX0Po5', 'name': 'Doja Cat', 'type': 'artist', 'uri': 'spotify:artist:5cj0lLjcoR7YOSnhnX0Po5'}]
+Artista 'Doja Cat' inserido com sucesso no banco de dados.
+Album 'Planet Her' inserido com sucesso no banco de dados.
+Faixa 'Need to Know' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5'}, 'href': 'https://api.spotify.com/v1/artists/5cj0lLjcoR7YOSnhnX0Po5', 'id': '5cj0lLjcoR7YOSnhnX0Po5', 'name': 'Doja Cat', 'type': 'artist', 'uri': 'spotify:artist:5cj0lLjcoR7YOSnhnX0Po5'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP'}, 'href': 'https://api.spotify.com/v1/artists/7tYKF4w9nC0nq9CsPZTHyP', 'id': '7tYKF4w9nC0nq9CsPZTHyP', 'name': 'SZA', 'type': 'artist', 'uri': 'spotify:artist:7tYKF4w9nC0nq9CsPZTHyP'}]
+Artista 'Doja Cat' inserido com sucesso no banco de dados.
+Artista 'SZA' inserido com sucesso no banco de dados.
+Album 'Kiss Me More (feat. SZA)' inserido com sucesso no banco de dados.
+Faixa 'Kiss Me More (feat. SZA)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX'}, 'href': 'https://api.spotify.com/v1/artists/3Nrfpe0tUJi4K4DXYWgMUX', 'id': '3Nrfpe0tUJi4K4DXYWgMUX', 'name': 'BTS', 'type': 'artist', 'uri': 'spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX'}]
+Artista 'BTS' inserido com sucesso no banco de dados.
+Album 'Butter (Hotter, Sweeter, Cooler)' inserido com sucesso no banco de dados.
+Faixa 'Butter' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s'}, 'href': 'https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s', 'id': '1uNFoZAHBGtllmzznpCI3s', 'name': 'Justin Bieber', 'type': 'artist', 'uri': 'spotify:artist:1uNFoZAHBGtllmzznpCI3s'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA'}, 'href': 'https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA', 'id': '20wkVLutqVOYrc0kxFs7rA', 'name': 'Daniel Caesar', 'type': 'artist', 'uri': 'spotify:artist:20wkVLutqVOYrc0kxFs7rA'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP'}, 'href': 'https://api.spotify.com/v1/artists/4fxd5Ee7UefO4CUXgwJ7IP', 'id': '4fxd5Ee7UefO4CUXgwJ7IP', 'name': 'Giveon', 'type': 'artist', 'uri': 'spotify:artist:4fxd5Ee7UefO4CUXgwJ7IP'}]
+Artista 'Justin Bieber' inserido com sucesso no banco de dados.
+Artista 'Daniel Caesar' inserido com sucesso no banco de dados.
+Artista 'Giveon' inserido com sucesso no banco de dados.
+Album 'Justice' inserido com sucesso no banco de dados.
+Faixa 'Peaches (feat. Daniel Caesar & Giveon)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe'}, 'href': 'https://api.spotify.com/v1/artists/6TLwD7HPWuiOzvXEa3oCNe', 'id': '6TLwD7HPWuiOzvXEa3oCNe', 'name': 'Oliver Tree', 'type': 'artist', 'uri': 'spotify:artist:6TLwD7HPWuiOzvXEa3oCNe'}]
+Artista 'Oliver Tree' inserido com sucesso no banco de dados.
+Album 'Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)' inserido com sucesso no banco de dados.
+Faixa 'Life Goes On' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq'}, 'href': 'https://api.spotify.com/v1/artists/7jVv8c5Fj3E9VhNjxT4snq', 'id': '7jVv8c5Fj3E9VhNjxT4snq', 'name': 'Lil Nas X', 'type': 'artist', 'uri': 'spotify:artist:7jVv8c5Fj3E9VhNjxT4snq'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ'}, 'href': 'https://api.spotify.com/v1/artists/2LIk90788K0zvyj2JJVwkJ', 'id': '2LIk90788K0zvyj2JJVwkJ', 'name': 'Jack Harlow', 'type': 'artist', 'uri': 'spotify:artist:2LIk90788K0zvyj2JJVwkJ'}]
+Artista 'Lil Nas X' inserido com sucesso no banco de dados.
+Artista 'Jack Harlow' inserido com sucesso no banco de dados.
+Album 'INDUSTRY BABY 2.0' inserido com sucesso no banco de dados.
+Faixa 'INDUSTRY BABY' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT'}, 'href': 'https://api.spotify.com/v1/artists/5L1lO4eRHmJ7a0Q6csE5cT', 'id': '5L1lO4eRHmJ7a0Q6csE5cT', 'name': 'LISA', 'type': 'artist', 'uri': 'spotify:artist:5L1lO4eRHmJ7a0Q6csE5cT'}]
+Artista 'LISA' inserido com sucesso no banco de dados.
+Album 'LALISA' inserido com sucesso no banco de dados.
+Faixa 'MONEY' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH'}, 'href': 'https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH', 'id': '6qqNVTkY8uBg9cP3Jd7DAH', 'name': 'Billie Eilish', 'type': 'artist', 'uri': 'spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH'}]
+Artista 'Billie Eilish' inserido com sucesso no banco de dados.
+Album 'Happier Than Ever' inserido com sucesso no banco de dados.
+Faixa 'Happier Than Ever' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG'}, 'href': 'https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG', 'id': '1McMsnEElThX1knmY4oliG', 'name': 'Olivia Rodrigo', 'type': 'artist', 'uri': 'spotify:artist:1McMsnEElThX1knmY4oliG'}]
+Artista 'Olivia Rodrigo' inserido com sucesso no banco de dados.
+Album 'SOUR' inserido com sucesso no banco de dados.
+Faixa 'good 4 u' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2'}, 'href': 'https://api.spotify.com/v1/artists/5F1aoppMtU3OMiltO8ymJ2', 'id': '5F1aoppMtU3OMiltO8ymJ2', 'name': 'Hugh Jackman', 'type': 'artist', 'uri': 'spotify:artist:5F1aoppMtU3OMiltO8ymJ2'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/7HV2RI2qNug4EcQqLbCAKS'}, 'href': 'https://api.spotify.com/v1/artists/7HV2RI2qNug4EcQqLbCAKS', 'id': '7HV2RI2qNug4EcQqLbCAKS', 'name': 'Keala Settle', 'type': 'artist', 'uri': 'spotify:artist:7HV2RI2qNug4EcQqLbCAKS'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg'}, 'href': 'https://api.spotify.com/v1/artists/6U1dBXJhC8gXFjamvFTmHg', 'id': '6U1dBXJhC8gXFjamvFTmHg', 'name': 'Zac Efron', 'type': 'artist', 'uri': 'spotify:artist:6U1dBXJhC8gXFjamvFTmHg'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs'}, 'href': 'https://api.spotify.com/v1/artists/6sCbFbEjbYepqswM1vWjjs', 'id': '6sCbFbEjbYepqswM1vWjjs', 'name': 'Zendaya', 'type': 'artist', 'uri': 'spotify:artist:6sCbFbEjbYepqswM1vWjjs'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8'}, 'href': 'https://api.spotify.com/v1/artists/63nv0hWWDob56Rk8GlNpN8', 'id': '63nv0hWWDob56Rk8GlNpN8', 'name': 'The Greatest Showman Ensemble', 'type': 'artist', 'uri': 'spotify:artist:63nv0hWWDob56Rk8GlNpN8'}]
+Artista 'Hugh Jackman' inserido com sucesso no banco de dados.
+Artista 'Keala Settle' inserido com sucesso no banco de dados.
+Artista 'Zac Efron' inserido com sucesso no banco de dados.
+Artista 'Zendaya' inserido com sucesso no banco de dados.
+Artista 'The Greatest Showman Ensemble' inserido com sucesso no banco de dados.
+Erro ao inserir o album 'The Greatest Showman (Original Motion Picture Soundtrack)' no banco de dados: insert or update on table "albums" violates foreign key constraint "albums_artist_id_fkey"
+DETAIL:  Key (artist_id)=(0LyfQWJT6nXafLPZqxe9Of) is not present in table "artists".
+
+Erro ao inserir a faixa 'The Greatest Show' no banco de dados: insert or update on table "tracks" violates foreign key constraint "tracks_album_id_fkey"
+DETAIL:  Key (album_id)=(7ayBZIe1FHkNv0T5xFCX6F) is not present in table "albums".
+
+Erro ao inserir a faixa '4ylWMuGbMXNDgDd8lErEle' da playlist '0LYpdcWIRk19rC026Rnmbi' no banco de dados: insert or update on table "playlisttracks" violates foreign key constraint "playlisttracks_track_id_fkey"
+DETAIL:  Key (track_id)=(4ylWMuGbMXNDgDd8lErEle) is not present in table "tracks".
+
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2'}, 'href': 'https://api.spotify.com/v1/artists/5F1aoppMtU3OMiltO8ymJ2', 'id': '5F1aoppMtU3OMiltO8ymJ2', 'name': 'Hugh Jackman', 'type': 'artist', 'uri': 'spotify:artist:5F1aoppMtU3OMiltO8ymJ2'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg'}, 'href': 'https://api.spotify.com/v1/artists/6U1dBXJhC8gXFjamvFTmHg', 'id': '6U1dBXJhC8gXFjamvFTmHg', 'name': 'Zac Efron', 'type': 'artist', 'uri': 'spotify:artist:6U1dBXJhC8gXFjamvFTmHg'}]
+Artista 'Hugh Jackman' inserido com sucesso no banco de dados.
+Artista 'Zac Efron' inserido com sucesso no banco de dados.
+Erro ao inserir o album 'The Greatest Showman (Original Motion Picture Soundtrack)' no banco de dados: insert or update on table "albums" violates foreign key constraint "albums_artist_id_fkey"
+DETAIL:  Key (artist_id)=(0LyfQWJT6nXafLPZqxe9Of) is not present in table "artists".
+
+Erro ao inserir a faixa 'The Other Side' no banco de dados: insert or update on table "tracks" violates foreign key constraint "tracks_album_id_fkey"
+DETAIL:  Key (album_id)=(7ayBZIe1FHkNv0T5xFCX6F) is not present in table "albums".
+
+Erro ao inserir a faixa '2cKovq3l6OJjhVVDbVKOsr' da playlist '0LYpdcWIRk19rC026Rnmbi' no banco de dados: insert or update on table "playlisttracks" violates foreign key constraint "playlisttracks_track_id_fkey"
+DETAIL:  Key (track_id)=(2cKovq3l6OJjhVVDbVKOsr) is not present in table "tracks".
+
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS'}, 'href': 'https://api.spotify.com/v1/artists/2FXC3k01G6Gw61bmprjgqS', 'id': '2FXC3k01G6Gw61bmprjgqS', 'name': 'Hozier', 'type': 'artist', 'uri': 'spotify:artist:2FXC3k01G6Gw61bmprjgqS'}]
+Artista 'Hozier' inserido com sucesso no banco de dados.
+Album 'Hozier' inserido com sucesso no banco de dados.
+Faixa 'Take Me To Church' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK'}, 'href': 'https://api.spotify.com/v1/artists/20JZFwl6HVl6yg8a4H3ZqK', 'id': '20JZFwl6HVl6yg8a4H3ZqK', 'name': 'Panic! At The Disco', 'type': 'artist', 'uri': 'spotify:artist:20JZFwl6HVl6yg8a4H3ZqK'}]
+Artista 'Panic! At The Disco' inserido com sucesso no banco de dados.
+Album 'Pray for the Wicked' inserido com sucesso no banco de dados.
+Faixa 'Say Amen (Saturday Night)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6'}, 'href': 'https://api.spotify.com/v1/artists/5YGY8feqx7naU7z4HrwZM6', 'id': '5YGY8feqx7naU7z4HrwZM6', 'name': 'Miley Cyrus', 'type': 'artist', 'uri': 'spotify:artist:5YGY8feqx7naU7z4HrwZM6'}]
+Artista 'Miley Cyrus' inserido com sucesso no banco de dados.
+Album 'The Time Of Our Lives (International Version)' inserido com sucesso no banco de dados.
+Faixa 'Party In The U.S.A.' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd'}, 'href': 'https://api.spotify.com/v1/artists/2iEvnFsWxR0Syqu2JNopAd', 'id': '2iEvnFsWxR0Syqu2JNopAd', 'name': 'Smash Mouth', 'type': 'artist', 'uri': 'spotify:artist:2iEvnFsWxR0Syqu2JNopAd'}]
+Artista 'Smash Mouth' inserido com sucesso no banco de dados.
+Album 'Astro Lounge' inserido com sucesso no banco de dados.
+Faixa 'All Star' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK'}, 'href': 'https://api.spotify.com/v1/artists/20JZFwl6HVl6yg8a4H3ZqK', 'id': '20JZFwl6HVl6yg8a4H3ZqK', 'name': 'Panic! At The Disco', 'type': 'artist', 'uri': 'spotify:artist:20JZFwl6HVl6yg8a4H3ZqK'}]
+Artista 'Panic! At The Disco' inserido com sucesso no banco de dados.
+Album 'Pray for the Wicked' inserido com sucesso no banco de dados.
+Faixa 'Roaring 20s' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/5F1aoppMtU3OMiltO8ymJ2'}, 'href': 'https://api.spotify.com/v1/artists/5F1aoppMtU3OMiltO8ymJ2', 'id': '5F1aoppMtU3OMiltO8ymJ2', 'name': 'Hugh Jackman', 'type': 'artist', 'uri': 'spotify:artist:5F1aoppMtU3OMiltO8ymJ2'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/63nv0hWWDob56Rk8GlNpN8'}, 'href': 'https://api.spotify.com/v1/artists/63nv0hWWDob56Rk8GlNpN8', 'id': '63nv0hWWDob56Rk8GlNpN8', 'name': 'The Greatest Showman Ensemble', 'type': 'artist', 'uri': 'spotify:artist:63nv0hWWDob56Rk8GlNpN8'}]
+Artista 'Hugh Jackman' inserido com sucesso no banco de dados.
+Artista 'The Greatest Showman Ensemble' inserido com sucesso no banco de dados.
+Erro ao inserir o album 'The Greatest Showman (Original Motion Picture Soundtrack)' no banco de dados: insert or update on table "albums" violates foreign key constraint "albums_artist_id_fkey"
+DETAIL:  Key (artist_id)=(0LyfQWJT6nXafLPZqxe9Of) is not present in table "artists".
+
+Erro ao inserir a faixa 'From Now On' no banco de dados: insert or update on table "tracks" violates foreign key constraint "tracks_album_id_fkey"
+DETAIL:  Key (album_id)=(7ayBZIe1FHkNv0T5xFCX6F) is not present in table "albums".
+
+Erro ao inserir a faixa '3IkWmgGsXbsafrunwPojXO' da playlist '0LYpdcWIRk19rC026Rnmbi' no banco de dados: insert or update on table "playlisttracks" violates foreign key constraint "playlisttracks_track_id_fkey"
+DETAIL:  Key (track_id)=(3IkWmgGsXbsafrunwPojXO) is not present in table "tracks".
+
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY'}, 'href': 'https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY', 'id': '4dpARuHxo51G3z768sgnrY', 'name': 'Adele', 'type': 'artist', 'uri': 'spotify:artist:4dpARuHxo51G3z768sgnrY'}]
+Artista 'Adele' inserido com sucesso no banco de dados.
+Album '21' inserido com sucesso no banco de dados.
+Faixa 'Rolling in the Deep' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6U1dBXJhC8gXFjamvFTmHg'}, 'href': 'https://api.spotify.com/v1/artists/6U1dBXJhC8gXFjamvFTmHg', 'id': '6U1dBXJhC8gXFjamvFTmHg', 'name': 'Zac Efron', 'type': 'artist', 'uri': 'spotify:artist:6U1dBXJhC8gXFjamvFTmHg'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs'}, 'href': 'https://api.spotify.com/v1/artists/6sCbFbEjbYepqswM1vWjjs', 'id': '6sCbFbEjbYepqswM1vWjjs', 'name': 'Zendaya', 'type': 'artist', 'uri': 'spotify:artist:6sCbFbEjbYepqswM1vWjjs'}]
+Artista 'Zac Efron' inserido com sucesso no banco de dados.
+Artista 'Zendaya' inserido com sucesso no banco de dados.
+Erro ao inserir o album 'The Greatest Showman (Original Motion Picture Soundtrack)' no banco de dados: insert or update on table "albums" violates foreign key constraint "albums_artist_id_fkey"
+DETAIL:  Key (artist_id)=(0LyfQWJT6nXafLPZqxe9Of) is not present in table "artists".
+
+Erro ao inserir a faixa 'Rewrite The Stars' no banco de dados: insert or update on table "tracks" violates foreign key constraint "tracks_album_id_fkey"
+DETAIL:  Key (album_id)=(7ayBZIe1FHkNv0T5xFCX6F) is not present in table "albums".
+
+Erro ao inserir a faixa '65fpYBrI8o2cfrwf2US4gq' da playlist '0LYpdcWIRk19rC026Rnmbi' no banco de dados: insert or update on table "playlisttracks" violates foreign key constraint "playlisttracks_track_id_fkey"
+DETAIL:  Key (track_id)=(65fpYBrI8o2cfrwf2US4gq) is not present in table "tracks".
+
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK'}, 'href': 'https://api.spotify.com/v1/artists/20JZFwl6HVl6yg8a4H3ZqK', 'id': '20JZFwl6HVl6yg8a4H3ZqK', 'name': 'Panic! At The Disco', 'type': 'artist', 'uri': 'spotify:artist:20JZFwl6HVl6yg8a4H3ZqK'}]
+Artista 'Panic! At The Disco' inserido com sucesso no banco de dados.
+Album 'Pray for the Wicked' inserido com sucesso no banco de dados.
+Faixa 'High Hopes' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0MXwnhyYMeEfij4dl2YIQ4'}, 'href': 'https://api.spotify.com/v1/artists/0MXwnhyYMeEfij4dl2YIQ4', 'id': '0MXwnhyYMeEfij4dl2YIQ4', 'name': 'Grant Gustin', 'type': 'artist', 'uri': 'spotify:artist:0MXwnhyYMeEfij4dl2YIQ4'}]
+Artista 'Grant Gustin' inserido com sucesso no banco de dados.
+Erro ao inserir o album 'The Flash (Music from the Special Episode: Duet)' no banco de dados: insert or update on table "albums" violates foreign key constraint "albums_artist_id_fkey"
+DETAIL:  Key (artist_id)=(0LyfQWJT6nXafLPZqxe9Of) is not present in table "artists".
+
+Erro ao inserir a faixa 'Runnin' Home to You' no banco de dados: insert or update on table "tracks" violates foreign key constraint "tracks_album_id_fkey"
+DETAIL:  Key (album_id)=(75hZ7GJYAeuH4kWsst3rKP) is not present in table "albums".
+
+Erro ao inserir a faixa '09kaIU1AZoo2MRk46s6AEi' da playlist '0LYpdcWIRk19rC026Rnmbi' no banco de dados: insert or update on table "playlisttracks" violates foreign key constraint "playlisttracks_track_id_fkey"
+DETAIL:  Key (track_id)=(09kaIU1AZoo2MRk46s6AEi) is not present in table "tracks".
+
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t'}, 'href': 'https://api.spotify.com/v1/artists/5y2Xq6xcjJb2jVM54GHK3t', 'id': '5y2Xq6xcjJb2jVM54GHK3t', 'name': 'John Legend', 'type': 'artist', 'uri': 'spotify:artist:5y2Xq6xcjJb2jVM54GHK3t'}]
+Artista 'John Legend' inserido com sucesso no banco de dados.
+Album 'Love In The Future (Expanded Edition)' inserido com sucesso no banco de dados.
+Faixa 'All of Me' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux'}, 'href': 'https://api.spotify.com/v1/artists/7KMqksf0UMdyA0UCf4R3ux', 'id': '7KMqksf0UMdyA0UCf4R3ux', 'name': 'James Blunt', 'type': 'artist', 'uri': 'spotify:artist:7KMqksf0UMdyA0UCf4R3ux'}]
+Artista 'James Blunt' inserido com sucesso no banco de dados.
+Album 'Back to Bedlam' inserido com sucesso no banco de dados.
+Faixa 'You're Beautiful' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF'}, 'href': 'https://api.spotify.com/v1/artists/6deZN1bslXzeGvOLaLMOIF', 'id': '6deZN1bslXzeGvOLaLMOIF', 'name': 'Nickelback', 'type': 'artist', 'uri': 'spotify:artist:6deZN1bslXzeGvOLaLMOIF'}]
+Artista 'Nickelback' inserido com sucesso no banco de dados.
+Album 'Silver Side Up' inserido com sucesso no banco de dados.
+Faixa 'How You Remind Me' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop'}, 'href': 'https://api.spotify.com/v1/artists/137W8MRPWKqSmrBGDBFSop', 'id': '137W8MRPWKqSmrBGDBFSop', 'name': 'Wiz Khalifa', 'type': 'artist', 'uri': 'spotify:artist:137W8MRPWKqSmrBGDBFSop'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7'}, 'href': 'https://api.spotify.com/v1/artists/6VuMaDnrHyPL1p4EHjYLi7', 'id': '6VuMaDnrHyPL1p4EHjYLi7', 'name': 'Charlie Puth', 'type': 'artist', 'uri': 'spotify:artist:6VuMaDnrHyPL1p4EHjYLi7'}]
+Artista 'Wiz Khalifa' inserido com sucesso no banco de dados.
+Artista 'Charlie Puth' inserido com sucesso no banco de dados.
+Album 'See You Again (feat. Charlie Puth)' inserido com sucesso no banco de dados.
+Faixa 'See You Again (feat. Charlie Puth)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6'}, 'href': 'https://api.spotify.com/v1/artists/7H55rcKCfwqkyDFH9wpKM6', 'id': '7H55rcKCfwqkyDFH9wpKM6', 'name': 'Christina Perri', 'type': 'artist', 'uri': 'spotify:artist:7H55rcKCfwqkyDFH9wpKM6'}]
+Artista 'Christina Perri' inserido com sucesso no banco de dados.
+Album 'A Thousand Years' inserido com sucesso no banco de dados.
+Faixa 'a thousand years' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux'}, 'href': 'https://api.spotify.com/v1/artists/7KMqksf0UMdyA0UCf4R3ux', 'id': '7KMqksf0UMdyA0UCf4R3ux', 'name': 'James Blunt', 'type': 'artist', 'uri': 'spotify:artist:7KMqksf0UMdyA0UCf4R3ux'}]
+Artista 'James Blunt' inserido com sucesso no banco de dados.
+Album 'All the Lost Souls' inserido com sucesso no banco de dados.
+Faixa 'Same Mistake' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms'}, 'href': 'https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms', 'id': '1HY2Jd0NmPuamShAr6KMms', 'name': 'Lady Gaga', 'type': 'artist', 'uri': 'spotify:artist:1HY2Jd0NmPuamShAr6KMms'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG'}, 'href': 'https://api.spotify.com/v1/artists/4VIvfOurcf0vuLRxLkGnIG', 'id': '4VIvfOurcf0vuLRxLkGnIG', 'name': 'Bradley Cooper', 'type': 'artist', 'uri': 'spotify:artist:4VIvfOurcf0vuLRxLkGnIG'}]
+Artista 'Lady Gaga' inserido com sucesso no banco de dados.
+Artista 'Bradley Cooper' inserido com sucesso no banco de dados.
+Album 'A Star Is Born Soundtrack' inserido com sucesso no banco de dados.
+Faixa 'Shallow' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA'}, 'href': 'https://api.spotify.com/v1/artists/32WkQRZEVKSzVAAYqukAEA', 'id': '32WkQRZEVKSzVAAYqukAEA', 'name': 'Lady A', 'type': 'artist', 'uri': 'spotify:artist:32WkQRZEVKSzVAAYqukAEA'}]
+Artista 'Lady A' inserido com sucesso no banco de dados.
+Album 'Need You Now' inserido com sucesso no banco de dados.
+Faixa 'Need You Now' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX'}, 'href': 'https://api.spotify.com/v1/artists/3BmGtnKgCSGYIUhmivXKWX', 'id': '3BmGtnKgCSGYIUhmivXKWX', 'name': 'Kelly Clarkson', 'type': 'artist', 'uri': 'spotify:artist:3BmGtnKgCSGYIUhmivXKWX'}]
+Artista 'Kelly Clarkson' inserido com sucesso no banco de dados.
+Album 'Breakaway' inserido com sucesso no banco de dados.
+Faixa 'Because of You' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY'}, 'href': 'https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY', 'id': '4dpARuHxo51G3z768sgnrY', 'name': 'Adele', 'type': 'artist', 'uri': 'spotify:artist:4dpARuHxo51G3z768sgnrY'}]
+Artista 'Adele' inserido com sucesso no banco de dados.
+Album '25' inserido com sucesso no banco de dados.
+Faixa 'Hello' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD'}, 'href': 'https://api.spotify.com/v1/artists/7gOdHgIoIKoe4i9Tta6qdD', 'id': '7gOdHgIoIKoe4i9Tta6qdD', 'name': 'Jonas Brothers', 'type': 'artist', 'uri': 'spotify:artist:7gOdHgIoIKoe4i9Tta6qdD'}]
+Artista 'Jonas Brothers' inserido com sucesso no banco de dados.
+Album 'Jonas Brothers' inserido com sucesso no banco de dados.
+Faixa 'When You Look Me In The Eyes' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6'}, 'href': 'https://api.spotify.com/v1/artists/5YGY8feqx7naU7z4HrwZM6', 'id': '5YGY8feqx7naU7z4HrwZM6', 'name': 'Miley Cyrus', 'type': 'artist', 'uri': 'spotify:artist:5YGY8feqx7naU7z4HrwZM6'}]
+Artista 'Miley Cyrus' inserido com sucesso no banco de dados.
+Album 'The Time Of Our Lives (International Version)' inserido com sucesso no banco de dados.
+Faixa 'The Climb' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR'}, 'href': 'https://api.spotify.com/v1/artists/1KCSPY1glIKqW2TotWuXOR', 'id': '1KCSPY1glIKqW2TotWuXOR', 'name': 'P!nk', 'type': 'artist', 'uri': 'spotify:artist:1KCSPY1glIKqW2TotWuXOR'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ'}, 'href': 'https://api.spotify.com/v1/artists/1qUjOF5fzrpoNycD36b2jZ', 'id': '1qUjOF5fzrpoNycD36b2jZ', 'name': 'Nate Ruess', 'type': 'artist', 'uri': 'spotify:artist:1qUjOF5fzrpoNycD36b2jZ'}]
+Artista 'P!nk' inserido com sucesso no banco de dados.
+Artista 'Nate Ruess' inserido com sucesso no banco de dados.
+Album 'The Truth About Love' inserido com sucesso no banco de dados.
+Faixa 'Just Give Me a Reason (feat. Nate Ruess)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY'}, 'href': 'https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY', 'id': '4dpARuHxo51G3z768sgnrY', 'name': 'Adele', 'type': 'artist', 'uri': 'spotify:artist:4dpARuHxo51G3z768sgnrY'}]
+Artista 'Adele' inserido com sucesso no banco de dados.
+Album 'Skyfall' inserido com sucesso no banco de dados.
+Faixa 'Skyfall' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C'}, 'href': 'https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C', 'id': '0du5cEVh5yTK9QJze8zA0C', 'name': 'Bruno Mars', 'type': 'artist', 'uri': 'spotify:artist:0du5cEVh5yTK9QJze8zA0C'}]
+Artista 'Bruno Mars' inserido com sucesso no banco de dados.
+Album 'Unorthodox Jukebox' inserido com sucesso no banco de dados.
+Faixa 'When I Was Your Man' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI'}, 'href': 'https://api.spotify.com/v1/artists/2wY79sveU1sp5g7SokKOiI', 'id': '2wY79sveU1sp5g7SokKOiI', 'name': 'Sam Smith', 'type': 'artist', 'uri': 'spotify:artist:2wY79sveU1sp5g7SokKOiI'}]
+Artista 'Sam Smith' inserido com sucesso no banco de dados.
+Album 'Writing's On The Wall' inserido com sucesso no banco de dados.
+Faixa 'Writing's On The Wall' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ'}, 'href': 'https://api.spotify.com/v1/artists/5Pwc4xIPtQLFEnJriah9YJ', 'id': '5Pwc4xIPtQLFEnJriah9YJ', 'name': 'OneRepublic', 'type': 'artist', 'uri': 'spotify:artist:5Pwc4xIPtQLFEnJriah9YJ'}]
+Artista 'OneRepublic' inserido com sucesso no banco de dados.
+Album 'Waking Up' inserido com sucesso no banco de dados.
+Faixa 'Secrets' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr'}, 'href': 'https://api.spotify.com/v1/artists/7n2wHs1TKAczGzO7Dd2rGr', 'id': '7n2wHs1TKAczGzO7Dd2rGr', 'name': 'Shawn Mendes', 'type': 'artist', 'uri': 'spotify:artist:7n2wHs1TKAczGzO7Dd2rGr'}]
+Artista 'Shawn Mendes' inserido com sucesso no banco de dados.
+Album 'Illuminate (Deluxe)' inserido com sucesso no banco de dados.
+Faixa 'Mercy' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY'}, 'href': 'https://api.spotify.com/v1/artists/7oPftvlwr6VrsViSDV7fJY', 'id': '7oPftvlwr6VrsViSDV7fJY', 'name': 'Green Day', 'type': 'artist', 'uri': 'spotify:artist:7oPftvlwr6VrsViSDV7fJY'}]
+Artista 'Green Day' inserido com sucesso no banco de dados.
+Album 'American Idiot - The Original Broadway Cast Recording' inserido com sucesso no banco de dados.
+Faixa 'Boulevard of Broken Dreams (feat. John Gallagher Jr., Rebecca Naomi Jones, Stark Sands, The American Idiot Broadway Company)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o'}, 'href': 'https://api.spotify.com/v1/artists/1g1yxsNVPhMUl9GrMjEb2o', 'id': '1g1yxsNVPhMUl9GrMjEb2o', 'name': "Plain White T's", 'type': 'artist', 'uri': 'spotify:artist:1g1yxsNVPhMUl9GrMjEb2o'}]
+Artista 'Plain White T's' inserido com sucesso no banco de dados.
+Album 'Every Second Counts' inserido com sucesso no banco de dados.
+Faixa 'Hey There Delilah - Bonus Track' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU'}, 'href': 'https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU', 'id': '4gzpq5DPGxSnKTe4SA8HAU', 'name': 'Coldplay', 'type': 'artist', 'uri': 'spotify:artist:4gzpq5DPGxSnKTe4SA8HAU'}]
+Artista 'Coldplay' inserido com sucesso no banco de dados.
+Album 'Mylo Xyloto' inserido com sucesso no banco de dados.
+Faixa 'Paradise' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB'}, 'href': 'https://api.spotify.com/v1/artists/4GNC7GD6oZMSxPGyXy4MNB', 'id': '4GNC7GD6oZMSxPGyXy4MNB', 'name': 'Lewis Capaldi', 'type': 'artist', 'uri': 'spotify:artist:4GNC7GD6oZMSxPGyXy4MNB'}]
+Artista 'Lewis Capaldi' inserido com sucesso no banco de dados.
+Album 'Divinely Uninspired To A Hellish Extent' inserido com sucesso no banco de dados.
+Faixa 'Someone You Loved' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU'}, 'href': 'https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU', 'id': '4gzpq5DPGxSnKTe4SA8HAU', 'name': 'Coldplay', 'type': 'artist', 'uri': 'spotify:artist:4gzpq5DPGxSnKTe4SA8HAU'}]
+Artista 'Coldplay' inserido com sucesso no banco de dados.
+Album 'Viva La Vida or Death and All His Friends' inserido com sucesso no banco de dados.
+Faixa 'Viva La Vida' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY'}, 'href': 'https://api.spotify.com/v1/artists/7oPftvlwr6VrsViSDV7fJY', 'id': '7oPftvlwr6VrsViSDV7fJY', 'name': 'Green Day', 'type': 'artist', 'uri': 'spotify:artist:7oPftvlwr6VrsViSDV7fJY'}]
+Artista 'Green Day' inserido com sucesso no banco de dados.
+Album 'American Idiot' inserido com sucesso no banco de dados.
+Faixa 'Wake Me up When September Ends' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp'}, 'href': 'https://api.spotify.com/v1/artists/5aMmmNxw4vgpc5XC6hK0zp', 'id': '5aMmmNxw4vgpc5XC6hK0zp', 'name': 'The Calling', 'type': 'artist', 'uri': 'spotify:artist:5aMmmNxw4vgpc5XC6hK0zp'}]
+Artista 'The Calling' inserido com sucesso no banco de dados.
+Album 'Camino Palmero' inserido com sucesso no banco de dados.
+Faixa 'Wherever You Will Go' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7'}, 'href': 'https://api.spotify.com/v1/artists/0UWZUmn7sybxMCqrw9tGa7', 'id': '0UWZUmn7sybxMCqrw9tGa7', 'name': 'Juanes', 'type': 'artist', 'uri': 'spotify:artist:0UWZUmn7sybxMCqrw9tGa7'}]
+Artista 'Juanes' inserido com sucesso no banco de dados.
+Album 'Mi Sangre' inserido com sucesso no banco de dados.
+Faixa 'Para Tu Amor' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos'}, 'href': 'https://api.spotify.com/v1/artists/6UBA15slIuadJ8h2lPRPos', 'id': '6UBA15slIuadJ8h2lPRPos', 'name': 'Tech N9ne', 'type': 'artist', 'uri': 'spotify:artist:6UBA15slIuadJ8h2lPRPos'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/1A8NEJYo3VW9aIZ6l55Dgu'}, 'href': 'https://api.spotify.com/v1/artists/1A8NEJYo3VW9aIZ6l55Dgu', 'id': '1A8NEJYo3VW9aIZ6l55Dgu', 'name': 'Joey Cool', 'type': 'artist', 'uri': 'spotify:artist:1A8NEJYo3VW9aIZ6l55Dgu'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/7vTyZmNA6LC0WRDg7V6yle'}, 'href': 'https://api.spotify.com/v1/artists/7vTyZmNA6LC0WRDg7V6yle', 'id': '7vTyZmNA6LC0WRDg7V6yle', 'name': 'King Iso', 'type': 'artist', 'uri': 'spotify:artist:7vTyZmNA6LC0WRDg7V6yle'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/1T8S48bD91THNKBByWBDyn'}, 'href': 'https://api.spotify.com/v1/artists/1T8S48bD91THNKBByWBDyn', 'id': '1T8S48bD91THNKBByWBDyn', 'name': 'Dwayne Johnson', 'type': 'artist', 'uri': 'spotify:artist:1T8S48bD91THNKBByWBDyn'}]
+Artista 'Tech N9ne' inserido com sucesso no banco de dados.
+Artista 'Joey Cool' inserido com sucesso no banco de dados.
+Artista 'King Iso' inserido com sucesso no banco de dados.
+Artista 'Dwayne Johnson' inserido com sucesso no banco de dados.
+Erro ao inserir o album 'Face Off' no banco de dados: insert or update on table "albums" violates foreign key constraint "albums_artist_id_fkey"
+DETAIL:  Key (artist_id)=(0LyfQWJT6nXafLPZqxe9Of) is not present in table "artists".
+
+Erro ao inserir a faixa 'Face Off' no banco de dados: insert or update on table "tracks" violates foreign key constraint "tracks_album_id_fkey"
+DETAIL:  Key (album_id)=(4Dpb5EctnMXnhwDNus28MI) is not present in table "albums".
+
+Erro ao inserir a faixa '4mTW7Djq9tWyi9WmlQn1jK' da playlist '0LYpdcWIRk19rC026Rnmbi' no banco de dados: insert or update on table "playlisttracks" violates foreign key constraint "playlisttracks_track_id_fkey"
+DETAIL:  Key (track_id)=(4mTW7Djq9tWyi9WmlQn1jK) is not present in table "tracks".
+
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/1RWk8RsDoNhQ5J3DPXz5AC'}, 'href': 'https://api.spotify.com/v1/artists/1RWk8RsDoNhQ5J3DPXz5AC', 'id': '1RWk8RsDoNhQ5J3DPXz5AC', 'name': 'Knox Hill', 'type': 'artist', 'uri': 'spotify:artist:1RWk8RsDoNhQ5J3DPXz5AC'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/7r02aE3AxD2BbYCD0mQPFD'}, 'href': 'https://api.spotify.com/v1/artists/7r02aE3AxD2BbYCD0mQPFD', 'id': '7r02aE3AxD2BbYCD0mQPFD', 'name': 'Josh Schulze', 'type': 'artist', 'uri': 'spotify:artist:7r02aE3AxD2BbYCD0mQPFD'}]
+Artista 'Knox Hill' inserido com sucesso no banco de dados.
+Artista 'Josh Schulze' inserido com sucesso no banco de dados.
+Album 'Rockstar' inserido com sucesso no banco de dados.
+Faixa 'Rockstar' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7'}, 'href': 'https://api.spotify.com/v1/artists/31TPClRtHm23RisEBtV3X7', 'id': '31TPClRtHm23RisEBtV3X7', 'name': 'Justin Timberlake', 'type': 'artist', 'uri': 'spotify:artist:31TPClRtHm23RisEBtV3X7'}]
+Artista 'Justin Timberlake' inserido com sucesso no banco de dados.
+Album 'FutureSex/LoveSounds' inserido com sucesso no banco de dados.
+Faixa 'What Goes Around.../...Comes Around (Interlude)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7'}, 'href': 'https://api.spotify.com/v1/artists/5rSXSAkZ67PYJSvpUpkOr7', 'id': '5rSXSAkZ67PYJSvpUpkOr7', 'name': 'Backstreet Boys', 'type': 'artist', 'uri': 'spotify:artist:5rSXSAkZ67PYJSvpUpkOr7'}]
+Artista 'Backstreet Boys' inserido com sucesso no banco de dados.
+Album 'Backstreet's Back' inserido com sucesso no banco de dados.
+Faixa 'Everybody (Backstreet's Back) - Radio Edit' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we'}, 'href': 'https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we', 'id': '6M2wZ9GZgrQXHCFfjv46we', 'name': 'Dua Lipa', 'type': 'artist', 'uri': 'spotify:artist:6M2wZ9GZgrQXHCFfjv46we'}]
+Artista 'Dua Lipa' inserido com sucesso no banco de dados.
+Album 'Future Nostalgia' inserido com sucesso no banco de dados.
+Faixa 'Levitating' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY'}, 'href': 'https://api.spotify.com/v1/artists/0jnsk9HBra6NMjO2oANoPY', 'id': '0jnsk9HBra6NMjO2oANoPY', 'name': 'Flo Rida', 'type': 'artist', 'uri': 'spotify:artist:0jnsk9HBra6NMjO2oANoPY'}]
+Artista 'Flo Rida' inserido com sucesso no banco de dados.
+Album 'Wild Ones' inserido com sucesso no banco de dados.
+Faixa 'Good Feeling' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg'}, 'href': 'https://api.spotify.com/v1/artists/0TnOYISbd1XYRBk9myaseg', 'id': '0TnOYISbd1XYRBk9myaseg', 'name': 'Pitbull', 'type': 'artist', 'uri': 'spotify:artist:0TnOYISbd1XYRBk9myaseg'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz'}, 'href': 'https://api.spotify.com/v1/artists/4D75GcNG95ebPtNvoNVXhz', 'id': '4D75GcNG95ebPtNvoNVXhz', 'name': 'AFROJACK', 'type': 'artist', 'uri': 'spotify:artist:4D75GcNG95ebPtNvoNVXhz'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj'}, 'href': 'https://api.spotify.com/v1/artists/21E3waRsmPlU7jZsS13rcj', 'id': '21E3waRsmPlU7jZsS13rcj', 'name': 'Ne-Yo', 'type': 'artist', 'uri': 'spotify:artist:21E3waRsmPlU7jZsS13rcj'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/1ruutHJcECI7cos2n5TqpO'}, 'href': 'https://api.spotify.com/v1/artists/1ruutHJcECI7cos2n5TqpO', 'id': '1ruutHJcECI7cos2n5TqpO', 'name': 'Nayer', 'type': 'artist', 'uri': 'spotify:artist:1ruutHJcECI7cos2n5TqpO'}]
+Artista 'Pitbull' inserido com sucesso no banco de dados.
+Artista 'AFROJACK' inserido com sucesso no banco de dados.
+Artista 'Ne-Yo' inserido com sucesso no banco de dados.
+Artista 'Nayer' inserido com sucesso no banco de dados.
+Album 'Planet Pit (Deluxe Version)' inserido com sucesso no banco de dados.
+Faixa 'Give Me Everything (feat. Nayer)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX'}, 'href': 'https://api.spotify.com/v1/artists/6LqNN22kT3074XbTVUrhzX', 'id': '6LqNN22kT3074XbTVUrhzX', 'name': 'Kesha', 'type': 'artist', 'uri': 'spotify:artist:6LqNN22kT3074XbTVUrhzX'}]
+Artista 'Kesha' inserido com sucesso no banco de dados.
+Album 'Animal (Expanded Edition)' inserido com sucesso no banco de dados.
+Faixa 'Take It Off' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0ru4hXR4RJY1mikvbQKgWa'}, 'href': 'https://api.spotify.com/v1/artists/0ru4hXR4RJY1mikvbQKgWa', 'id': '0ru4hXR4RJY1mikvbQKgWa', 'name': 'Jon Lajoie', 'type': 'artist', 'uri': 'spotify:artist:0ru4hXR4RJY1mikvbQKgWa'}]
+Artista 'Jon Lajoie' inserido com sucesso no banco de dados.
+Album 'You Want Some of This?' inserido com sucesso no banco de dados.
+Faixa 'Everyday Normal Guy 2' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS'}, 'href': 'https://api.spotify.com/v1/artists/56oDRnqbIiwx4mymNEv7dS', 'id': '56oDRnqbIiwx4mymNEv7dS', 'name': 'Lizzo', 'type': 'artist', 'uri': 'spotify:artist:56oDRnqbIiwx4mymNEv7dS'}]
+Artista 'Lizzo' inserido com sucesso no banco de dados.
+Album 'Special' inserido com sucesso no banco de dados.
+Faixa 'About Damn Time' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR'}, 'href': 'https://api.spotify.com/v1/artists/7dGJo4pcD2V6oG8kP0tJRR', 'id': '7dGJo4pcD2V6oG8kP0tJRR', 'name': 'Eminem', 'type': 'artist', 'uri': 'spotify:artist:7dGJo4pcD2V6oG8kP0tJRR'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H'}, 'href': 'https://api.spotify.com/v1/artists/5pKCCKE2ajJHZ9KAiaK11H', 'id': '5pKCCKE2ajJHZ9KAiaK11H', 'name': 'Rihanna', 'type': 'artist', 'uri': 'spotify:artist:5pKCCKE2ajJHZ9KAiaK11H'}]
+Artista 'Eminem' inserido com sucesso no banco de dados.
+Artista 'Rihanna' inserido com sucesso no banco de dados.
+Album 'Recovery' inserido com sucesso no banco de dados.
+Faixa 'Love The Way You Lie' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/7juKTDFlPesGeWQ1GmjmOv'}, 'href': 'https://api.spotify.com/v1/artists/7juKTDFlPesGeWQ1GmjmOv', 'id': '7juKTDFlPesGeWQ1GmjmOv', 'name': 'Silentó', 'type': 'artist', 'uri': 'spotify:artist:7juKTDFlPesGeWQ1GmjmOv'}]
+Artista 'Silentó' inserido com sucesso no banco de dados.
+Album 'Watch Me (Whip / Nae Nae)' inserido com sucesso no banco de dados.
+Faixa 'Watch Me (Whip / Nae Nae)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY'}, 'href': 'https://api.spotify.com/v1/artists/7CajNmpbOovFoOoasH2HaY', 'id': '7CajNmpbOovFoOoasH2HaY', 'name': 'Calvin Harris', 'type': 'artist', 'uri': 'spotify:artist:7CajNmpbOovFoOoasH2HaY'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we'}, 'href': 'https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we', 'id': '6M2wZ9GZgrQXHCFfjv46we', 'name': 'Dua Lipa', 'type': 'artist', 'uri': 'spotify:artist:6M2wZ9GZgrQXHCFfjv46we'}]
+Artista 'Calvin Harris' inserido com sucesso no banco de dados.
+Artista 'Dua Lipa' inserido com sucesso no banco de dados.
+Album 'One Kiss (with Dua Lipa)' inserido com sucesso no banco de dados.
+Faixa 'One Kiss (with Dua Lipa)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI'}, 'href': 'https://api.spotify.com/v1/artists/2wY79sveU1sp5g7SokKOiI', 'id': '2wY79sveU1sp5g7SokKOiI', 'name': 'Sam Smith', 'type': 'artist', 'uri': 'spotify:artist:2wY79sveU1sp5g7SokKOiI'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J'}, 'href': 'https://api.spotify.com/v1/artists/3Xt3RrJMFv5SZkCfUE8C1J', 'id': '3Xt3RrJMFv5SZkCfUE8C1J', 'name': 'Kim Petras', 'type': 'artist', 'uri': 'spotify:artist:3Xt3RrJMFv5SZkCfUE8C1J'}]
+Artista 'Sam Smith' inserido com sucesso no banco de dados.
+Artista 'Kim Petras' inserido com sucesso no banco de dados.
+Album 'Unholy (feat. Kim Petras)' inserido com sucesso no banco de dados.
+Faixa 'Unholy (feat. Kim Petras)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36'}, 'href': 'https://api.spotify.com/v1/artists/716NhGYqD1jl2wI1Qkgq36', 'id': '716NhGYqD1jl2wI1Qkgq36', 'name': 'Bizarrap', 'type': 'artist', 'uri': 'spotify:artist:716NhGYqD1jl2wI1Qkgq36'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp'}, 'href': 'https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp', 'id': '0EmeFodog0BfCgMzAIvKQp', 'name': 'Shakira', 'type': 'artist', 'uri': 'spotify:artist:0EmeFodog0BfCgMzAIvKQp'}]
+Artista 'Bizarrap' inserido com sucesso no banco de dados.
+Artista 'Shakira' inserido com sucesso no banco de dados.
+Album 'Shakira: Bzrp Music Sessions, Vol. 53' inserido com sucesso no banco de dados.
+Faixa 'Shakira: Bzrp Music Sessions, Vol. 53' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz'}, 'href': 'https://api.spotify.com/v1/artists/6fOMl44jA4Sp5b9PpYCkzz', 'id': '6fOMl44jA4Sp5b9PpYCkzz', 'name': 'NF', 'type': 'artist', 'uri': 'spotify:artist:6fOMl44jA4Sp5b9PpYCkzz'}]
+Artista 'NF' inserido com sucesso no banco de dados.
+Album 'HOPE' inserido com sucesso no banco de dados.
+Faixa 'HOPE' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj'}, 'href': 'https://api.spotify.com/v1/artists/4xFUf1FHVy696Q1JQZMTRj', 'id': '4xFUf1FHVy696Q1JQZMTRj', 'name': 'Carrie Underwood', 'type': 'artist', 'uri': 'spotify:artist:4xFUf1FHVy696Q1JQZMTRj'}]
+Artista 'Carrie Underwood' inserido com sucesso no banco de dados.
+Album 'Some Hearts' inserido com sucesso no banco de dados.
+Faixa 'Before He Cheats' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q'}, 'href': 'https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q', 'id': '53XhwfbYqKCa1cC15pYq2q', 'name': 'Imagine Dragons', 'type': 'artist', 'uri': 'spotify:artist:53XhwfbYqKCa1cC15pYq2q'}]
+Artista 'Imagine Dragons' inserido com sucesso no banco de dados.
+Album 'Bones' inserido com sucesso no banco de dados.
+Faixa 'Bones' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5'}, 'href': 'https://api.spotify.com/v1/artists/0YHgnSkV3S5mvSSCTRWDi5', 'id': '0YHgnSkV3S5mvSSCTRWDi5', 'name': "Poor Man's Poison", 'type': 'artist', 'uri': 'spotify:artist:0YHgnSkV3S5mvSSCTRWDi5'}]
+Artista 'Poor Man's Poison' inserido com sucesso no banco de dados.
+Album 'Feed the Machine' inserido com sucesso no banco de dados.
+Faixa 'Feed the Machine' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue'}, 'href': 'https://api.spotify.com/v1/artists/6kXm2YCtdUOpRYNKeKhfue', 'id': '6kXm2YCtdUOpRYNKeKhfue', 'name': 'Ryan Gosling', 'type': 'artist', 'uri': 'spotify:artist:6kXm2YCtdUOpRYNKeKhfue'}, {'external_urls': {'spotify': 'https://open.spotify.com/artist/68Uwx1d3EbjDJhYsLjqvIq'}, 'href': 'https://api.spotify.com/v1/artists/68Uwx1d3EbjDJhYsLjqvIq', 'id': '68Uwx1d3EbjDJhYsLjqvIq', 'name': 'Emma Stone', 'type': 'artist', 'uri': 'spotify:artist:68Uwx1d3EbjDJhYsLjqvIq'}]
+Artista 'Ryan Gosling' inserido com sucesso no banco de dados.
+Artista 'Emma Stone' inserido com sucesso no banco de dados.
+Album 'City Of Stars (From La La Land Soundtrack)' inserido com sucesso no banco de dados.
+Faixa 'City Of Stars - From "La La Land" Soundtrack' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue'}, 'href': 'https://api.spotify.com/v1/artists/6kXm2YCtdUOpRYNKeKhfue', 'id': '6kXm2YCtdUOpRYNKeKhfue', 'name': 'Ryan Gosling', 'type': 'artist', 'uri': 'spotify:artist:6kXm2YCtdUOpRYNKeKhfue'}]
+Artista 'Ryan Gosling' inserido com sucesso no banco de dados.
+Erro ao inserir o album 'Barbie The Album' no banco de dados: insert or update on table "albums" violates foreign key constraint "albums_artist_id_fkey"
+DETAIL:  Key (artist_id)=(0LyfQWJT6nXafLPZqxe9Of) is not present in table "artists".
+
+Erro ao inserir a faixa 'I'm Just Ken' no banco de dados: insert or update on table "tracks" violates foreign key constraint "tracks_album_id_fkey"
+DETAIL:  Key (album_id)=(0BaIaHcyBXuOWeM4Aas4EW) is not present in table "albums".
+
+Erro ao inserir a faixa '3zXIvb4nZ3cTdT8CsbTy3U' da playlist '0LYpdcWIRk19rC026Rnmbi' no banco de dados: insert or update on table "playlisttracks" violates foreign key constraint "playlisttracks_track_id_fkey"
+DETAIL:  Key (track_id)=(3zXIvb4nZ3cTdT8CsbTy3U) is not present in table "tracks".
+
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria'}, 'href': 'https://api.spotify.com/v1/artists/4luZExkmgn39Kj5XsYWria', 'id': '4luZExkmgn39Kj5XsYWria', 'name': 'Jagwar Twin', 'type': 'artist', 'uri': 'spotify:artist:4luZExkmgn39Kj5XsYWria'}]
+Artista 'Jagwar Twin' inserido com sucesso no banco de dados.
+Album 'Bad Feeling (Oompa Loompa)' inserido com sucesso no banco de dados.
+Faixa 'Bad Feeling (Oompa Loompa)' inserido com sucesso no banco de dados.
+[{'external_urls': {'spotify': 'https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5'}, 'href': 'https://api.spotify.com/v1/artists/0YHgnSkV3S5mvSSCTRWDi5', 'id': '0YHgnSkV3S5mvSSCTRWDi5', 'name': "Poor Man's Poison", 'type': 'artist', 'uri': 'spotify:artist:0YHgnSkV3S5mvSSCTRWDi5'}]
+Artista 'Poor Man's Poison' inserido com sucesso no banco de dados.
+Album 'Hell's Comin' with Me' inserido com sucesso no banco de dados.
+Faixa 'Hell's Comin' with Me' inserido com sucesso no banco de dados.

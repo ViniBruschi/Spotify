@@ -50,7 +50,7 @@ def insertAlbum(album):
             release_date = None
         cursor = connection.cursor()
         sql = """INSERT INTO public.Albums (id, name, release_date, total_tracks, artist_id, album_type) VALUES (%s, %s, %s, %s, %s, %s) ON CONFLICT DO NOTHING"""
-        val = (album['id'], album['name'], release_date, album['total_tracks'], album['artists'][0]['id'], album['type'])
+        val = (album['id'], album['name'], release_date, album['total_tracks'], album['artists'][0]['id'], album['album_type'])
         cursor.execute(sql, val)
         connection.commit()
         print(f"Album '{album['name']}' inserido com sucesso no banco de dados.")
@@ -61,7 +61,7 @@ def insertAlbum(album):
             cursor.close()
             connection.close()
 
-def findAlbum(album_name):
+def findAlbum(album_id):
     try:
         connection = psycopg2.connect(
             user=DB_USER,
@@ -71,15 +71,15 @@ def findAlbum(album_name):
             database=DB_NAME
         )
         cursor = connection.cursor()
-        sql = "SELECT id FROM public.Albums WHERE name ILIKE %s"
-        cursor.execute(sql, ('%' + album_name + '%',))
+        sql = "SELECT id, name FROM public.Albums WHERE id = %s"
+        cursor.execute(sql, (album_id,))
         album = cursor.fetchone()
         if album:
-            return album[0]
+            return album
         else:
             return None
     except (Exception, psycopg2.Error) as error:
-        print(f"Erro ao buscar o album '{album_name}' no banco de dados:", error)
+        print(f"Erro ao buscar o album '{album[1]}' no banco de dados:", error)
     finally:
         if connection:
             cursor.close()
@@ -90,16 +90,16 @@ if __name__ == "__main__":
     with open(filepath, 'r', encoding='utf-8') as file:
         access_token = getAccessToken(client_id, client_secret)
         for line in file:
-            artist_name = line.strip()
-            artist_data = findArtist(artist_name)
+            artist_id = line.strip()
+            artist_data = findArtist(artist_id)
             if artist_data:
-                print(f"Artista encontrado no banco de dados.")
-                albums = getAlbums(artist_data, access_token)
+                print(f"Artista {artist_data[1]} encontrado no banco de dados.")
+                albums = getAlbums(artist_id, access_token)
                 if albums:
                     for album in albums:
                         insertAlbum(album)
                 else:
-                    print(f"Nenhum Album encontrado para o artista '{artist_name}'.")
+                    print(f"Nenhum Album encontrado para o artista '{artist_data[1]}'.")
             else:
-                print(f"Artista '{artist_name}' não encontrado no banco de dados.")
+                print(f"Artista não encontrado no banco de dados.")
 

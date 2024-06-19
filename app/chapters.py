@@ -61,7 +61,7 @@ def insertChapter(audiobook_id, chapter):
             release_date = None
 
         cursor = connection.cursor()
-        sql = """INSERT INTO public.Chapters (id, name, chapter_number, duration_ms, release_date, audiobook_id) VALUES (%s, %s, %s, %s, %s, %s) ON CONFLICT DO NOTHING"""
+        sql = """INSERT INTO public.Chapters (id, name, chapter_number, duration_ms, release_date, audiobook_id) VALUES (%s, %s, %s, %s, %s, %s)"""
         val = (chapter['id'], chapter['name'], chapter['chapter_number'], chapter['duration_ms'], release_date, audiobook_id)
         cursor.execute(sql, val)
         connection.commit()
@@ -75,15 +75,15 @@ def insertChapter(audiobook_id, chapter):
 
 if __name__ == "__main__":
     filepath = os.path.join('dados', 'chapters.txt')
+    access_token = getAccessToken(client_id, client_secret)
     with open(filepath, 'r', encoding='utf-8') as file:
-        access_token = getAccessToken(client_id, client_secret)
         for line in file:
-            audiobook_name = line.strip()
-            audiobook_id = findAudiobook(audiobook_name)
-            if audiobook_id:
+            audiobook_id = line.strip()
+            audiobook_data = findAudiobook(audiobook_id)
+            if audiobook_data:
                 chapters = getChapters(audiobook_id, access_token)
                 if chapters:
                     for chapter in chapters:
                         insertChapter(audiobook_id, chapter)
             else:
-                print(f"Nenhum audiobook foi encontrado para '{audiobook_name}'.")
+                print(f"Nenhum audiobook foi encontrado para '{audiobook_data[1]}'.")

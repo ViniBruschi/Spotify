@@ -71,19 +71,19 @@ def findTrack(track_id):
 
 if __name__ == "__main__":
     filepath = os.path.join('dados', 'tracks.txt')
+    access_token = getAccessToken(client_id, client_secret)
     with open(filepath, 'r', encoding='utf-8') as file:
         for line in file:
-            album_name = line.strip()
-            access_token = getAccessToken(client_id, client_secret)
-            album_data = findAlbum(album_name)
+            album_id = line.strip()
+            album_data = findAlbum(album_id)
             if album_data:
-                print(f"Album encontrado no banco de dados.")
-                tracks = getTracks(album_data, access_token)
+                print(f"Album {album_data[1]} encontrado no banco de dados.")
+                tracks = getTracks(album_id, access_token)
                 if tracks:
                     for track in tracks:
-                        insertTrack(album_data, track)
+                        insertTrack(album_id, track)
                 else:
-                    print(f"Nenhuma Faixa encontrada para o album '{album_name}'.")
+                    print(f"Nenhuma Faixa encontrada para o album '{album_data[1]}'.")
             else:
-                print(f"Album '{album_name}' não encontrado no banco de dados.")
+                print(f"Album '{album_data[1]}' não encontrado no banco de dados.")
 

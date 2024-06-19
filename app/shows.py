@@ -9,26 +9,23 @@ DB_HOST = os.getenv("DB_HOST")
 DB_PORT = os.getenv("DB_PORT")
 DB_NAME = os.getenv("DB_NAME")
 
-def getShow(show_name, access_token):
-    url = 'https://api.spotify.com/v1/search'
-    params = {
-        'q': show_name,
-        'type': 'show',
-        'limit': 1,
-        'market': 'BR'
-    }
+def getShows(show_id, access_token):
+    url = f'https://api.spotify.com/v1/shows?ids={show_id}'
     headers = {
         'Authorization': f'Bearer {access_token}'
+    }
+    params = {
+        'market': 'BR'
     }
     response = requests.get(url, params=params, headers=headers)
     if response.status_code == 200:
         data = response.json()
-        return data['shows']['items'][0] if data['shows']['items'] else None
+        return data['shows'] if data['shows'] else None
     else:
-        print('Erro ao buscar podcast:', response.status_code)
+        print('Erro ao buscar Podcasts:', response.status_code)
         return None
 
-def insertShows(show):
+def insertShow(show):
     try:
         connection = psycopg2.connect(
             user=DB_USER,
@@ -50,7 +47,7 @@ def insertShows(show):
             cursor.close()
             connection.close()
 
-def findShow(show_name):
+def findShow(show_id):
     try:
         connection = psycopg2.connect(
             user=DB_USER,
@@ -60,15 +57,16 @@ def findShow(show_name):
             database=DB_NAME
         )
         cursor = connection.cursor()
-        sql = "SELECT id FROM public.Shows WHERE name ILIKE %s"
-        cursor.execute(sql, ('%' + show_name + '%',))
+        sql = "SELECT id, name FROM public.Shows WHERE id = %s"
+        cursor.execute(sql, (show_id,))
         show = cursor.fetchone()
         if show:
-            return show[0]
+            print(f"Podcast '{show[1]}' encontrado no banco de dados")
+            return show
         else:
             return None
     except (Exception, psycopg2.Error) as error:
-        print(f"Erro ao buscar o podcast '{show_name}' no banco de dados:", error)
+        print(f"Erro ao buscar o podcast '{show[1]}' no banco de dados:", error)
     finally:
         if connection:
             cursor.close()
@@ -76,12 +74,18 @@ def findShow(show_name):
 
 if __name__ == "__main__":
     filepath = os.path.join('dados', 'shows.txt')
+    access_token = getAccessToken(client_id, client_secret)
+    shows_ids = []
     with open(filepath, 'r', encoding='utf-8') as file:
-        access_token = getAccessToken(client_id, client_secret)
         for line in file:
-            show_name = line.strip()
-            show_data = getShow(show_name, access_token)
-            if show_data:
-                insertShows(show_data)
-            else:
-                print(f"Nenhum podcast foi encontrado para '{show_name}'.")
+            show_id = line.strip()
+            if show_id:
+                shows_ids.append(show_id)
+                if len(shows_ids) == 50:
+                    shows = getShows(','.join(shows_ids), access_token)
+                    if shows:
+                        for show in shows:
+                            insertShow(show)
+                    else:
+                        print("Nenhum podcast foi encontrado.")
+                    shows_ids = []

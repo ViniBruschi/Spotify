@@ -9,22 +9,17 @@ DB_HOST = os.getenv("DB_HOST")
 DB_PORT = os.getenv("DB_PORT")
 DB_NAME = os.getenv("DB_NAME")
 
-def getArtist(artist_name, access_token):
-    url = 'https://api.spotify.com/v1/search'
-    params = {
-        'q': artist_name,
-        'type': 'artist',
-        'limit': 1
-    }
+def getArtists(artists_id, access_token):
+    url = f'https://api.spotify.com/v1/artists?ids={artists_id}'
     headers = {
         'Authorization': f'Bearer {access_token}'
     }
-    response = requests.get(url, params=params, headers=headers, timeout=10)
+    response = requests.get(url, headers=headers)
     if response.status_code == 200:
         data = response.json()
-        return data['artists']['items'][0] if data['artists']['items'] else None
+        return data['artists'] if data['artists'] else None
     else:
-        print('Erro ao buscar artista:', response.status_code)
+        print('Erro ao buscar artistas:', response.status_code)
         return None
 
 def insertArtist(artist):
@@ -49,7 +44,7 @@ def insertArtist(artist):
             cursor.close()
             connection.close()
 
-def findArtist(artist_name):
+def findArtist(artist_id):
     try:
         connection = psycopg2.connect(
             user=DB_USER,
@@ -59,15 +54,15 @@ def findArtist(artist_name):
             database=DB_NAME
         )
         cursor = connection.cursor()
-        sql = "SELECT id FROM public.Artists WHERE name ILIKE %s"
-        cursor.execute(sql, ('%' + artist_name + '%',))
+        sql = "SELECT id, name FROM public.Artists WHERE id = %s"
+        cursor.execute(sql, (artist_id,))
         artist = cursor.fetchone()
         if artist:
-            return artist[0]
+            return artist
         else:
             return None
     except (Exception, psycopg2.Error) as error:
-        print(f"Erro ao buscar o artista '{artist_name}' no banco de dados:", error)
+        print(f"Erro ao buscar o artista '{artist[1]}' no banco de dados:", error)
     finally:
         if connection:
             cursor.close()
@@ -75,12 +70,18 @@ def findArtist(artist_name):
 
 if __name__ == "__main__":
     filepath = os.path.join('dados', 'artists.txt')
+    access_token = getAccessToken(client_id, client_secret)
+    artist_ids = []
     with open(filepath, 'r', encoding='utf-8') as file:
-        access_token = getAccessToken(client_id, client_secret)
         for line in file:
-            artist_name = line.strip()
-            artist_data = getArtist(artist_name, access_token)
-            if artist_data:
-                insertArtist(artist_data)
-            else:
-                print(f"Nenhum artista foi encontrado para '{artist_name}'.")
+            artist_id = line.strip()
+            if artist_id:
+                artist_ids.append(artist_id)
+                if len(artist_ids) == 50:
+                    artists = getArtists(','.join(artist_ids), access_token)
+                    if artists:
+                        for artist in artists:
+                            insertArtist(artist)
+                    else:
+                        print("Nenhum artista foi encontrado.")
+                    artist_ids = []

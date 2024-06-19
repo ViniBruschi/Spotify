@@ -9,26 +9,23 @@ DB_HOST = os.getenv("DB_HOST")
 DB_PORT = os.getenv("DB_PORT")
 DB_NAME = os.getenv("DB_NAME")
 
-def getAudiobook(audiobook_name, access_token):
-    url = 'https://api.spotify.com/v1/search'
-    params = {
-        'q': audiobook_name,
-        'type': 'audiobook',
-        'limit': 1,
-        'market': 'US'
-    }
+def getAudiobooks(audiobook_id, access_token):
+    url = f'https://api.spotify.com/v1/audiobooks?ids={audiobook_id}'
     headers = {
         'Authorization': f'Bearer {access_token}'
+    }
+    params = {
+        'market': 'US'
     }
     response = requests.get(url, params=params, headers=headers)
     if response.status_code == 200:
         data = response.json()
-        return data['audiobooks']['items'][0] if data['audiobooks']['items'] else None
+        return data['audiobooks'] if data['audiobooks'] else None
     else:
-        print('Erro ao buscar audiobook:', response.status_code)
+        print('Erro ao buscar audiobooks:', response.status_code)
         return None
 
-def insertAudiobooks(audiobook):
+def insertAudiobook(audiobook):
     try:
         connection = psycopg2.connect(
             user=DB_USER,
@@ -38,7 +35,7 @@ def insertAudiobooks(audiobook):
             database=DB_NAME
         )
         cursor = connection.cursor()
-        sql = """INSERT INTO public.Audiobooks (id, name, authors, narrators, publisher, total_chapters) VALUES (%s, %s, %s, %s, %s, %s) ON CONFLICT DO NOTHING"""
+        sql = """INSERT INTO public.Audiobooks (id, name, authors, narrators, publisher, total_chapters) VALUES (%s, %s, %s, %s, %s, %s)"""
         authors = [author['name'] for author in audiobook['authors']]
         narrators = [narrator['name'] for narrator in audiobook['narrators']]
         val = (audiobook['id'], audiobook['name'], authors, narrators, audiobook['publisher'], audiobook['total_chapters'])
@@ -52,7 +49,7 @@ def insertAudiobooks(audiobook):
             cursor.close()
             connection.close()
 
-def findAudiobook(audiobook_name):
+def findAudiobook(audiobook_id):
     try:
         connection = psycopg2.connect(
             user=DB_USER,
@@ -62,16 +59,16 @@ def findAudiobook(audiobook_name):
             database=DB_NAME
         )
         cursor = connection.cursor()
-        sql = "SELECT id FROM public.Audiobooks WHERE name ILIKE %s"
-        cursor.execute(sql, ('%' + audiobook_name + '%',))
+        sql = "SELECT id, name FROM public.Audiobooks WHERE id = %s"
+        cursor.execute(sql, (audiobook_id,))
         audiobook = cursor.fetchone()
         if audiobook:
-            print(f"Audiobook '{audiobook_name}' encontrado no banco de dados")
-            return audiobook[0]
+            print(f"Audiobook '{audiobook[1]}' encontrado no banco de dados")
+            return audiobook
         else:
             return None
     except (Exception, psycopg2.Error) as error:
-        print(f"Erro ao buscar o audiobook '{audiobook_name}' no banco de dados:", error)
+        print(f"Erro ao buscar o audiobook '{audiobook[1]}' no banco de dados:", error)
     finally:
         if connection:
             cursor.close()
@@ -79,12 +76,18 @@ def findAudiobook(audiobook_name):
             
 if __name__ == "__main__":
     filepath = os.path.join('dados', 'audiobooks.txt')
+    access_token = getAccessToken(client_id, client_secret)
+    audiobooks_ids = []
     with open(filepath, 'r', encoding='utf-8') as file:
-        access_token = getAccessToken(client_id, client_secret)
         for line in file:
-            audiobook_name = line.strip()
-            audiobook_data = getAudiobook(audiobook_name, access_token)
-            if audiobook_data:
-                insertAudiobooks(audiobook_data)
-            else:
-                print(f"Nenhum audiobook foi encontrado para '{audiobook_name}'.")
+            audiobook_id = line.strip()
+            if audiobook_id:
+                audiobooks_ids.append(audiobook_id)
+                if len(audiobooks_ids) == 50:
+                    audiobooks = getAudiobooks(','.join(audiobooks_ids), access_token)
+                    if audiobooks:
+                        for audiobook in audiobooks:
+                            insertAudiobook(audiobook)
+                    else:
+                        print("Nenhum audiobook foi encontrado.")
+                    audiobooks_ids = []

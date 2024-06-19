@@ -15,13 +15,27 @@ def getEpisodes(show_id, access_token):
     headers = {
         'Authorization': f'Bearer {access_token}'
     }
-    response = requests.get(url, headers=headers)
-    if response.status_code == 200:
-        data = response.json()
-        return data['items']
-    else:
-        print('Erro ao buscar episódios:', response.status_code)
-        return None
+    limit = 50
+    offset = 0
+    all_episodes = []
+    while True:
+        params = {
+            'limit': limit,
+            'offset': offset,
+            'market': 'BR'
+        }
+        response = requests.get(url, headers=headers, params=params)
+        if response.status_code == 200:
+            data = response.json()
+            episodes = data.get('items', [])
+            all_episodes.extend(episodes)
+            if len(episodes) < limit:
+                break
+            offset += limit
+        else:
+            print(f'Erro ao buscar episódios do podcast {show_id}:', response.status_code)
+            return None
+    return all_episodes
 
 def insertEpisode(show_id, episode):
     try:
@@ -47,19 +61,16 @@ def insertEpisode(show_id, episode):
 
 if __name__ == "__main__":
     filepath = os.path.join('dados', 'episodes.txt')
+    access_token = getAccessToken(client_id, client_secret)
     with open(filepath, 'r', encoding='utf-8') as file:
-        access_token = getAccessToken(client_id, client_secret)
         for line in file:
-            show_name = line.strip()
-            show_data = findShow(show_name)
+            show_id = line.strip()
+            show_data = findShow(show_id)
             if show_data:
-                print(f"Podcast encontrado no banco de dados.")
-                episodes = getEpisodes(show_data, access_token)
+                episodes = getEpisodes(show_id, access_token)
                 if episodes:
                     for episode in episodes:
-                        insertEpisode(show_data, episode)
-                else:
-                    print(f"Nenhum Episódio encontrado para o Podcast '{show_name}'.")
+                        insertEpisode(show_id, episode)
             else:
-                print(f"Podcast '{show_name}' não encontrado no banco de dados.")
+                print(f"Nenhum audiobook foi encontrado para '{show_data[1]}'.")
 

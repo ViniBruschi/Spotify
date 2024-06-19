@@ -1,9 +1,9 @@
-import os
-import requests
-import psycopg2
+import os, requests, psycopg2
 from dotenv import load_dotenv
 from spotify_credentials import client_id, client_secret, getAccessToken
-from tracks import findTrack
+from tracks import insertTrack
+from artists import insertArtist, getArtists
+from albums import insertAlbum
 
 load_dotenv()
 
@@ -26,6 +26,34 @@ def getPlaylist(playlist_id, access_token):
         print('Erro ao buscar playlist:', response.status_code)
         return None
 
+def getPlaylistItems(playlist_id, access_token):
+    url = f'https://api.spotify.com/v1/playlists/{playlist_id}/tracks'
+    headers = {
+        'Authorization': f'Bearer {access_token}'
+    }
+    limit = 50
+    offset = 0
+    all_items = []
+    while True:
+        params = {
+            'limit': limit,
+            'offset': offset,
+            'market': 'BR'
+        }
+        response = requests.get(url, headers=headers, params=params)
+        if response.status_code == 200:
+            data = response.json()
+            episodes = data.get('items', [])
+            all_items.extend(episodes)
+            if len(episodes) < limit:
+                break
+            offset += limit
+        else:
+            print('Erro ao buscar playlist:', response.status_code)
+            return None
+    return all_items
+
+
 def insertPlaylist(playlist):
     try:
         connection = psycopg2.connect(
@@ -36,7 +64,7 @@ def insertPlaylist(playlist):
             database=DB_NAME
         )
         cursor = connection.cursor()
-        sql = """INSERT INTO public.Playlists (id, name, display_name, description, collaborative, user_id) VALUES (%s, %s, %s, %s, %s, %s) ON CONFLICT DO NOTHING"""
+        sql = """INSERT INTO public.Playlists (id, name, display_name, description, collaborative, user_id) VALUES (%s, %s, %s, %s, %s, %s)"""
         val = (playlist['id'], playlist['name'], playlist['owner']['display_name'], playlist['description'], playlist['collaborative'], playlist['owner']['id'])
         cursor.execute(sql, val)
         connection.commit()
@@ -100,21 +128,25 @@ def insertPlaylistTrack(playlist_id, track_id):
 
 if __name__ == "__main__":
     filepath = os.path.join('dados', 'playlists.txt')
+    access_token = getAccessToken(client_id, client_secret)
     with open(filepath, 'r', encoding='utf-8') as file:
         for line in file:
             playlist_id = line.strip()
-            access_token = getAccessToken(client_id, client_secret)
             playlist_data = getPlaylist(playlist_id, access_token)
             if playlist_data:
                 insertPlaylist(playlist_data)
-                tracks = getPlaylistTracks(playlist_id, access_token)
-                if tracks:
-                    for track_item in tracks:
-                        track = track_item['track']
-                        track_id = findTrack(track['id'])
-                        if track_id:
-                            insertPlaylistTrack(playlist_data['id'], track['id'])
-                        else:
-                            print(f"Faixa {track['name']} não encontrada no banco de dados")
+                items = getPlaylistItems(playlist_id, access_token)
+                for item in items:
+                    artists = item['track']['artists']
+                    album = item['track']['album']
+                    track = item['track']
+                    if artists:
+                        for artist in artists:
+                            insertArtist(getArtists(artist['id'], access_token)[0])
+                    if album:
+                        insertAlbum(album)
+                    if track:
+                        insertTrack(album['id'], track)
+                        insertPlaylistTrack(playlist_id, track['id'])
             else:
                 print(f"Nenhuma playlist foi encontrada para '{playlist_id}'.")
