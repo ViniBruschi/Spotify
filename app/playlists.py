@@ -105,7 +105,7 @@ def getPlaylistTracks(playlist_id, access_token):
 
     return all_tracks
 
-def insertPlaylistTrack(playlist_id, track_id):
+def insertPlaylistTrack(playlist_id, track_id, added_at):
     try:
         connection = psycopg2.connect(
             user=DB_USER,
@@ -115,8 +115,8 @@ def insertPlaylistTrack(playlist_id, track_id):
             database=DB_NAME
         )
         cursor = connection.cursor()
-        sql = """INSERT INTO public.PlaylistTracks (playlist_id, track_id) VALUES (%s, %s) ON CONFLICT DO NOTHING"""
-        val = (playlist_id, track_id)
+        sql = """INSERT INTO public.PlaylistTracks (playlist_id, track_id, added_at) VALUES (%s, %s, %s) ON CONFLICT DO NOTHING"""
+        val = (playlist_id, track_id, added_at)
         cursor.execute(sql, val)
         connection.commit()
     except (Exception, psycopg2.Error) as error:
@@ -147,6 +147,6 @@ if __name__ == "__main__":
                         insertAlbum(album)
                     if track:
                         insertTrack(album['id'], track)
-                        insertPlaylistTrack(playlist_id, track['id'])
+                        insertPlaylistTrack(playlist_id, track['id'], item['added_at'])
             else:
                 print(f"Nenhuma playlist foi encontrada para '{playlist_id}'.")
