@@ -89,5 +89,6 @@ CREATE TABLE public.Episodes (
 CREATE TABLE public.PlaylistTracks (
     playlist_id VARCHAR(255) REFERENCES public.Playlists(id),
     track_id VARCHAR(255) REFERENCES public.Tracks(id),
+    added_at DATE,
     PRIMARY KEY (playlist_id, track_id)
 );
