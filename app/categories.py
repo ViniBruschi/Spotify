@@ -53,7 +53,7 @@ def insertCategories(category):
             (category['id'], category['name'])
         )
         connection.commit()
-        print(f"Categoria {category['name']} foi inserida no banco de dados!")
+        print(f"Categoria {category['name']} foi inserida no banco de dados.")
     except (Exception, psycopg2.Error) as error:
         print(f"Erro ao inserir categoria {category['name']} no banco de dados:", error)
     finally:
